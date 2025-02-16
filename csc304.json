@@ -1,0 +1,706 @@
+[
+  {
+    "question": "The problem associated with the manual approach of managing data in a business organization is ________.",
+    "answers": ["information retrieval", "file system", "prototyping system", "business system"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["information retrieval"]
+  },
+  {
+    "question": "Ways of Information Representations can be done include the following except?",
+    "answers": ["Categorization", "Abstracting", "Inheritance", "Indexing"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Inheritance"]
+  },
+  {
+    "question": "The ability to modify the logical schema without causing application programs to be rewritten is called ________.",
+    "correct_answers": ["Logical Data Independence"]
+  },
+  {
+    "question": "A set of formulas (sentences) called integrity constraints imposed on a database is called ________.",
+    "correct_answers": ["Database schema"]
+  },
+  {
+    "question": "Information is provided to Information Management (IM) by ________.",
+    "answers": ["information", "data", "fact", "schema"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["data"]
+  },
+  {
+    "question": "Examples of DDL include all except?",
+    "answers": ["ALTER", "TRUNCATE", "DELETE", "CREATE"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["DELETE"]
+  },
+  {
+    "question": "Components of Information Management include the following except?",
+    "answers": ["Enterprise Data Management", "Logical Data Management", "Information Asset Management", "Business Intelligence and Performance Management"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Logical Data Management"]
+  },
+  {
+    "question": "There are two main classes of indexing schemata for document retrieval systems (pick two options only).",
+    "answers": ["form based indexing", "content based indexing"],
+    "correct_answer_indices": [0, 1],
+    "correct_answers": ["form based indexing", "content based indexing"]
+  },
+  {
+    "question": "The ratio of the number of relevant documents retrieved over the total number of documents retrieved is called ________.",
+    "answers": ["Recall", "Precision", "Error Rate", "Halsted Table"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Precision"]
+  },
+  {
+    "question": "A subschema is the applications programmer’s view of the data within the database pertinent to the specific application.",
+    "answers": ["True", "False"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["True"]
+  },
+  {
+    "question": "The three basic approaches given by Faloutsos include all except:",
+    "answers": ["Text pattern search", "Inverted file search", "Binary search", "Signature search"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Binary search"]
+  },
+  {
+    "question": "The purpose of database normalization is to:",
+    "answers": ["Reduce redundancy", "Improve security", "Speed up queries", "Simplify backups"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Reduce redundancy"]
+  },
+  {
+    "question": "The difference between data and information is:",
+    "answers": ["Data is raw; information is processed.", "Data is digital; information is physical.", "Data is structured; information is unstructured."],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Data is raw; information is processed."]
+  },
+  {
+    "question": "Types of databases by organizational approach exclude:",
+    "answers": ["Relational", "Distributed", "Developer Databases", "Operational"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Developer Databases"]
+  },
+  {
+    "question": "The GRANT statement belongs to which SQL class?",
+    "answers": ["DCL (Data Control Language)", "DML (Data Manipulation Language)", "TCL (Transaction Control Language)"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["DCL (Data Control Language)"]
+  },
+  {
+    "question": "The REVOKE statement is an example of:",
+    "answers": ["Data Control Language", "Transaction Control Language"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Data Control Language"]
+  },
+  {
+    "question": "The View Level in databases is also known as:",
+    "answers": ["External Level", "Conceptual Level", "Internal Level"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["External Level"]
+  },
+  {
+    "question": "Data integrity ensures:",
+    "answers": ["Accuracy and consistency of data.", "Fast retrieval of data.", "Encryption of data."],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Accuracy and consistency of data."]
+  },
+  {
+    "question": "A 'sistring' in text retrieval refers to:",
+    "answers": ["A substring starting at position *i*", "A compressed text format", "A type of index"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["A substring starting at position *i*"]
+  },
+  {
+    "question": "The Damm algorithm is used to:",
+    "answers": ["Detect human-induced data errors", "Encrypt databases", "Optimize queries"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Detect human-induced data errors"]
+  },
+  {
+    "question": "The mission of a DBMS includes:",
+    "answers": ["Data creation, manipulation, storage, and transfer.", "Replacing all manual processes.", "Eliminating hardware dependencies."],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Data creation, manipulation, storage, and transfer."]
+  },
+  {
+    "question": "The primary key constraint enforces:",
+    "answers": ["Uniqueness and non-null values.", "Referential integrity.", "Data encryption."],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Uniqueness and non-null values."]
+  },
+  {
+    "question": "A 'flat file' database is typically searched via:",
+    "answers": ["Pattern matching", "SQL queries", "Neural networks"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Pattern matching"]
+  },
+  {
+    "question": "The primary goal of Logical Data Independence is to:",
+    "answers": ["Allow schema changes without affecting applications.", "Improve query performance.", "Secure data from unauthorized access."],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Allow schema changes without affecting applications."]
+  },
+  {
+    "question": "A 'PAT tree' is short for:",
+    "answers": ["Patricia tree", "Pattern tree", "Primary attribute tree"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Patricia tree"]
+  },
+  {
+    "question": "Data mediation refers to:",
+    "answers": ["Indirect data mapping via a mediating model.", "Conflict resolution in databases.", "Data encryption during transfer."],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Indirect data mapping via a mediating model."]
+  },
+  {
+    "question": "The DROP command in SQL is classified as:",
+    "answers": ["DDL (Data Definition Language)", "DML (Data Manipulation Language)", "TCL (Transaction Control Language)"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["DDL (Data Definition Language)"]
+  },
+  {
+    "question": "The primary component missing in Microsoft Excel for it to be a DBMS is:",
+    "answers": ["Query efficiency", "Data storage", "User interfaces"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Query efficiency"]
+  },
+  {
+    "question": "The two levels of Data Independence are:",
+    "answers": ["Logical and Physical", "Internal and External", "Schema and Instance"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Logical and Physical"]
+  },
+  {
+    "question": "Many measures of retrieval effectiveness have been proposed. The most commonly used are (pick two):",
+    "answers": ["Recall", "Precision", "Halsted table", "Error rate"],
+    "correct_answer_indices": [0, 1],
+    "correct_answers": ["Recall", "Precision"]
+  },
+  {
+    "question": "The ratio of the number of relevant documents retrieved over the total number of documents retrieved is called:",
+    "answers": ["Halsted Table", "Error", "Precision", "Recall"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Precision"]
+  },
+  {
+    "question": "The basic concepts in Data Mapping include the following except:",
+    "answers": ["Data-Driven Mapping", "Semantic Mapping", "Hand-coded Graphical Manual", "Syntactic Mapping"],
+    "correct_answer_indices": [3],
+    "correct_answers": ["Syntactic Mapping"]
+  },
+  {
+    "question": "The method of investigating data characteristics is called:",
+    "answers": ["Data Engineering", "Data Analysis", "Data Science", "Data Administration"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Data Analysis"]
+  },
+  {
+    "question": "The automated conflation of related words to a common root is called:",
+    "answers": ["Stemming", "Truncation", "Stoplist", "Thesaurus Operations"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Stemming"]
+  },
+  {
+    "question": "A list of words excluded from indexing is called:",
+    "answers": ["Stoplist", "Stemming", "Truncation", "Weighting"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Stoplist"]
+  },
+  {
+    "question": "Data independence means:",
+    "answers": ["Programs are not dependent on logical attributes of data.", "Data is defined separately from programs.", "Both B and C."],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Both B and C."]
+  },
+  {
+    "question": "The ratio of relevant documents retrieved to total documents retrieved is called:",
+    "answers": ["Precision", "Recall", "Error Rate", "Halsted Table"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Precision"]
+  },
+  {
+    "question": "The two views in Microsoft Access Database are:",
+    "answers": ["Design View and Datasheet View", "External View and Layout View", "Logical View and Physical View"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Design View and Datasheet View"]
+  },
+  {
+    "question": "The process of defining a link between two data models is called:",
+    "correct_answers": ["Data Mapping"]
+  },
+  {
+    "question": "The reason Excel is not a DBMS is because it lacks:",
+    "answers": ["Query efficiency", "Data storage", "User interfaces"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Query efficiency"]
+  },
+  {
+    "question": "The three types of cardinality in relationships are:",
+    "answers": ["One-to-One, One-to-Many, Many-to-Many", "Single, Double, Triple", "Primary, Secondary, Tertiary"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["One-to-One, One-to-Many, Many-to-Many"]
+  },
+  {
+    "question": "A database system’s purpose is to:",
+    "answers": ["Record and maintain information for decision-making.", "Replace manual processes entirely.", "Store data without organization."],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Record and maintain information for decision-making."]
+  },
+  {
+    "question": "The query to create a table is classified as:",
+    "answers": ["DDL", "DML", "TCL"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["DDL"]
+  },
+  {
+    "question": "The syntax for the SQL INSERT command is:",
+    "answers": ["INSERT INTO Table (fields) VALUES (values)", "INSERT TO Table VALUES (values)", "INSERT Table fields = values"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["INSERT INTO Table (fields) VALUES (values)"]
+  },
+  {
+    "question": "XACML stands for:",
+    "correct_answers": ["Extensible Access Control Markup Language"]
+  },
+  {
+    "question": "Disk encryption is typically called:",
+    "correct_answers": ["On-the-fly encryption"]
+  },
+  {
+    "question": "The limitations enforced on database tables are called:",
+    "correct_answers": ["Constraints"]
+  },
+  {
+    "question": "The 'L' in ETL stands for:",
+    "correct_answers": ["Load"]
+  },
+  {
+    "question": "A scalable system improves performance by:",
+    "answers": ["Adding hardware proportionally.", "Optimizing software.", "Reducing data size."],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Adding hardware proportionally."]
+  },
+  {
+    "question": "The professional groups in information fields exclude:",
+    "answers": ["Database design", "Information dispatch", "Information storage/retrieval"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Information dispatch"]
+  },
+  {
+    "question": "UWA stands for:",
+    "correct_answers": ["User Working Area"]
+  },
+  {
+    "question": "The problem associated with manual approach of managing data in a business organization is:",
+    "answers": ["Information retrieval", "File system", "Prototyping system", "Business system"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Information retrieval"]
+  },
+  {
+    "question": "Ways of Information Representations can be done include the following except:",
+    "answers": ["Categorization", "Abstracting", "Inheritance", "Indexing"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Inheritance"]
+  },
+  {
+    "question": "The ability to modify the logical schema without causing application programs to be rewritten is called:",
+    "correct_answers": ["Logical Data Independence"]
+  },
+  {
+    "question": "A set of formulas (sentences) called integrity constraints imposed on a database is called:",
+    "correct_answers": ["Database schema"]
+  },
+  {
+    "question": "Information is provided to Information Management (IM) by:",
+    "answers": ["Information", "Data", "Fact", "Schema"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Data"]
+  },
+  {
+    "question": "Examples of DDL include all except:",
+    "answers": ["ALTER", "TRUNCATE", "DELETE", "CREATE"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["DELETE"]
+  },
+  {
+    "question": "Information management frameworks include the following except:",
+    "answers": ["Non-compliance", "Quality", "Security", "Sharing"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Non-compliance"]
+  },
+  {
+    "question": "Data which is lost cannot be recovered.",
+    "answers": ["True", "False"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["False"]
+  },
+  {
+    "question": "What refers to activities for facilitating the flow of information?",
+    "correct_answers": ["Information management"]
+  },
+  {
+    "question": "A foreign key constraint is not dependent on a unique database index from the parent table.",
+    "answers": ["True", "False"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["False"]
+  },
+  {
+    "question": "In information retrieval, who initiates the search?",
+    "answers": ["Search bar", "Database", "Computer", "User"],
+    "correct_answer_indices": [3],
+    "correct_answers": ["User"]
+  },
+  {
+    "question": "A software system to define/create/maintain a database is called:",
+    "answers": ["Database Management System", "Schema", "Database", "Metadata"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Database Management System"]
+  },
+  {
+    "question": "Information can be in the form of (pick two):",
+    "answers": ["Logical", "Contextual", "Electronic", "Physical"],
+    "correct_answer_indices": [2, 3],
+    "correct_answers": ["Electronic", "Physical"]
+  },
+  {
+    "question": "The columns in a database table are called:",
+    "correct_answers": ["Fields"]
+  },
+  {
+    "question": "Types of Integrity Constraints except:",
+    "answers": ["Preferential integrity", "Entity integrity", "Domain integrity", "Referential integrity"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Preferential integrity"]
+  },
+  {
+    "question": "1. The problem associated with manual approach of managing data in a business organization is:",
+    "answers": ["Information retrieval", "File system", "Prototyping system", "Business system"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Information retrieval"]
+  },
+  {
+    "question": "2. Ways of Information Representations can be done include the following except:",
+    "answers": ["Categorization", "Abstracting", "Inheritance", "Indexing"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Inheritance"]
+  },
+  {
+    "question": "3. The ability to modify the logical schema without causing application programs to be rewritten is called:",
+    "answers": ["Logical Data Independence"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Logical Data Independence"]
+  },
+  {
+    "question": "4. A set of formulas (sentences) called integrity constraints imposed on a database is called:",
+    "answers": ["Database schema"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Database schema"]
+  },
+  {
+    "question": "5. Information is provided to Information Management (IM) by:",
+    "answers": ["Information", "Data", "Fact", "Schema"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Data"]
+  },
+  {
+    "question": "6. Examples of DDL include all except:",
+    "answers": ["ALTER", "TRUNCATE", "DELETE", "CREATE"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["DELETE"]
+  },
+  {
+    "question": "7. Information management frameworks include the following except:",
+    "answers": ["Non-compliance", "Quality", "Security", "Sharing"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Non-compliance"]
+  },
+  {
+    "question": "8. Data which is lost cannot be recovered.",
+    "answers": ["True", "False"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["False"]
+  },
+  {
+    "question": "9. What refers to activities for facilitating the flow of information?",
+    "answers": ["Information management"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Information management"]
+  },
+  {
+    "question": "10. A foreign key constraint is not dependent on a unique database index from the parent table.",
+    "answers": ["True", "False"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["False"]
+  },
+  {
+    "question": "11. In information retrieval, who initiates the search?",
+    "answers": ["Search bar", "Database", "Computer", "User"],
+    "correct_answer_indices": [3],
+    "correct_answers": ["User"]
+  },
+  {
+    "question": "12. A software system to define/create/maintain a database is called:",
+    "answers": ["Database Management System", "Schema", "Database", "Metadata"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Database Management System"]
+  },
+  {
+    "question": "13. Information can be in the form of (pick two):",
+    "answers": ["Logical", "Contextual", "Electronic", "Physical"],
+    "correct_answer_indices": [2, 3],
+    "correct_answers": ["Electronic", "Physical"]
+  },
+  {
+    "question": "14. The columns in a database table are called:",
+    "answers": ["Fields"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Fields"]
+  },
+  {
+    "question": "15. Types of Integrity Constraints except:",
+    "answers": ["Preferential integrity", "Entity integrity", "Domain integrity", "Referential integrity"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Preferential integrity"]
+  },
+  {
+    "question": "16. The collection of database objects is called:",
+    "answers": ["Table", "Schema", "Subtype", "Instance"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Schema"]
+  },
+  {
+    "question": "17. SQL is classified into how many types?",
+    "answers": ["Two", "Four", "Five", "Three"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Two"]
+  },
+  {
+    "question": "18. Which statement about data independence is correct?",
+    "answers": [
+      "Logical independence is harder than physical.",
+      "Physical independence is harder than logical.",
+      "Both are equally difficult."
+    ],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Logical independence is harder than physical."]
+  },
+  {
+    "question": "19. Data Efficiency can be quantified.",
+    "answers": ["True", "False"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["True"]
+  },
+  {
+    "question": "20. The ability to handle data growth is called:",
+    "answers": ["Scalability"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Scalability"]
+  },
+  {
+    "question": "21. Boolean queries use binary operators.",
+    "answers": ["True", "False"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["False"]
+  },
+  {
+    "question": "22. The SQL statement to change a table’s definition is:",
+    "answers": ["SELECT", "CREATE", "UPDATE", "ALTER"],
+    "correct_answer_indices": [3],
+    "correct_answers": ["ALTER"]
+  },
+  {
+    "question": "23. ASCII stands for:",
+    "answers": [
+      "American Standard Code for Information Interchange",
+      "American Standardized Code for Information Interchange",
+      "American Standard Code for Interchange Information",
+      "American Standardized Code for Interchange Information"
+    ],
+    "correct_answer_indices": [0],
+    "correct_answers": ["American Standard Code for Information Interchange"]
+  },
+  {
+    "question": "24. Retrieval effectiveness metrics (pick two):",
+    "answers": ["Recall", "Precision", "Halsted table", "Error rate"],
+    "correct_answer_indices": [0, 1],
+    "correct_answers": ["Recall", "Precision"]
+  },
+  {
+    "question": "25. Trees over sistrings in text are called:",
+    "answers": ["PAT trees", "BAT trees", "WAT trees", "NAT trees"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["PAT trees"]
+  },
+  {
+    "question": "26. EPAL stands for:",
+    "answers": ["Enterprise Privacy Authorization Language"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Enterprise Privacy Authorization Language"]
+  },
+  {
+    "question": "27. The manual approach for managing data in libraries is:",
+    "answers": ["File system", "Cataloging system", "Business system", "Prototyping system"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Cataloging system"]
+  },
+  {
+    "question": "28. The association between data, privacy, and legal issues is called:",
+    "answers": ["Data Privacy"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Data Privacy"]
+  },
+  {
+    "question": "29. The query to delete a database is classified as:",
+    "answers": ["TCL", "DML", "DDL", "DCL"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["DDL"]
+  },
+  {
+    "question": "30. Metadata is:",
+    "answers": ["Data about data", "Raw facts", "Structured information", "A database component"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Data about data"]
+  },
+  {
+    "question": "31. Components of Information Management include the following except:",
+    "answers": ["Logical Data Management", "Information Asset Management", "Business Intelligence and Performance Management", "Enterprise Data Management"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Logical Data Management"]
+  },
+  {
+    "question": "32. The two main classes of indexing schemata for document retrieval systems are (pick two):",
+    "answers": ["Content-based indexing", "Query-based indexing", "Form-based indexing", "Data-based indexing"],
+    "correct_answer_indices": [0, 2],
+    "correct_answers": ["Content-based indexing", "Form-based indexing"]
+  },
+  {
+    "question": "33. Database managers have several capabilities except:",
+    "answers": [
+      "The ability to attach and detach",
+      "The ability to back up and restore",
+      "The ability to create",
+      "The inability to clone"
+    ],
+    "correct_answer_indices": [3],
+    "correct_answers": ["The inability to clone"]
+  },
+  {
+    "question": "34. DBMS manages the database with specific commands called:",
+    "answers": [
+      "Structured Modelling Language",
+      "Structured Definition Language",
+      "Structured Query Language",
+      "Structured Identification Language"
+    ],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Structured Query Language"]
+  },
+  {
+    "question": "35. The three-schema architecture includes all except:",
+    "answers": ["Internal", "External", "Contextual", "Conceptual"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Contextual"]
+  },
+  {
+    "question": "36. The structure of an inverted file entry is usually:",
+    "answers": [
+      "Keyword, field-ID, and document-ID",
+      "Keyword, document-ID, and field-ID",
+      "Document-ID, keyword, and field-ID"
+    ],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Keyword, document-ID, and field-ID"]
+  },
+  {
+    "question": "37. The advantage of a computerized database over a manual database is:",
+    "answers": [
+      "Solve redundancy and consistency issues",
+      "Faster data entry",
+      "Faster data retrieval",
+      "All of the above"
+    ],
+    "correct_answer_indices": [3],
+    "correct_answers": ["All of the above"]
+  },
+  {
+    "question": "38. A system whose performance improves proportionally with added hardware is called:",
+    "answers": ["A scalable system", "A performing system", "A capable system"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["A scalable system"]
+  },
+  {
+    "question": "39. The \"E\" in ETL stands for:",
+    "answers": ["Extract"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Extract"]
+  },
+  {
+    "question": "40. The process of collecting and digitizing documents for business use is called:",
+    "answers": ["Information capture"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Information capture"]
+  },
+  {
+    "question": "41. The users who interact with databases via easy menus are called:",
+    "answers": ["Naive users", "Sophisticated users", "Casual users", "Stand-alone users"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Naive users"]
+  },
+  {
+    "question": "42. Cardinality in relationships can be categorized into:",
+    "answers": ["One", "Two", "Three", "Four"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Three"]
+  },
+  {
+    "question": "43. The limitations enforced on database tables are called:",
+    "answers": ["Constraints"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Constraints"]
+  },
+  {
+    "question": "44. The reason Microsoft Excel is not a DBMS is because it lacks:",
+    "answers": ["Efficient querying"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Efficient querying"]
+  },
+  {
+    "question": "45. The professional groups involved in information fields exclude:",
+    "answers": ["Database design", "Information dispatch", "Information storage/retrieval", "Economics of information"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Information dispatch"]
+  },
+  {
+    "question": "46. WS-Privacy stands for:",
+    "answers": ["Web Service Privacy"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Web Service Privacy"]
+  },
+  {
+    "question": "47. The syntax for an SQL INSERT query is:",
+    "answers": [
+      "INSERT INTO Table (fields) VALUES (values)",
+      "INSERT TO Table (fields) VALUES (values)",
+      "INSERT Table fields VALUES values"
+    ],
+    "correct_answer_indices": [0],
+    "correct_answers": ["INSERT INTO Table (fields) VALUES (values)"]
+  },
+  {
+    "question": "48. NULL in databases represents:",
+    "answers": ["A placeholder for missing data", "The same as 0 or blank", "An error state"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["A placeholder for missing data"]
+  },
+  {
+    "question": "49. Data mapping methods exclude:",
+    "answers": ["Syntactic Mapping", "Semantic Mapping", "Data-Driven Mapping", "Hand-coded Graphical Manual"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Syntactic Mapping"]
+  },
+  {
+    "question": "50. The hierarchical database model is also called:",
+    "answers": ["Tree structure", "Plex structure", "Table structure"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Tree structure"]
+  }
+]
