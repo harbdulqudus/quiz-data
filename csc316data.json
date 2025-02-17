@@ -36,6 +36,42 @@
     "correct_answers": ["Semantic analysis"]
   },
   {
+    "question": "The chief purpose of a compiler in a learning environment is to:",
+    "answers": ["Execute programs", "Identify errors", "Optimize code", "Link libraries"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Identify errors"]
+  },
+  {
+    "question": "Which is NOT a type of error correction?",
+    "answers": ["Orthographic", "Syntactic", "Semantic", "Automatic"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Semantic"]
+  },
+  {
+    "question": "Runtime errors like division by zero are detected by:",
+    "answers": ["Compiler", "Runtime system", "Linker", "Preprocessor"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Runtime system"]
+  },
+  {
+    "question": "Type-3 grammars generate:",
+    "answers": ["Context-sensitive languages", "Regular languages", "Recursively enumerable languages", "Context-free languages"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Regular languages"]
+  },
+  {
+    "question": "A formal language’s interpretation is studied under:",
+    "answers": ["Lexical analysis", "Formal semantics", "Syntax diagrams", "Parsing"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Formal semantics"]
+  },
+  {
+    "question": "Bottom-up parsing is characterized by:",
+    "answers": ["Starting from the root", "Handling larger grammar classes", "Using recursive descent", "Being easy to write manually"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Handling larger grammar classes"]
+  },
+  {
     "question": "Which FORTRAN version introduced object-oriented programming?",
     "answers": ["FORTRAN 77", "FORTRAN 90", "FORTRAN 2003", "FORTRAN 2008"],
     "correct_answer_indices": [2],
@@ -70,45 +106,7 @@
     "answers": ["Optional code", "Repetition of elements", "Comments", "Error handling"],
     "correct_answer_indices": [1],
     "correct_answers": ["Repetition of elements"]
-  }
-,
-  {
-    "question": "Which FORTRAN version introduced object-oriented programming?",
-    "answers": ["FORTRAN 77", "FORTRAN 90", "FORTRAN 2003", "FORTRAN 2008"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["FORTRAN 2003"]
   },
-  {
-    "question": "FORTRAN was initially developed for:",
-    "answers": ["Business applications", "Scientific computing", "Web development", "Database management"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Scientific computing"]
-  },
-  {
-    "question": "The FREQUENCY statement in early FORTRAN was used for:",
-    "answers": ["Branch probability hints", "Dynamic memory allocation", "Array operations", "Error recovery"],
-    "correct_answer_indices": [0],
-    "correct_answers": ["Branch probability hints"]
-  },
-  {
-    "question": "COBOL is primarily used for:",
-    "answers": ["System programming", "Business applications", "Game development", "Graphics rendering"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Business applications"]
-  },
-  {
-    "question": "Which is a key characteristic of COBOL?",
-    "answers": ["Pointers", "Self-documenting syntax", "User-defined types", "Low-level optimization"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Self-documenting syntax"]
-  },
-  {
-    "question": "In COBOL syntax, the ellipsis (...) indicates:",
-    "answers": ["Optional code", "Repetition of elements", "Comments", "Error handling"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Repetition of elements"]
-  }
-,
   {
     "question": "A loader’s primary function is to:",
     "answers": ["Translate assembly code", "Load machine code into memory", "Link libraries", "Detect syntax errors"],
@@ -144,8 +142,7 @@
     "answers": ["COBOL", "FORTRAN", "C", "Pascal"],
     "correct_answer_indices": [1],
     "correct_answers": ["FORTRAN"]
-  }
-,
+  },
   {
     "question": "COBOL’s hierarchical structure ensures changes are isolated in the:",
     "answers": ["Procedure Division", "Environment Division", "Data Division", "Working-Storage Section"],
@@ -175,7 +172,155 @@
     "answers": ["It breaks down the source code into tokens", "It checks the code for syntax errors", "It generates object code", "It links the code with external libraries"],
     "correct_answer_indices": [0],
     "correct_answers": ["It breaks down the source code into tokens"]
+  },
+  {
+    "question": "What is the output of the lexical analysis phase?",
+    "answers": ["Abstract syntax tree (AST)", "Parse tree", "Tokens", "Executable file"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Tokens"]
+  },
+  {
+    "question": "Which type of grammar generates regular languages?",
+    "answers": ["Type-0 grammar", "Type-1 grammar", "Type-2 grammar", "Type-3 grammar"],
+    "correct_answer_indices": [3],
+    "correct_answers": ["Type-3 grammar"]
+  },
+  {
+    "question": "What is the role of an intermediate code in the compilation process?",
+    "answers": ["It is directly executed by the hardware", "It serves as a platform-independent code between the source code and machine code", "It contains all error messages for the source code", "It represents the final machine code output"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["It serves as a platform-independent code between the source code and machine code"]
+  },
+  {
+    "question": "Which of the following is NOT a part of a compiler's front end?",
+    "answers": ["Lexical analysis", "Syntax analysis", "Code optimization", "Semantic analysis"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Code optimization"]
+  },
+  {
+    "question": "What is the main function of a syntax analyzer in a compiler?",
+    "answers": ["To perform error detection at runtime", "To optimize the source code for faster execution", "To check whether the tokens follow the grammar rules of the language", "To generate the final executable program"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["To check whether the tokens follow the grammar rules of the language"]
+  },
+  {
+    "question": "What type of linking allows the executable code to take advantage of new features in updated libraries without recompilation?",
+    "answers": ["Static linking", "Cross-linking", "Dynamic linking", "Forward linking"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Dynamic linking"]
+  },
+  {
+    "question": "In which phase of compilation is the symbol table created?",
+    "answers": ["Lexical analysis", "Syntax analysis", "Semantic analysis", "Code generation"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Semantic analysis"]
+  },
+  {
+    "question": "What does a parser do in the compilation process?",
+    "answers": ["It links the program with external libraries", "It breaks down the source code into a sequence of tokens", "It checks the tokens against the grammar rules and builds a parse tree", "It converts intermediate code into machine code"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["It checks the tokens against the grammar rules and builds a parse tree"]
+  },
+  {
+    "question": "What is the purpose of error handling in a compiler?",
+    "answers": ["To debug the program after it has been executed", "To catch and report errors in the source code during the compilation process", "To automatically fix all syntax errors in the code", "To generate an optimized version of the source code"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["To catch and report errors in the source code during the compilation process"]
+  },
+  {
+    "question": "Which of the following is NOT a function of the compiler's back end?",
+    "answers": ["Code generation", "Register allocation", "Code optimization", "Lexical analysis"],
+    "correct_answer_indices": [3],
+    "correct_answers": ["Lexical analysis"]
+  },
+  {
+    "question": "What is a characteristic of a self-compiler?",
+    "answers": ["It generates machine code for a different computer", "It interprets code without compiling it", "It compiles code and generates machine code for the same computer", "It translates machine code into assembly language"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["It compiles code and generates machine code for the same computer"]
+  },
+  {
+    "question": "What is a common task of the 'middle-end' of a compiler?",
+    "answers": ["Generating machine code", "Performing semantic analysis", "Conducting code optimizations", "Converting source code to object code"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Conducting code optimizations"]
+  },
+  {
+    "question": "Which of the following is a feature of an interpreter but NOT a compiler?",
+    "answers": ["Translates the entire program at once", "Translates and executes code line by line", "Generates object code", "Performs code optimization"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Translates and executes code line by line"]
+  },
+  {
+    "question": "Which phase of a compiler is responsible for converting high-level source code into assembly code?",
+    "answers": ["Lexical analysis", "Syntax analysis", "Code generation", "Semantic analysis"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Code generation"]
+  },
+  {
+    "question": "In the context of assembly language, what does a 'label' represent?",
+    "answers": ["A keyword in high-level programming languages", "A symbolic name given to a memory address", "A machine code instruction", "A directive to the linker"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["A symbolic name given to a memory address"]
+  },
+  {
+    "question": "What is the function of a 'preprocessor' in a compiler?",
+    "answers": ["It translates source code into object code", "It interprets code line by line", "It processes directives like #include and #define before compilation", "It generates machine code directly"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["It processes directives like #include and #define before compilation"]
+  },
+  {
+    "question": "Which grammar is used to generate context-free languages?",
+    "answers": ["Type-1 grammar", "Type-2 grammar", "Type-3 grammar", "Type-0 grammar"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Type-2 grammar"]
+  },
+  {
+    "question": "What is a primary advantage of dynamic linking?",
+    "answers": ["Faster execution", "Smaller executable file size", "Automatic code optimization", "Complete independence from external libraries"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Smaller executable file size"]
+  },
+  {
+    "question": "What does the term 'link-time error' refer to?",
+    "answers": ["An error detected during the linking phase when external libraries are combined", "An error that occurs when the program is executed", "An error detected during the semantic analysis phase", "A syntax error in the source code"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["An error detected during the linking phase when external libraries are combined"]
+  },
+  {
+    "question": "What is the main goal of code optimization in a compiler?",
+    "answers": ["To remove all errors from the program", "To reduce the size of the source code", "To improve the performance of the generated code", "To convert high-level code directly to machine code"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["To improve the performance of the generated code"]
+  },
+  {
+    "question": "Which type of error is most likely detected during the lexical analysis phase?",
+    "answers": ["Division by zero", "Incorrect usage of variables", "Invalid characters in the source code", "Misuse of function parameters"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Invalid characters in the source code"]
+  },
+  {
+    "question": "What is a source program?",
+    "answers": ["The output produced by a compiler", "The machine code that the compiler generates", "The input to the compiler that needs to be translated", "A type of assembly language"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["The input to the compiler that needs to be translated"]
+  },
+  {
+    "question": "What is the primary function of a loader in the compilation process?",
+    "answers": ["To translate high-level code into assembly language", "To load machine code into system memory for execution", "To generate object code from source code", "To optimize the source code"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["To load machine code into system memory for execution"]
+  },
+  {
+    "question": "What type of error does an interpreter typically encounter?",
+    "answers": ["Logical errors", "Syntax errors", "Runtime errors", "Compile-time errors"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Runtime errors"]
+  },
+  {
+    "question": "What does the #define directive do in a compiler?",
+    "answers": ["It imports library functions", "It defines a constant or macro that can replace a specific word in the source code", "It converts a source file into an object file", "It generates machine code"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["It defines a constant or macro that can replace a specific word in the source code"]
   }
 ]
-
-
