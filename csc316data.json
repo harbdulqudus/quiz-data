@@ -1,0 +1,181 @@
+[
+  {
+    "question": "What is the primary output of a compiler?",
+    "answers": ["Source code", "Object code", "Assembly code", "Executable code"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Object code"]
+  },
+  {
+    "question": "A two-pass assembler reads the source code:",
+    "answers": ["Once", "Twice", "Three times", "Continuously"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Twice"]
+  },
+  {
+    "question": "Which is slower but uses less memory?",
+    "answers": ["Compiler", "Interpreter", "Linker", "Loader"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Interpreter"]
+  },
+  {
+    "question": "The compiler’s middle end is responsible for:",
+    "answers": ["Lexical analysis", "Code optimization", "Register allocation", "Syntax checking"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Code optimization"]
+  },
+  {
+    "question": "What does CST stand for?",
+    "answers": ["Core Syntax Tree", "Concrete Syntax Tree", "Compiled Source Tree", "Code Structure Table"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Concrete Syntax Tree"]
+  },
+  {
+    "question": "Which phase checks for type errors?",
+    "answers": ["Lexical analysis", "Syntax analysis", "Semantic analysis", "Code generation"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Semantic analysis"]
+  },
+  {
+    "question": "Which FORTRAN version introduced object-oriented programming?",
+    "answers": ["FORTRAN 77", "FORTRAN 90", "FORTRAN 2003", "FORTRAN 2008"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["FORTRAN 2003"]
+  },
+  {
+    "question": "FORTRAN was initially developed for:",
+    "answers": ["Business applications", "Scientific computing", "Web development", "Database management"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Scientific computing"]
+  },
+  {
+    "question": "The FREQUENCY statement in early FORTRAN was used for:",
+    "answers": ["Branch probability hints", "Dynamic memory allocation", "Array operations", "Error recovery"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Branch probability hints"]
+  },
+  {
+    "question": "COBOL is primarily used for:",
+    "answers": ["System programming", "Business applications", "Game development", "Graphics rendering"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Business applications"]
+  },
+  {
+    "question": "Which is a key characteristic of COBOL?",
+    "answers": ["Pointers", "Self-documenting syntax", "User-defined types", "Low-level optimization"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Self-documenting syntax"]
+  },
+  {
+    "question": "In COBOL syntax, the ellipsis (...) indicates:",
+    "answers": ["Optional code", "Repetition of elements", "Comments", "Error handling"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Repetition of elements"]
+  }
+,
+  {
+    "question": "Which FORTRAN version introduced object-oriented programming?",
+    "answers": ["FORTRAN 77", "FORTRAN 90", "FORTRAN 2003", "FORTRAN 2008"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["FORTRAN 2003"]
+  },
+  {
+    "question": "FORTRAN was initially developed for:",
+    "answers": ["Business applications", "Scientific computing", "Web development", "Database management"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Scientific computing"]
+  },
+  {
+    "question": "The FREQUENCY statement in early FORTRAN was used for:",
+    "answers": ["Branch probability hints", "Dynamic memory allocation", "Array operations", "Error recovery"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Branch probability hints"]
+  },
+  {
+    "question": "COBOL is primarily used for:",
+    "answers": ["System programming", "Business applications", "Game development", "Graphics rendering"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Business applications"]
+  },
+  {
+    "question": "Which is a key characteristic of COBOL?",
+    "answers": ["Pointers", "Self-documenting syntax", "User-defined types", "Low-level optimization"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Self-documenting syntax"]
+  },
+  {
+    "question": "In COBOL syntax, the ellipsis (...) indicates:",
+    "answers": ["Optional code", "Repetition of elements", "Comments", "Error handling"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Repetition of elements"]
+  }
+,
+  {
+    "question": "A loader’s primary function is to:",
+    "answers": ["Translate assembly code", "Load machine code into memory", "Link libraries", "Detect syntax errors"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Load machine code into memory"]
+  },
+  {
+    "question": "Static linking copies code:",
+    "answers": ["At runtime", "Byte-by-byte from libraries", "From dynamic libraries", "Only for optimization"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Byte-by-byte from libraries"]
+  },
+  {
+    "question": "The #include directive in C:",
+    "answers": ["Defines macros", "Copies file contents", "Allocates memory", "Executes functions"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Copies file contents"]
+  },
+  {
+    "question": "Which automaton corresponds to Type-2 grammars?",
+    "answers": ["Turing machine", "Pushdown automaton", "Finite state automaton", "Linear bounded automaton"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Pushdown automaton"]
+  },
+  {
+    "question": "Which language uses punched cards with fixed column formatting?",
+    "answers": ["Python", "FORTRAN", "Java", "COBOL"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["FORTRAN"]
+  },
+  {
+    "question": "The DO loop was introduced in:",
+    "answers": ["COBOL", "FORTRAN", "C", "Pascal"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["FORTRAN"]
+  }
+,
+  {
+    "question": "COBOL’s hierarchical structure ensures changes are isolated in the:",
+    "answers": ["Procedure Division", "Environment Division", "Data Division", "Working-Storage Section"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Environment Division"]
+  },
+  {
+    "question": "Which of the following is a type of error typically caught during semantic analysis?",
+    "answers": ["Unmatched parentheses", "Variable not declared", "Missing semicolon", "Misuse of reserved words"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Variable not declared"]
+  },
+  {
+    "question": "In a compiler, what does the term 'code optimization' refer to?",
+    "answers": ["Eliminating all errors from the code", "Modifying the intermediate code to improve performance", "Converting high-level code directly to machine code", "Debugging and executing the program"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Modifying the intermediate code to improve performance"]
+  },
+  {
+    "question": "In what phase does a compiler detect and report 'type mismatch' errors?",
+    "answers": ["Lexical analysis", "Syntax analysis", "Semantic analysis", "Code generation"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Semantic analysis"]
+  },
+  {
+    "question": "What does a lexical analyzer do?",
+    "answers": ["It breaks down the source code into tokens", "It checks the code for syntax errors", "It generates object code", "It links the code with external libraries"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["It breaks down the source code into tokens"]
+  }
+]
+
+
