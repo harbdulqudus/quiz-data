@@ -156,13 +156,13 @@
     "correct_answers": ["Variable not declared"]
   },
   {
-    "question": "In a compiler, what does the term 'code optimization' refer to?",
+    "question": "In a compiler, what does the term \"code optimization\" refer to?",
     "answers": ["Eliminating all errors from the code", "Modifying the intermediate code to improve performance", "Converting high-level code directly to machine code", "Debugging and executing the program"],
     "correct_answer_indices": [1],
     "correct_answers": ["Modifying the intermediate code to improve performance"]
   },
   {
-    "question": "In what phase does a compiler detect and report 'type mismatch' errors?",
+    "question": "In what phase does a compiler detect and report \"type mismatch\" errors?",
     "answers": ["Lexical analysis", "Syntax analysis", "Semantic analysis", "Code generation"],
     "correct_answer_indices": [2],
     "correct_answers": ["Semantic analysis"]
@@ -190,42 +190,6 @@
     "answers": ["It is directly executed by the hardware", "It serves as a platform-independent code between the source code and machine code", "It contains all error messages for the source code", "It represents the final machine code output"],
     "correct_answer_indices": [1],
     "correct_answers": ["It serves as a platform-independent code between the source code and machine code"]
-  },
-  {
-    "question": "Which of the following is NOT a part of a compiler's front end?",
-    "answers": ["Lexical analysis", "Syntax analysis", "Code optimization", "Semantic analysis"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Code optimization"]
-  },
-  {
-    "question": "What is the main function of a syntax analyzer in a compiler?",
-    "answers": ["To perform error detection at runtime", "To optimize the source code for faster execution", "To check whether the tokens follow the grammar rules of the language", "To generate the final executable program"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["To check whether the tokens follow the grammar rules of the language"]
-  },
-  {
-    "question": "What type of linking allows the executable code to take advantage of new features in updated libraries without recompilation?",
-    "answers": ["Static linking", "Cross-linking", "Dynamic linking", "Forward linking"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Dynamic linking"]
-  },
-  {
-    "question": "In which phase of compilation is the symbol table created?",
-    "answers": ["Lexical analysis", "Syntax analysis", "Semantic analysis", "Code generation"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Semantic analysis"]
-  },
-  {
-    "question": "What does a parser do in the compilation process?",
-    "answers": ["It links the program with external libraries", "It breaks down the source code into a sequence of tokens", "It checks the tokens against the grammar rules and builds a parse tree", "It converts intermediate code into machine code"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["It checks the tokens against the grammar rules and builds a parse tree"]
-  },
-  {
-    "question": "What is the purpose of error handling in a compiler?",
-    "answers": ["To debug the program after it has been executed", "To catch and report errors in the source code during the compilation process", "To automatically fix all syntax errors in the code", "To generate an optimized version of the source code"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["To catch and report errors in the source code during the compilation process"]
   },
   {
     "question": "Which of the following is NOT a function of the compiler's back end?",
@@ -322,5 +286,408 @@
     "answers": ["It imports library functions", "It defines a constant or macro that can replace a specific word in the source code", "It converts a source file into an object file", "It generates machine code"],
     "correct_answer_indices": [1],
     "correct_answers": ["It defines a constant or macro that can replace a specific word in the source code"]
+  },
+  {
+    "question": "Which of the following statements is true about a cross assembler?",
+    "answers": ["It runs on one computer and generates machine code for the same computer", "It runs on one computer and generates machine code for a different computer", "It compiles high-level code directly to machine language", "It interprets assembly code without generating machine code"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["It runs on one computer and generates machine code for a different computer"]
+  },
+  {
+    "question": "What does a linker do when it cannot find a required library for a function?",
+    "answers": ["It generates an error and stops the compilation process", "It proceeds with the compilation without linking the function", "It replaces the function with a default one", "It converts the function into machine code"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["It generates an error and stops the compilation process"]
+  },
+  {
+    "question": "What is an 'object code'?",
+    "answers": ["The human-readable source code", "The final executable code", "The intermediate machine code generated by a compiler", "The error-free code written in a high-level language"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["The intermediate machine code generated by a compiler"]
+  },
+  {
+    "question": "Which type of grammar can be accepted by a non-deterministic pushdown automaton?",
+    "answers": ["Type-0 grammar", "Type-1 grammar", "Type-2 grammar", "Type-3 grammar"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Type-2 grammar"]
+  },
+  {
+    "question": "Which of the following is an example of a high-level language that requires a compiler for execution?",
+    "answers": ["Machine code", "Assembly language", "Java", "Binary code"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Java"]
+  },
+  {
+    "question": "Which of the following components is part of a compiler's back-end?",
+    "answers": ["Lexical analysis", "Semantic analysis", "Syntax analysis", "Code generation"],
+    "correct_answer_indices": [3],
+    "correct_answers": ["Code generation"]
+  },
+  {
+    "question": "How many times does a two-pass assembler read the source code?",
+    "answers": ["Once", "Twice", "Thrice", "Multiple times based on errors"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Twice"]
+  },
+  {
+    "question": "Which of the following errors can a lexical analyzer detect?",
+    "answers": ["Type mismatch errors", "Missing semicolon", "Invalid characters in the code", "Incorrect function usage"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Invalid characters in the code"]
+  },
+  {
+    "question": "What does the term 'static linking' refer to in a compilation process?",
+    "answers": ["Linking files dynamically at runtime", "Linking files using shared libraries", "Linking libraries at compile time and including them in the executable", "Linking only user-defined functions"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Linking libraries at compile time and including them in the executable"]
+  },
+  {
+    "question": "What is the difference between a one-pass and a two-pass assembler?",
+    "answers": ["A one-pass assembler reads and translates the code in one pass, while a two-pass assembler reads it twice", "A one-pass assembler reads machine code, while a two-pass assembler reads assembly code", "A one-pass assembler produces machine code, while a two-pass assembler produces object code", "A one-pass assembler only translates assembly code without optimization, while a two-pass assembler optimizes the code"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["A one-pass assembler reads and translates the code in one pass, while a two-pass assembler reads it twice"]
+  },
+  {
+    "question": "What does the term 'recursively enumerable languages' refer to in the context of grammars?",
+    "answers": ["Languages generated by context-free grammars", "Languages accepted by a finite state automaton", "Languages generated by unrestricted (Type-0) grammars", "Languages that can be parsed in linear time"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Languages generated by unrestricted (Type-0) grammars"]
+  },
+  {
+    "question": "What is a lexical analyzer also called?",
+    "answers": ["Parser", "Scanner", "Interpreter", "Optimizer"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Scanner"]
+  },
+  {
+    "question": "Which part of the compiler performs optimizations like constant propagation and dead code elimination?",
+    "answers": ["Lexical analysis", "Front end", "Middle end", "Back end"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Middle end"]
+  },
+  {
+    "question": "Which of the following is an advantage of using an interpreter over a compiler?",
+    "answers": ["Faster execution of code", "Immediate detection of runtime errors", "Compiled code can be reused", "Code runs directly from machine language"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Immediate detection of runtime errors"]
+  },
+  {
+    "question": "What is a dynamic linker used for?",
+    "answers": ["Linking library files at runtime", "Linking library files at compile time", "Generating object code from source code", "Removing errors from the source code"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Linking library files at runtime"]
+  },
+  {
+    "question": "Which phase of the compiler generates an internal representation of the program?",
+    "answers": ["Syntax analysis", "Code generation", "Lexical analysis", "Semantic analysis"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Syntax analysis"]
+  },
+  {
+    "question": "In which phase does the compiler perform type checking?",
+    "answers": ["Lexical analysis", "Syntax analysis", "Semantic analysis", "Code generation"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Semantic analysis"]
+  },
+  {
+    "question": "What does a 'directive' in assembly language do?",
+    "answers": ["It performs a machine operation", "It provides instructions to the assembler or compiler about how to process the code", "It generates machine code directly", "It handles runtime errors"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["It provides instructions to the assembler or compiler about how to process the code"]
+  },
+  {
+    "question": "Which of the following errors is most likely to be caught during syntax analysis?",
+    "answers": ["Using an undeclared variable", "Division by zero", "Missing a closing parenthesis", "Incompatible types in an assignment"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Missing a closing parenthesis"]
+  },
+  {
+    "question": "What does a cross compiler do?",
+    "answers": ["Translates machine code for the same computer", "Generates machine code that runs on a different computer", "Interprets code line by line", "Converts object code back to source code"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Generates machine code that runs on a different computer"]
+  },
+  {
+    "question": "Which of the following is a disadvantage of using an interpreter?",
+    "answers": ["It detects errors after every line is executed", "The translated code cannot be saved and reused later", "It optimizes code for faster execution", "It translates and executes the entire program at once"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["The translated code cannot be saved and reused later"]
+  },
+  {
+    "question": "What is the final output of a compiler?",
+    "answers": ["Intermediate code", "Machine code", "Tokens", "Parse tree"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Machine code"]
+  },
+  {
+    "question": "Which of the following is the correct sequence in the compilation process?",
+    "answers": ["Lexical analysis → Syntax analysis → Code generation → Semantic analysis", "Syntax analysis → Lexical analysis → Code generation → Semantic analysis", "Lexical analysis → Syntax analysis → Semantic analysis → Code generation", "Syntax analysis → Lexical analysis → Semantic analysis → Code generation"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Lexical analysis → Syntax analysis → Semantic analysis → Code generation"]
+  },
+  {
+    "question": "What kind of grammar generates context-sensitive languages?",
+    "answers": ["Type-0", "Type-1", "Type-2", "Type-3"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Type-1"]
+  },
+  {
+    "question": "Which of the following is true about a two-pass assembler?",
+    "answers": ["It translates source code in one pass, generating object code directly", "It assigns memory addresses to variables in the first pass and translates code in the second pass", "It generates machine code after optimizing the source code", "It executes the source code line by line"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["It assigns memory addresses to variables in the first pass and translates code in the second pass"]
+  },
+  {
+    "question": "What is a 'symbol table' used for in a compiler?",
+    "answers": ["To store machine code", "To store variable names and their attributes", "To generate error messages", "To optimize the generated code"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["To store variable names and their attributes"]
+  },
+  {
+    "question": "What is the purpose of the #include directive in C programs?",
+    "answers": ["To define constants in the source code", "To include a file from the current directory into the program before compilation", "To import machine code from another program", "To generate object code from a header file"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["To include a file from the current directory into the program before compilation"]
+  },
+  {
+    "question": "What is the primary responsibility of the back-end in a compiler?",
+    "answers": ["Error detection and correction", "Token generation", "Code optimization and machine code generation", "Lexical analysis"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Code optimization and machine code generation"]
+  },
+  {
+    "question": "Which of the following tools can help identify spelling mistakes in variable names?",
+    "answers": ["Parser", "Symbol table", "Lexical analyzer", "Code generator"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Symbol table"]
+  },
+  {
+    "question": "During which phase are constants and variables assigned memory locations in the final executable?",
+    "answers": ["Lexical analysis", "Syntax analysis", "Code generation", "Semantic analysis"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Code generation"]
+  },
+  {
+    "question": "What does the term 'dynamic linking' mean in the context of compiling?",
+    "answers": ["Linking libraries during runtime rather than at compile time", "Generating the object code dynamically from source code", "Linking machine code to the source program at compile time", "Linking external libraries with static memory allocation"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Linking libraries during runtime rather than at compile time"]
+  },
+  {
+    "question": "What type of error is most likely to occur during semantic analysis?",
+    "answers": ["Mismatched parentheses", "Incorrect assignment of a string to an integer variable", "Use of a reserved keyword", "Invalid syntax in function calls"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Incorrect assignment of a string to an integer variable"]
+  },
+  {
+    "question": "What type of error is most likely to occur during semantic analysis?",
+    "answers": ["Mismatched parentheses", "Incorrect assignment of a string to an integer variable", "Use of a reserved keyword", "Invalid syntax in function calls"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Incorrect assignment of a string to an integer variable"]
+  },
+  {
+    "question": "In which phase is a parse tree constructed?",
+    "answers": ["Lexical analysis", "Syntax analysis", "Semantic analysis", "Code generation"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Syntax analysis"]
+  },
+  {
+    "question": "Which of the following best describes the function of a linker?",
+    "answers": ["It translates high-level code into machine code", "It resolves external references and combines object code into a single executable file", "It interprets code line by line", "It optimizes the code for performance"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["It resolves external references and combines object code into a single executable file"]
+  },
+  {
+    "question": "In a compiled program, what does a loader do?",
+    "answers": ["It links external libraries to the source code", "It loads the machine code into memory and starts execution", "It generates object code from the source program", "It resolves errors in the source code before execution"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["It loads the machine code into memory and starts execution"]
+  },
+  {
+    "question": "What happens in a 'panic-mode' error recovery in a parser?",
+    "answers": ["The parser tries to automatically fix the code", "The parser discards input until it encounters a synchronizing token", "The parser halts the entire compilation process", "The parser continues processing the code without reporting the error"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["The parser discards input until it encounters a synchronizing token"]
+  },
+  {
+    "question": "Which phase of the compiler processes preprocessor directives like #define and #include?",
+    "answers": ["Code generation", "Lexical analysis", "Preprocessing phase", "Semantic analysis"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Preprocessing phase"]
+  },
+  {
+    "question": "Which of the following is true about a compiler's error recovery?",
+    "answers": ["The compiler always halts when it detects an error", "Error recovery helps the compiler to skip past errors and continue processing", "Error recovery automatically fixes all errors in the code", "Error recovery is only performed at runtime"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Error recovery helps the compiler to skip past errors and continue processing"]
+  },
+  {
+    "question": "What type of grammar is used to generate regular languages?",
+    "answers": ["Type-0 grammar", "Type-1 grammar", "Type-2 grammar", "Type-3 grammar"],
+    "correct_answer_indices": [3],
+    "correct_answers": ["Type-3 grammar"]
+  },
+  {
+    "question": "What does the term 'recursively enumerable languages' refer to?",
+    "answers": ["Languages generated by a finite state machine", "Languages generated by context-free grammars", "Languages generated by unrestricted grammars", "Languages generated by context-sensitive grammars"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Languages generated by unrestricted grammars"]
+  },
+  {
+    "question": "Which of the following phases is responsible for removing 'dead code'?",
+    "answers": ["Lexical analysis", "Syntax analysis", "Code optimization", "Code generation"],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Code optimization"]
+  },
+  {
+    "question": "What is the purpose of a linker?",
+    "answers": ["Translate high-level code to machine code", "Combine source code and library code", "Detect syntax errors", "Optimize runtime performance"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Combine source code and library code"]
+  },
+  {
+    "question": "Which directive replaces a word with another in the source code?",
+    "answers": ["#include", "#define", "#pragma", "#ifdef"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["#define"]
+  },
+  {
+    "question": "A cross-compiler generates code for:",
+    "answers": ["The same machine it runs on", "A different machine", "Assembly language", "Intermediate representation"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["A different machine"]
+  },
+  {
+    "question": "The compiler’s back end is primarily responsible for:",
+    "answers": ["Syntax analysis", "Code generation and machine-specific optimizations", "Lexical tokenization", "Type checking"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Code generation and machine-specific optimizations"]
+  },
+  {
+    "question": "Which phase converts tokens into a parse tree?",
+    "answers": ["Lexical analysis", "Syntax analysis", "Semantic analysis", "Code optimization"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Syntax analysis"]
+  },
+  {
+    "question": "What is the output of the lexical analyzer?",
+    "answers": ["Abstract syntax tree", "Sequence of tokens", "Machine code", "Symbol table"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Sequence of tokens"]
+  },
+  {
+    "question": "A missing quotation mark in a string is detected during:",
+    "answers": ["Semantic analysis", "Lexical analysis", "Code generation", "Linking"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Lexical analysis"]
+  },
+  {
+    "question": "Panic-mode recovery discards input until encountering a:",
+    "answers": ["Comment", "Synchronizing token (e.g., `;`)", "Newline", "Keyword"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Synchronizing token (e.g., `;`)"]
+  },
+  {
+    "question": "Which error is detected during semantic analysis?",
+    "answers": ["Missing semicolon", "Undefined variable", "Invalid character", "Division by zero"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Undefined variable"]
+  },
+  {
+    "question": "Which grammar type is unrestricted and Turing-complete?",
+    "answers": ["Type-1", "Type-0", "Type-2", "Type-3"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Type-0"]
+  },
+  {
+    "question": "A context-free grammar uses which automaton for recognition?",
+    "answers": ["Finite state machine", "Pushdown automaton", "Linear bounded automaton", "Turing machine"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Pushdown automaton"]
+  },
+  {
+    "question": "Regular grammars are used to define:",
+    "answers": ["Lexical syntax (e.g., identifiers)", "Nested loops", "Object-oriented structures", "Runtime exceptions"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Lexical syntax (e.g., identifiers)"]
+  },
+  {
+    "question": "FORTRAN 90 introduced support for:",
+    "answers": ["Object-oriented programming", "Array programming and modules", "Dynamic linking", "Parallel processing"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Array programming and modules"]
+  },
+  {
+    "question": "Punched cards in FORTRAN reserved columns 73–80 for:",
+    "answers": ["Comments", "Identification/sequence numbers", "Continuation markers", "Machine code"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Identification/sequence numbers"]
+  },
+  {
+    "question": "The `FREQUENCY` statement in early FORTRAN was used to:",
+    "answers": ["Optimize branch placement", "Allocate memory", "Define loops", "Handle exceptions"],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Optimize branch placement"]
+  },
+  {
+    "question": "COBOL’s `ENVIRONMENT DIVISION` defines:",
+    "answers": ["Business logic", "Hardware and file dependencies", "Data types", "User interfaces"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Hardware and file dependencies"]
+  },
+  {
+    "question": "In COBOL syntax, `$#i` indicates:",
+    "answers": ["Alphanumeric literal", "Numeric or alphanumeric data-item", "String literal", "Comment line"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Numeric or alphanumeric data-item"]
+  },
+  {
+    "question": "Which division contains the program’s logic in COBOL?",
+    "answers": ["IDENTIFICATION DIVISION", "PROCEDURE DIVISION", "DATA DIVISION", "ENVIRONMENT DIVISION"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["PROCEDURE DIVISION"]
+  },
+  {
+    "question": "Which phase assigns memory addresses to variables in assembly?",
+    "answers": ["Lexical analysis", "First pass of a two-pass assembler", "Code generation", "Linking"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["First pass of a two-pass assembler"]
+  },
+  {
+    "question": "Dynamic linking requires libraries to be present:",
+    "answers": ["During compilation", "At runtime", "In the source code", "For optimization"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["At runtime"]
+  },
+  {
+    "question": "The `MOV.B r0, #80` instruction in assembly has:",
+    "answers": ["Label, mnemonic, operand, comment", "Label, mnemonic, operand", "Operand, comment, directive", "Register, literal, opcode"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Label, mnemonic, operand"]
+  },
+  {
+    "question": "Which language uses `DIVISION` and `SECTION` hierarchies?",
+    "answers": ["FORTRAN", "COBOL", "C", "Python"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["COBOL"]
+  },
+  {
+    "question": "The `COMPUTE` statement in COBOL is used for:",
+    "answers": ["File handling", "Arithmetic operations", "Data declaration", "Loop control"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Arithmetic operations"]
+  },
+  {
+    "question": "Which FORTRAN feature allows operations on entire arrays?",
+    "answers": ["DO loops", "Array slicing", "Pointers", "Dynamic memory"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Array slicing"]
+  },
+  {
+    "question": "A 'load map' helps identify errors using:",
+    "answers": ["Line numbers", "Hexadecimal addresses", "Symbolic labels", "Runtime logs"],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Hexadecimal addresses"]
   }
 ]
+
