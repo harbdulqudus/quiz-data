@@ -1,693 +1,365 @@
 [
   {
-    "question": "What is the primary output of a compiler?",
-    "answers": ["Source code", "Object code", "Assembly code", "Executable code"],
+    "question": "What is leadership?",
+    "answers": [
+      "The ability to manage resources",
+      "The process of influencing an organized group toward accomplishing its goals",
+      "The act of giving orders",
+      "The ability to work independently"
+    ],
     "correct_answer_indices": [1],
-    "correct_answers": ["Object code"]
+    "correct_answers": ["The process of influencing an organized group toward accomplishing its goals"]
   },
   {
-    "question": "A two-pass assembler reads the source code:",
-    "answers": ["Once", "Twice", "Three times", "Continuously"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Twice"]
-  },
-  {
-    "question": "Which is slower but uses less memory?",
-    "answers": ["Compiler", "Interpreter", "Linker", "Loader"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Interpreter"]
-  },
-  {
-    "question": "The compiler’s middle end is responsible for:",
-    "answers": ["Lexical analysis", "Code optimization", "Register allocation", "Syntax checking"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Code optimization"]
-  },
-  {
-    "question": "What does CST stand for?",
-    "answers": ["Core Syntax Tree", "Concrete Syntax Tree", "Compiled Source Tree", "Code Structure Table"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Concrete Syntax Tree"]
-  },
-  {
-    "question": "Which phase checks for type errors?",
-    "answers": ["Lexical analysis", "Syntax analysis", "Semantic analysis", "Code generation"],
+    "question": "Which of the following is NOT a trait of a good leader?",
+    "answers": [
+      "Risk-taking",
+      "Effective communication",
+      "Lack of commitment",
+      "Planning"
+    ],
     "correct_answer_indices": [2],
-    "correct_answers": ["Semantic analysis"]
+    "correct_answers": ["Lack of commitment"]
   },
   {
-    "question": "The chief purpose of a compiler in a learning environment is to:",
-    "answers": ["Execute programs", "Identify errors", "Optimize code", "Link libraries"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Identify errors"]
-  },
-  {
-    "question": "Which is NOT a type of error correction?",
-    "answers": ["Orthographic", "Syntactic", "Semantic", "Automatic"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Semantic"]
-  },
-  {
-    "question": "Runtime errors like division by zero are detected by:",
-    "answers": ["Compiler", "Runtime system", "Linker", "Preprocessor"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Runtime system"]
-  },
-  {
-    "question": "Type-3 grammars generate:",
-    "answers": ["Context-sensitive languages", "Regular languages", "Recursively enumerable languages", "Context-free languages"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Regular languages"]
-  },
-  {
-    "question": "A formal language’s interpretation is studied under:",
-    "answers": ["Lexical analysis", "Formal semantics", "Syntax diagrams", "Parsing"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Formal semantics"]
-  },
-  {
-    "question": "Bottom-up parsing is characterized by:",
-    "answers": ["Starting from the root", "Handling larger grammar classes", "Using recursive descent", "Being easy to write manually"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Handling larger grammar classes"]
-  },
-  {
-    "question": "Which FORTRAN version introduced object-oriented programming?",
-    "answers": ["FORTRAN 77", "FORTRAN 90", "FORTRAN 2003", "FORTRAN 2008"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["FORTRAN 2003"]
-  },
-  {
-    "question": "FORTRAN was initially developed for:",
-    "answers": ["Business applications", "Scientific computing", "Web development", "Database management"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Scientific computing"]
-  },
-  {
-    "question": "The FREQUENCY statement in early FORTRAN was used for:",
-    "answers": ["Branch probability hints", "Dynamic memory allocation", "Array operations", "Error recovery"],
+    "question": "What is the difference between leadership and management?",
+    "answers": [
+      "Leadership focuses on vision, while management focuses on execution",
+      "Leadership is about control, while management is about inspiration",
+      "Leadership is about tasks, while management is about people",
+      "There is no difference"
+    ],
     "correct_answer_indices": [0],
-    "correct_answers": ["Branch probability hints"]
+    "correct_answers": ["Leadership focuses on vision, while management focuses on execution"]
   },
   {
-    "question": "COBOL is primarily used for:",
-    "answers": ["System programming", "Business applications", "Game development", "Graphics rendering"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Business applications"]
-  },
-  {
-    "question": "Which is a key characteristic of COBOL?",
-    "answers": ["Pointers", "Self-documenting syntax", "User-defined types", "Low-level optimization"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Self-documenting syntax"]
-  },
-  {
-    "question": "In COBOL syntax, the ellipsis (...) indicates:",
-    "answers": ["Optional code", "Repetition of elements", "Comments", "Error handling"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Repetition of elements"]
-  },
-  {
-    "question": "A loader’s primary function is to:",
-    "answers": ["Translate assembly code", "Load machine code into memory", "Link libraries", "Detect syntax errors"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Load machine code into memory"]
-  },
-  {
-    "question": "Static linking copies code:",
-    "answers": ["At runtime", "Byte-by-byte from libraries", "From dynamic libraries", "Only for optimization"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Byte-by-byte from libraries"]
-  },
-  {
-    "question": "The #include directive in C:",
-    "answers": ["Defines macros", "Copies file contents", "Allocates memory", "Executes functions"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Copies file contents"]
-  },
-  {
-    "question": "Which automaton corresponds to Type-2 grammars?",
-    "answers": ["Turing machine", "Pushdown automaton", "Finite state automaton", "Linear bounded automaton"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Pushdown automaton"]
-  },
-  {
-    "question": "Which language uses punched cards with fixed column formatting?",
-    "answers": ["Python", "FORTRAN", "Java", "COBOL"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["FORTRAN"]
-  },
-  {
-    "question": "The DO loop was introduced in:",
-    "answers": ["COBOL", "FORTRAN", "C", "Pascal"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["FORTRAN"]
-  },
-  {
-    "question": "COBOL’s hierarchical structure ensures changes are isolated in the:",
-    "answers": ["Procedure Division", "Environment Division", "Data Division", "Working-Storage Section"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Environment Division"]
-  },
-  {
-    "question": "Which of the following is a type of error typically caught during semantic analysis?",
-    "answers": ["Unmatched parentheses", "Variable not declared", "Missing semicolon", "Misuse of reserved words"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Variable not declared"]
-  },
-  {
-    "question": "In a compiler, what does the term \"code optimization\" refer to?",
-    "answers": ["Eliminating all errors from the code", "Modifying the intermediate code to improve performance", "Converting high-level code directly to machine code", "Debugging and executing the program"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Modifying the intermediate code to improve performance"]
-  },
-  {
-    "question": "In what phase does a compiler detect and report \"type mismatch\" errors?",
-    "answers": ["Lexical analysis", "Syntax analysis", "Semantic analysis", "Code generation"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Semantic analysis"]
-  },
-  {
-    "question": "What does a lexical analyzer do?",
-    "answers": ["It breaks down the source code into tokens", "It checks the code for syntax errors", "It generates object code", "It links the code with external libraries"],
+    "question": "Which of the following is an essential leadership skill?",
+    "answers": [
+      "Ability to motivate others",
+      "Avoiding risks",
+      "Ignoring feedback",
+      "Working in isolation"
+    ],
     "correct_answer_indices": [0],
-    "correct_answers": ["It breaks down the source code into tokens"]
+    "correct_answers": ["Ability to motivate others"]
   },
   {
-    "question": "What is the output of the lexical analysis phase?",
-    "answers": ["Abstract syntax tree (AST)", "Parse tree", "Tokens", "Executable file"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Tokens"]
-  },
-  {
-    "question": "Which type of grammar generates regular languages?",
-    "answers": ["Type-0 grammar", "Type-1 grammar", "Type-2 grammar", "Type-3 grammar"],
-    "correct_answer_indices": [3],
-    "correct_answers": ["Type-3 grammar"]
-  },
-  {
-    "question": "What is the role of an intermediate code in the compilation process?",
-    "answers": ["It is directly executed by the hardware", "It serves as a platform-independent code between the source code and machine code", "It contains all error messages for the source code", "It represents the final machine code output"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["It serves as a platform-independent code between the source code and machine code"]
-  },
-  {
-    "question": "Which of the following is NOT a function of the compiler's back end?",
-    "answers": ["Code generation", "Register allocation", "Code optimization", "Lexical analysis"],
-    "correct_answer_indices": [3],
-    "correct_answers": ["Lexical analysis"]
-  },
-  {
-    "question": "What is a characteristic of a self-compiler?",
-    "answers": ["It generates machine code for a different computer", "It interprets code without compiling it", "It compiles code and generates machine code for the same computer", "It translates machine code into assembly language"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["It compiles code and generates machine code for the same computer"]
-  },
-  {
-    "question": "What is a common task of the 'middle-end' of a compiler?",
-    "answers": ["Generating machine code", "Performing semantic analysis", "Conducting code optimizations", "Converting source code to object code"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Conducting code optimizations"]
-  },
-  {
-    "question": "Which of the following is a feature of an interpreter but NOT a compiler?",
-    "answers": ["Translates the entire program at once", "Translates and executes code line by line", "Generates object code", "Performs code optimization"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Translates and executes code line by line"]
-  },
-  {
-    "question": "Which phase of a compiler is responsible for converting high-level source code into assembly code?",
-    "answers": ["Lexical analysis", "Syntax analysis", "Code generation", "Semantic analysis"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Code generation"]
-  },
-  {
-    "question": "In the context of assembly language, what does a 'label' represent?",
-    "answers": ["A keyword in high-level programming languages", "A symbolic name given to a memory address", "A machine code instruction", "A directive to the linker"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["A symbolic name given to a memory address"]
-  },
-  {
-    "question": "What is the function of a 'preprocessor' in a compiler?",
-    "answers": ["It translates source code into object code", "It interprets code line by line", "It processes directives like #include and #define before compilation", "It generates machine code directly"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["It processes directives like #include and #define before compilation"]
-  },
-  {
-    "question": "Which grammar is used to generate context-free languages?",
-    "answers": ["Type-1 grammar", "Type-2 grammar", "Type-3 grammar", "Type-0 grammar"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Type-2 grammar"]
-  },
-  {
-    "question": "What is a primary advantage of dynamic linking?",
-    "answers": ["Faster execution", "Smaller executable file size", "Automatic code optimization", "Complete independence from external libraries"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Smaller executable file size"]
-  },
-  {
-    "question": "What does the term 'link-time error' refer to?",
-    "answers": ["An error detected during the linking phase when external libraries are combined", "An error that occurs when the program is executed", "An error detected during the semantic analysis phase", "A syntax error in the source code"],
+    "question": "What is the importance of leadership in an organization?",
+    "answers": [
+      "It makes a business organization grow and successful",
+      "It reduces the need for communication",
+      "It eliminates the need for teamwork",
+      "It focuses only on individual performance"
+    ],
     "correct_answer_indices": [0],
-    "correct_answers": ["An error detected during the linking phase when external libraries are combined"]
+    "correct_answers": ["It makes a business organization grow and successful"]
   },
   {
-    "question": "What is the main goal of code optimization in a compiler?",
-    "answers": ["To remove all errors from the program", "To reduce the size of the source code", "To improve the performance of the generated code", "To convert high-level code directly to machine code"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["To improve the performance of the generated code"]
-  },
-  {
-    "question": "Which type of error is most likely detected during the lexical analysis phase?",
-    "answers": ["Division by zero", "Incorrect usage of variables", "Invalid characters in the source code", "Misuse of function parameters"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Invalid characters in the source code"]
-  },
-  {
-    "question": "What is a source program?",
-    "answers": ["The output produced by a compiler", "The machine code that the compiler generates", "The input to the compiler that needs to be translated", "A type of assembly language"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["The input to the compiler that needs to be translated"]
-  },
-  {
-    "question": "What is the primary function of a loader in the compilation process?",
-    "answers": ["To translate high-level code into assembly language", "To load machine code into system memory for execution", "To generate object code from source code", "To optimize the source code"],
+    "question": "Which leadership style allows leaders to give their followers little or no control?",
+    "answers": [
+      "Democratic",
+      "Autocratic",
+      "Laissez-faire",
+      "Bureaucratic"
+    ],
     "correct_answer_indices": [1],
-    "correct_answers": ["To load machine code into system memory for execution"]
+    "correct_answers": ["Autocratic"]
   },
   {
-    "question": "What type of error does an interpreter typically encounter?",
-    "answers": ["Logical errors", "Syntax errors", "Runtime errors", "Compile-time errors"],
+    "question": "What is the main characteristic of a democratic leadership style?",
+    "answers": [
+      "Leaders make all decisions without consultation",
+      "Leaders encourage group discussion and consensus",
+      "Leaders allow complete freedom to followers",
+      "Leaders follow strict procedures and policies"
+    ],
+    "correct_answer_indices": [1],
+    "correct_answers": ["Leaders encourage group discussion and consensus"]
+  },
+  {
+    "question": "Which leadership style is characterized by managing 'by the book'?",
+    "answers": [
+      "Autocratic",
+      "Democratic",
+      "Bureaucratic",
+      "Laissez-faire"
+    ],
     "correct_answer_indices": [2],
-    "correct_answers": ["Runtime errors"]
+    "correct_answers": ["Bureaucratic"]
   },
   {
-    "question": "What does the #define directive do in a compiler?",
-    "answers": ["It imports library functions", "It defines a constant or macro that can replace a specific word in the source code", "It converts a source file into an object file", "It generates machine code"],
+    "question": "What is the primary focus of laissez-faire leadership?",
+    "answers": [
+      "Strict control over followers",
+      "Allowing groups to make their own decisions",
+      "Following strict procedures",
+      "Encouraging group discussion"
+    ],
     "correct_answer_indices": [1],
-    "correct_answers": ["It defines a constant or macro that can replace a specific word in the source code"]
+    "correct_answers": ["Allowing groups to make their own decisions"]
   },
   {
-    "question": "Which of the following statements is true about a cross assembler?",
-    "answers": ["It runs on one computer and generates machine code for the same computer", "It runs on one computer and generates machine code for a different computer", "It compiles high-level code directly to machine language", "It interprets assembly code without generating machine code"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["It runs on one computer and generates machine code for a different computer"]
+    "question": "Which leadership theory assumes that great leaders are born, not made?",
+    "answers": [
+      "Trait theory",
+      "Contingency theory",
+      "Great Man theory",
+      "Behavioral theory"
+    ],
+    "correct_answer_indices": [2],
+    "correct_answers": ["Great Man theory"]
   },
   {
-    "question": "What does a linker do when it cannot find a required library for a function?",
-    "answers": ["It generates an error and stops the compilation process", "It proceeds with the compilation without linking the function", "It replaces the function with a default one", "It converts the function into machine code"],
+    "question": "What does diversity in leadership refer to?",
+    "answers": [
+      "The variety of personal experiences, values, and worldviews",
+      "The uniformity of leadership styles",
+      "The exclusion of different perspectives",
+      "The focus on a single culture"
+    ],
     "correct_answer_indices": [0],
-    "correct_answers": ["It generates an error and stops the compilation process"]
+    "correct_answers": ["The variety of personal experiences, values, and worldviews"]
   },
   {
-    "question": "What is an 'object code'?",
-    "answers": ["The human-readable source code", "The final executable code", "The intermediate machine code generated by a compiler", "The error-free code written in a high-level language"],
+    "question": "Which of the following is NOT a key to managing diversity?",
+    "answers": [
+      "Acceptance",
+      "Respect",
+      "Exclusion",
+      "Connection"
+    ],
     "correct_answer_indices": [2],
-    "correct_answers": ["The intermediate machine code generated by a compiler"]
+    "correct_answers": ["Exclusion"]
   },
   {
-    "question": "Which type of grammar can be accepted by a non-deterministic pushdown automaton?",
-    "answers": ["Type-0 grammar", "Type-1 grammar", "Type-2 grammar", "Type-3 grammar"],
+    "question": "What is the benefit of diversity in an organization?",
+    "answers": [
+      "Reduced creativity",
+      "Increased employee turnover",
+      "Better understanding of the community",
+      "Decreased innovation"
+    ],
     "correct_answer_indices": [2],
-    "correct_answers": ["Type-2 grammar"]
+    "correct_answers": ["Better understanding of the community"]
   },
   {
-    "question": "Which of the following is an example of a high-level language that requires a compiler for execution?",
-    "answers": ["Machine code", "Assembly language", "Java", "Binary code"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Java"]
-  },
-  {
-    "question": "Which of the following components is part of a compiler's back-end?",
-    "answers": ["Lexical analysis", "Semantic analysis", "Syntax analysis", "Code generation"],
-    "correct_answer_indices": [3],
-    "correct_answers": ["Code generation"]
-  },
-  {
-    "question": "How many times does a two-pass assembler read the source code?",
-    "answers": ["Once", "Twice", "Thrice", "Multiple times based on errors"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Twice"]
-  },
-  {
-    "question": "Which of the following errors can a lexical analyzer detect?",
-    "answers": ["Type mismatch errors", "Missing semicolon", "Invalid characters in the code", "Incorrect function usage"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Invalid characters in the code"]
-  },
-  {
-    "question": "What does the term 'static linking' refer to in a compilation process?",
-    "answers": ["Linking files dynamically at runtime", "Linking files using shared libraries", "Linking libraries at compile time and including them in the executable", "Linking only user-defined functions"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Linking libraries at compile time and including them in the executable"]
-  },
-  {
-    "question": "What is the difference between a one-pass and a two-pass assembler?",
-    "answers": ["A one-pass assembler reads and translates the code in one pass, while a two-pass assembler reads it twice", "A one-pass assembler reads machine code, while a two-pass assembler reads assembly code", "A one-pass assembler produces machine code, while a two-pass assembler produces object code", "A one-pass assembler only translates assembly code without optimization, while a two-pass assembler optimizes the code"],
+    "question": "Which of the following is a leadership competency for diversity?",
+    "answers": [
+      "Cultural empathy",
+      "Ignoring differences",
+      "Avoiding conflict resolution",
+      "Lack of communication"
+    ],
     "correct_answer_indices": [0],
-    "correct_answers": ["A one-pass assembler reads and translates the code in one pass, while a two-pass assembler reads it twice"]
+    "correct_answers": ["Cultural empathy"]
   },
   {
-    "question": "What does the term 'recursively enumerable languages' refer to in the context of grammars?",
-    "answers": ["Languages generated by context-free grammars", "Languages accepted by a finite state automaton", "Languages generated by unrestricted (Type-0) grammars", "Languages that can be parsed in linear time"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Languages generated by unrestricted (Type-0) grammars"]
-  },
-  {
-    "question": "What is a lexical analyzer also called?",
-    "answers": ["Parser", "Scanner", "Interpreter", "Optimizer"],
+    "question": "What is the impact of diversity on organizational performance?",
+    "answers": [
+      "It decreases employee satisfaction",
+      "It improves client service delivery",
+      "It reduces innovation",
+      "It limits talent pool"
+    ],
     "correct_answer_indices": [1],
-    "correct_answers": ["Scanner"]
+    "correct_answers": ["It improves client service delivery"]
   },
   {
-    "question": "Which part of the compiler performs optimizations like constant propagation and dead code elimination?",
-    "answers": ["Lexical analysis", "Front end", "Middle end", "Back end"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Middle end"]
-  },
-  {
-    "question": "Which of the following is an advantage of using an interpreter over a compiler?",
-    "answers": ["Faster execution of code", "Immediate detection of runtime errors", "Compiled code can be reused", "Code runs directly from machine language"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Immediate detection of runtime errors"]
-  },
-  {
-    "question": "What is a dynamic linker used for?",
-    "answers": ["Linking library files at runtime", "Linking library files at compile time", "Generating object code from source code", "Removing errors from the source code"],
+    "question": "What is the primary benefit of teamwork in an organization?",
+    "answers": [
+      "Increased efficiency",
+      "Reduced communication",
+      "Decreased idea generation",
+      "Limited learning opportunities"
+    ],
     "correct_answer_indices": [0],
-    "correct_answers": ["Linking library files at runtime"]
+    "correct_answers": ["Increased efficiency"]
   },
   {
-    "question": "Which phase of the compiler generates an internal representation of the program?",
-    "answers": ["Syntax analysis", "Code generation", "Lexical analysis", "Semantic analysis"],
+    "question": "Which of the following is an essential skill for effective teamwork?",
+    "answers": [
+      "Openness",
+      "Isolation",
+      "Lack of trust",
+      "Avoiding feedback"
+    ],
     "correct_answer_indices": [0],
-    "correct_answers": ["Syntax analysis"]
+    "correct_answers": ["Openness"]
   },
   {
-    "question": "In which phase does the compiler perform type checking?",
-    "answers": ["Lexical analysis", "Syntax analysis", "Semantic analysis", "Code generation"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Semantic analysis"]
-  },
-  {
-    "question": "What does a 'directive' in assembly language do?",
-    "answers": ["It performs a machine operation", "It provides instructions to the assembler or compiler about how to process the code", "It generates machine code directly", "It handles runtime errors"],
+    "question": "What is the role of effective communication in a team?",
+    "answers": [
+      "It reduces interaction",
+      "It clarifies responsibilities",
+      "It increases conflicts",
+      "It limits training opportunities"
+    ],
     "correct_answer_indices": [1],
-    "correct_answers": ["It provides instructions to the assembler or compiler about how to process the code"]
+    "correct_answers": ["It clarifies responsibilities"]
   },
   {
-    "question": "Which of the following errors is most likely to be caught during syntax analysis?",
-    "answers": ["Using an undeclared variable", "Division by zero", "Missing a closing parenthesis", "Incompatible types in an assignment"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Missing a closing parenthesis"]
-  },
-  {
-    "question": "What does a cross compiler do?",
-    "answers": ["Translates machine code for the same computer", "Generates machine code that runs on a different computer", "Interprets code line by line", "Converts object code back to source code"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Generates machine code that runs on a different computer"]
-  },
-  {
-    "question": "Which of the following is a disadvantage of using an interpreter?",
-    "answers": ["It detects errors after every line is executed", "The translated code cannot be saved and reused later", "It optimizes code for faster execution", "It translates and executes the entire program at once"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["The translated code cannot be saved and reused later"]
-  },
-  {
-    "question": "What is the final output of a compiler?",
-    "answers": ["Intermediate code", "Machine code", "Tokens", "Parse tree"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Machine code"]
-  },
-  {
-    "question": "Which of the following is the correct sequence in the compilation process?",
-    "answers": ["Lexical analysis → Syntax analysis → Code generation → Semantic analysis", "Syntax analysis → Lexical analysis → Code generation → Semantic analysis", "Lexical analysis → Syntax analysis → Semantic analysis → Code generation", "Syntax analysis → Lexical analysis → Semantic analysis → Code generation"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Lexical analysis → Syntax analysis → Semantic analysis → Code generation"]
-  },
-  {
-    "question": "What kind of grammar generates context-sensitive languages?",
-    "answers": ["Type-0", "Type-1", "Type-2", "Type-3"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Type-1"]
-  },
-  {
-    "question": "Which of the following is true about a two-pass assembler?",
-    "answers": ["It translates source code in one pass, generating object code directly", "It assigns memory addresses to variables in the first pass and translates code in the second pass", "It generates machine code after optimizing the source code", "It executes the source code line by line"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["It assigns memory addresses to variables in the first pass and translates code in the second pass"]
-  },
-  {
-    "question": "What is a 'symbol table' used for in a compiler?",
-    "answers": ["To store machine code", "To store variable names and their attributes", "To generate error messages", "To optimize the generated code"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["To store variable names and their attributes"]
-  },
-  {
-    "question": "What is the purpose of the #include directive in C programs?",
-    "answers": ["To define constants in the source code", "To include a file from the current directory into the program before compilation", "To import machine code from another program", "To generate object code from a header file"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["To include a file from the current directory into the program before compilation"]
-  },
-  {
-    "question": "What is the primary responsibility of the back-end in a compiler?",
-    "answers": ["Error detection and correction", "Token generation", "Code optimization and machine code generation", "Lexical analysis"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Code optimization and machine code generation"]
-  },
-  {
-    "question": "Which of the following tools can help identify spelling mistakes in variable names?",
-    "answers": ["Parser", "Symbol table", "Lexical analyzer", "Code generator"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Symbol table"]
-  },
-  {
-    "question": "During which phase are constants and variables assigned memory locations in the final executable?",
-    "answers": ["Lexical analysis", "Syntax analysis", "Code generation", "Semantic analysis"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Code generation"]
-  },
-  {
-    "question": "What does the term 'dynamic linking' mean in the context of compiling?",
-    "answers": ["Linking libraries during runtime rather than at compile time", "Generating the object code dynamically from source code", "Linking machine code to the source program at compile time", "Linking external libraries with static memory allocation"],
+    "question": "Which of the following is a way to prevent conflicts in a team?",
+    "answers": [
+      "Ensuring equal workload distribution",
+      "Avoiding communication",
+      "Ignoring feedback",
+      "Limiting interaction"
+    ],
     "correct_answer_indices": [0],
-    "correct_answers": ["Linking libraries during runtime rather than at compile time"]
+    "correct_answers": ["Ensuring equal workload distribution"]
   },
   {
-    "question": "What type of error is most likely to occur during semantic analysis?",
-    "answers": ["Mismatched parentheses", "Incorrect assignment of a string to an integer variable", "Use of a reserved keyword", "Invalid syntax in function calls"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Incorrect assignment of a string to an integer variable"]
-  },
-  {
-    "question": "What type of error is most likely to occur during semantic analysis?",
-    "answers": ["Mismatched parentheses", "Incorrect assignment of a string to an integer variable", "Use of a reserved keyword", "Invalid syntax in function calls"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Incorrect assignment of a string to an integer variable"]
-  },
-  {
-    "question": "In which phase is a parse tree constructed?",
-    "answers": ["Lexical analysis", "Syntax analysis", "Semantic analysis", "Code generation"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Syntax analysis"]
-  },
-  {
-    "question": "Which of the following best describes the function of a linker?",
-    "answers": ["It translates high-level code into machine code", "It resolves external references and combines object code into a single executable file", "It interprets code line by line", "It optimizes the code for performance"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["It resolves external references and combines object code into a single executable file"]
-  },
-  {
-    "question": "In a compiled program, what does a loader do?",
-    "answers": ["It links external libraries to the source code", "It loads the machine code into memory and starts execution", "It generates object code from the source program", "It resolves errors in the source code before execution"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["It loads the machine code into memory and starts execution"]
-  },
-  {
-    "question": "What happens in a 'panic-mode' error recovery in a parser?",
-    "answers": ["The parser tries to automatically fix the code", "The parser discards input until it encounters a synchronizing token", "The parser halts the entire compilation process", "The parser continues processing the code without reporting the error"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["The parser discards input until it encounters a synchronizing token"]
-  },
-  {
-    "question": "Which phase of the compiler processes preprocessor directives like #define and #include?",
-    "answers": ["Code generation", "Lexical analysis", "Preprocessing phase", "Semantic analysis"],
+    "question": "What is the impact of poor communication in a team?",
+    "answers": [
+      "Increased efficiency",
+      "Reduced conflicts",
+      "Misunderstandings and conflicts",
+      "Enhanced training"
+    ],
     "correct_answer_indices": [2],
-    "correct_answers": ["Preprocessing phase"]
+    "correct_answers": ["Misunderstandings and conflicts"]
   },
   {
-    "question": "Which of the following is true about a compiler's error recovery?",
-    "answers": ["The compiler always halts when it detects an error", "Error recovery helps the compiler to skip past errors and continue processing", "Error recovery automatically fixes all errors in the code", "Error recovery is only performed at runtime"],
+    "question": "What is emotional intelligence?",
+    "answers": [
+      "The ability to control others' emotions",
+      "The ability to identify, use, understand, and manage emotions",
+      "The ability to ignore emotions",
+      "The ability to avoid stress"
+    ],
     "correct_answer_indices": [1],
-    "correct_answers": ["Error recovery helps the compiler to skip past errors and continue processing"]
+    "correct_answers": ["The ability to identify, use, understand, and manage emotions"]
   },
   {
-    "question": "What type of grammar is used to generate regular languages?",
-    "answers": ["Type-0 grammar", "Type-1 grammar", "Type-2 grammar", "Type-3 grammar"],
-    "correct_answer_indices": [3],
-    "correct_answers": ["Type-3 grammar"]
-  },
-  {
-    "question": "What does the term 'recursively enumerable languages' refer to?",
-    "answers": ["Languages generated by a finite state machine", "Languages generated by context-free grammars", "Languages generated by unrestricted grammars", "Languages generated by context-sensitive grammars"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Languages generated by unrestricted grammars"]
-  },
-  {
-    "question": "Which of the following phases is responsible for removing 'dead code'?",
-    "answers": ["Lexical analysis", "Syntax analysis", "Code optimization", "Code generation"],
-    "correct_answer_indices": [2],
-    "correct_answers": ["Code optimization"]
-  },
-  {
-    "question": "What is the purpose of a linker?",
-    "answers": ["Translate high-level code to machine code", "Combine source code and library code", "Detect syntax errors", "Optimize runtime performance"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Combine source code and library code"]
-  },
-  {
-    "question": "Which directive replaces a word with another in the source code?",
-    "answers": ["#include", "#define", "#pragma", "#ifdef"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["#define"]
-  },
-  {
-    "question": "A cross-compiler generates code for:",
-    "answers": ["The same machine it runs on", "A different machine", "Assembly language", "Intermediate representation"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["A different machine"]
-  },
-  {
-    "question": "The compiler’s back end is primarily responsible for:",
-    "answers": ["Syntax analysis", "Code generation and machine-specific optimizations", "Lexical tokenization", "Type checking"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Code generation and machine-specific optimizations"]
-  },
-  {
-    "question": "Which phase converts tokens into a parse tree?",
-    "answers": ["Lexical analysis", "Syntax analysis", "Semantic analysis", "Code optimization"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Syntax analysis"]
-  },
-  {
-    "question": "What is the output of the lexical analyzer?",
-    "answers": ["Abstract syntax tree", "Sequence of tokens", "Machine code", "Symbol table"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Sequence of tokens"]
-  },
-  {
-    "question": "A missing quotation mark in a string is detected during:",
-    "answers": ["Semantic analysis", "Lexical analysis", "Code generation", "Linking"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Lexical analysis"]
-  },
-  {
-    "question": "Panic-mode recovery discards input until encountering a:",
-    "answers": ["Comment", "Synchronizing token (e.g., `;`)", "Newline", "Keyword"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Synchronizing token (e.g., `;`)"]
-  },
-  {
-    "question": "Which error is detected during semantic analysis?",
-    "answers": ["Missing semicolon", "Undefined variable", "Invalid character", "Division by zero"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Undefined variable"]
-  },
-  {
-    "question": "Which grammar type is unrestricted and Turing-complete?",
-    "answers": ["Type-1", "Type-0", "Type-2", "Type-3"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Type-0"]
-  },
-  {
-    "question": "A context-free grammar uses which automaton for recognition?",
-    "answers": ["Finite state machine", "Pushdown automaton", "Linear bounded automaton", "Turing machine"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Pushdown automaton"]
-  },
-  {
-    "question": "Regular grammars are used to define:",
-    "answers": ["Lexical syntax (e.g., identifiers)", "Nested loops", "Object-oriented structures", "Runtime exceptions"],
+    "question": "Which of the following is a core category of emotional intelligence?",
+    "answers": [
+      "Self-awareness",
+      "Ignoring emotions",
+      "Avoiding empathy",
+      "Lack of motivation"
+    ],
     "correct_answer_indices": [0],
-    "correct_answers": ["Lexical syntax (e.g., identifiers)"]
+    "correct_answers": ["Self-awareness"]
   },
   {
-    "question": "FORTRAN 90 introduced support for:",
-    "answers": ["Object-oriented programming", "Array programming and modules", "Dynamic linking", "Parallel processing"],
+    "question": "What is the importance of emotional intelligence in leadership?",
+    "answers": [
+      "It reduces employee satisfaction",
+      "It helps in building stronger teams",
+      "It limits communication",
+      "It decreases motivation"
+    ],
     "correct_answer_indices": [1],
-    "correct_answers": ["Array programming and modules"]
+    "correct_answers": ["It helps in building stronger teams"]
   },
   {
-    "question": "Punched cards in FORTRAN reserved columns 73–80 for:",
-    "answers": ["Comments", "Identification/sequence numbers", "Continuation markers", "Machine code"],
+    "question": "Which of the following is a key skill that builds emotional intelligence?",
+    "answers": [
+      "Avoiding stress",
+      "Recognizing and managing emotions",
+      "Ignoring nonverbal communication",
+      "Avoiding humor"
+    ],
     "correct_answer_indices": [1],
-    "correct_answers": ["Identification/sequence numbers"]
+    "correct_answers": ["Recognizing and managing emotions"]
   },
   {
-    "question": "The `FREQUENCY` statement in early FORTRAN was used to:",
-    "answers": ["Optimize branch placement", "Allocate memory", "Define loops", "Handle exceptions"],
+    "question": "What is the impact of high emotional intelligence on relationships?",
+    "answers": [
+      "It reduces trust",
+      "It improves communication and understanding",
+      "It increases conflicts",
+      "It limits empathy"
+    ],
+    "correct_answer_indices": [1],
+    "correct_answers": ["It improves communication and understanding"]
+  },
+  {
+    "question": "What is the primary difference between male and female leadership styles?",
+    "answers": [
+      "Males are more task-oriented, while females are more relationship-oriented",
+      "Males are more relationship-oriented, while females are more task-oriented",
+      "There is no difference",
+      "Males avoid leadership roles"
+    ],
     "correct_answer_indices": [0],
-    "correct_answers": ["Optimize branch placement"]
+    "correct_answers": ["Males are more task-oriented, while females are more relationship-oriented"]
   },
   {
-    "question": "COBOL’s `ENVIRONMENT DIVISION` defines:",
-    "answers": ["Business logic", "Hardware and file dependencies", "Data types", "User interfaces"],
+    "question": "Which of the following is an effective way to promote gender diversity in leadership?",
+    "answers": [
+      "Limiting mentorship opportunities",
+      "Offering equal opportunities and removing bias",
+      "Excluding females from decision-making",
+      "Reinforcing stereotypes"
+    ],
     "correct_answer_indices": [1],
-    "correct_answers": ["Hardware and file dependencies"]
+    "correct_answers": ["Offering equal opportunities and removing bias"]
   },
   {
-    "question": "In COBOL syntax, `$#i` indicates:",
-    "answers": ["Alphanumeric literal", "Numeric or alphanumeric data-item", "String literal", "Comment line"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Numeric or alphanumeric data-item"]
+    "question": "What is the glass ceiling effect?",
+    "answers": [
+      "The invisible barrier that prevents some people from advancing in their career",
+      "A management technique",
+      "A method for evaluating employees",
+      "An incentive for high performance"
+    ],
+    "correct_answer_indices": [0],
+    "correct_answers": ["The invisible barrier that prevents some people from advancing in their career"]
   },
   {
-    "question": "Which division contains the program’s logic in COBOL?",
-    "answers": ["IDENTIFICATION DIVISION", "PROCEDURE DIVISION", "DATA DIVISION", "ENVIRONMENT DIVISION"],
+    "question": "Which of the following is a characteristic of inclusive leadership?",
+    "answers": [
+      "Ignoring team members' differences",
+      "Recognizing and valuing diversity",
+      "Limiting team members' contributions",
+      "Excluding minority groups"
+    ],
     "correct_answer_indices": [1],
-    "correct_answers": ["PROCEDURE DIVISION"]
+    "correct_answers": ["Recognizing and valuing diversity"]
   },
   {
-    "question": "Which phase assigns memory addresses to variables in assembly?",
-    "answers": ["Lexical analysis", "First pass of a two-pass assembler", "Code generation", "Linking"],
+    "question": "What does it mean to lead by example?",
+    "answers": [
+      "To give instructions without following them yourself",
+      "To set a standard by demonstrating the desired behavior",
+      "To avoid taking responsibility",
+      "To criticize others without reflection"
+    ],
     "correct_answer_indices": [1],
-    "correct_answers": ["First pass of a two-pass assembler"]
+    "correct_answers": ["To set a standard by demonstrating the desired behavior"]
   },
   {
-    "question": "Dynamic linking requires libraries to be present:",
-    "answers": ["During compilation", "At runtime", "In the source code", "For optimization"],
+    "question": "How can leaders encourage innovation in their teams?",
+    "answers": [
+      "By discouraging risk-taking",
+      "By fostering an environment where ideas are valued",
+      "By avoiding feedback and communication",
+      "By focusing solely on rules and procedures"
+    ],
     "correct_answer_indices": [1],
-    "correct_answers": ["At runtime"]
+    "correct_answers": ["By fostering an environment where ideas are valued"]
   },
   {
-    "question": "The `MOV.B r0, #80` instruction in assembly has:",
-    "answers": ["Label, mnemonic, operand, comment", "Label, mnemonic, operand", "Operand, comment, directive", "Register, literal, opcode"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Label, mnemonic, operand"]
+    "question": "Which of the following leadership styles is best suited for crisis management?",
+    "answers": [
+      "Autocratic",
+      "Democratic",
+      "Laissez-faire",
+      "Transformational"
+    ],
+    "correct_answer_indices": [0],
+    "correct_answers": ["Autocratic"]
   },
   {
-    "question": "Which language uses `DIVISION` and `SECTION` hierarchies?",
-    "answers": ["FORTRAN", "COBOL", "C", "Python"],
+    "question": "What is the primary goal of transformational leadership?",
+    "answers": [
+      "To maintain the status quo",
+      "To inspire and motivate followers to achieve extraordinary outcomes",
+      "To strictly control followers' actions",
+      "To limit innovation"
+    ],
     "correct_answer_indices": [1],
-    "correct_answers": ["COBOL"]
-  },
-  {
-    "question": "The `COMPUTE` statement in COBOL is used for:",
-    "answers": ["File handling", "Arithmetic operations", "Data declaration", "Loop control"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Arithmetic operations"]
-  },
-  {
-    "question": "Which FORTRAN feature allows operations on entire arrays?",
-    "answers": ["DO loops", "Array slicing", "Pointers", "Dynamic memory"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Array slicing"]
-  },
-  {
-    "question": "A 'load map' helps identify errors using:",
-    "answers": ["Line numbers", "Hexadecimal addresses", "Symbolic labels", "Runtime logs"],
-    "correct_answer_indices": [1],
-    "correct_answers": ["Hexadecimal addresses"]
+    "correct_answers": ["To inspire and motivate followers to achieve extraordinary outcomes"]
   }
 ]
-
