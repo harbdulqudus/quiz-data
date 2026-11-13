@@ -1,0 +1,1251 @@
+[
+  {
+    "question": "Who proposed the fluid-mosaic model of the cell membrane in 1972?",
+    "answers": [
+      "James Danielli and Hugh Davson",
+      "Seymour Jonathan Singer and Garth L. Nicolson",
+      "Evert Gorter and François Grendel",
+      "J. David Robertson"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Seymour Jonathan Singer and Garth L. Nicolson"
+    ]
+  },
+  {
+    "question": "Which 1925 experiment on red blood cell lipids estimated a 2:1 lipid-to-surface area ratio, supporting a lipid bilayer structure?",
+    "answers": [
+      "Ernest Overton's permeability experiment",
+      "Evert Gorter and François Grendel's study",
+      "Frye and Edidin's cell fusion experiment",
+      "Moor and Mühlethaler's freeze-etching study"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Evert Gorter and François Grendel's study"
+    ]
+  },
+  {
+    "question": "The 1935 pauci-molecular model by Danielli and Davson depicted the cell membrane as ________.",
+    "answers": [
+      "a two-dimensional fluid with cholesterol-enriched lipid rafts",
+      "a lipid bilayer sandwiched between protein layers",
+      "a protoplasmic colloid without distinct boundaries",
+      "a single layer of amphipathic proteins"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "a lipid bilayer sandwiched between protein layers"
+    ]
+  },
+  {
+    "question": "Phospholipids are described as ________ molecules because they contain both a hydrophilic phosphate head and hydrophobic fatty acid tails.",
+    "answers": [
+      "apolar",
+      "amphipathic",
+      "isotonic",
+      "hyperosmolar"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "amphipathic"
+    ]
+  },
+  {
+    "question": "What is the fuzzy-appearing coating around the cell formed from glycoproteins and glycolipids that provides cell identity and plays a role in immune recognition?",
+    "answers": [
+      "Aquaporin",
+      "Glycocalyx",
+      "Magnetosome",
+      "Buffy coat"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Glycocalyx"
+    ]
+  },
+  {
+    "question": "Which of the following substances can pass unaided through the hydrophobic interior of the cell membrane's lipid bilayer? (Pick two)",
+    "answers": [
+      "Oxygen gas (O2)",
+      "Glucose",
+      "Carbon dioxide gas (CO2)",
+      "Amino acids"
+    ],
+    "correct_answer_indices": [
+      0,
+      2
+    ],
+    "correct_answers": [
+      "Oxygen gas (O2)",
+      "Carbon dioxide gas (CO2)"
+    ]
+  },
+  {
+    "question": "When human red blood cells (RBCs) are placed in a ________ environment, water enters the cells by osmosis and causes them to rupture.",
+    "answers": [
+      "isotonic",
+      "hypertonic",
+      "hypotonic",
+      "thermoneutral"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "hypotonic"
+    ]
+  },
+  {
+    "question": "Rapid water flow across cell membranes occurs through channels created by integral membrane proteins called ________.",
+    "answers": [
+      "connexins",
+      "aquaporins",
+      "porins",
+      "integrins"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "aquaporins"
+    ]
+  },
+  {
+    "question": "For each ATP molecule used, the sodium-potassium pump (Na+/K+-ATPase) transports ________.",
+    "answers": [
+      "two Na+ out and three K+ in",
+      "three Na+ out and two K+ in",
+      "three Na+ in and two Ca2+ out",
+      "three H+ out and two K+ in"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "three Na+ out and two K+ in"
+    ]
+  },
+  {
+    "question": "Which bacterial transport mechanism modifies molecules (such as phosphorylating glucose to glucose-6-phosphate) as they pass through the membrane down their concentration gradient?",
+    "answers": [
+      "Pinocytosis",
+      "Group translocation",
+      "Emiocytosis",
+      "Simple diffusion"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Group translocation"
+    ]
+  },
+  {
+    "question": "Endocytosis of large, cellular-sized particles (such as human WBCs consuming bacteria) is called ________, whereas uptake of small molecular-sized particles is called ________.",
+    "answers": [
+      "pinocytosis; phagocytosis",
+      "phagocytosis; pinocytosis",
+      "exocytosis; emiocytosis",
+      "antiport; symport"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "phagocytosis; pinocytosis"
+    ]
+  },
+  {
+    "question": "Directed cell movement toward or away from magnetic fields using membrane-surrounded magnetic crystals called magnetosomes is known as ________.",
+    "answers": [
+      "phototaxis",
+      "chemotaxis",
+      "magnetotaxis",
+      "geotaxis"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "magnetotaxis"
+    ]
+  },
+  {
+    "question": "In bacteria, the cell-to-cell signaling process mediated by membrane receptors binding autoinducers to regulate biofilm formation and toxin release is called ________.",
+    "answers": [
+      "quorum sensing",
+      "allostasis",
+      "hemolysis",
+      "opsonization"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "quorum sensing"
+    ]
+  },
+  {
+    "question": "In the amphibian urinary bladder, which hormone stimulates the insertion of aquaporin-2 (AQP2) water channels into the apical membrane of epithelial cells?",
+    "answers": [
+      "Aldosterone",
+      "Arginine vasotocin (AVT)",
+      "Octreotide",
+      "Melatonin"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Arginine vasotocin (AVT)"
+    ]
+  },
+  {
+    "question": "In the amphibian kidney, approximately what percentage of filtered Na+, Cl-, glucose, and amino acids is reabsorbed in the proximal tubule?",
+    "answers": [
+      "10–20%",
+      "30–40%",
+      "60–80%",
+      "95–100%"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "60–80%"
+    ]
+  },
+  {
+    "question": "What is the primary physiological function of the amphibian-specific diluting segment in the kidney?",
+    "answers": [
+      "Reabsorbs water without ions to concentrate urine",
+      "Reabsorbs Na+ and Cl- without water to create dilute urine",
+      "Secretes digestive amylase into the lumen",
+      "Performs holocrine toxin secretion"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Reabsorbs Na+ and Cl- without water to create dilute urine"
+    ]
+  },
+  {
+    "question": "Which somatostatin analog enhances Na+ absorption and water movement in the amphibian gallbladder to concentrate bile?",
+    "answers": [
+      "Octreotide",
+      "Dabigatran",
+      "Erythropoietin",
+      "Dolutegravir"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Octreotide"
+    ]
+  },
+  {
+    "question": "In amphibian astrocytes, potassium (K+) buffering to prevent neuronal hyperexcitability is mediated by ________ channels and Na+/K+-ATPase.",
+    "answers": [
+      "ENaC",
+      "Kir4.1",
+      "AQP2",
+      "SGLT1"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Kir4.1"
+    ]
+  },
+  {
+    "question": "In amphibian skin, granular glands release toxins via ________ secretion, whereas mucous glands secrete via ________ secretion.",
+    "answers": [
+      "merocrine; holocrine",
+      "holocrine; merocrine",
+      "endocrine; paracrine",
+      "apocrine; holocrine"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "holocrine; merocrine"
+    ]
+  },
+  {
+    "question": "Which law of thermodynamics states that the increase in internal energy of a system (ΔU) equals the sum of heat transferred to the system (Q) and work performed on it (W), written as ΔU = Q + W?",
+    "answers": [
+      "First law of thermodynamics",
+      "Second law of thermodynamics",
+      "Third law of thermodynamics",
+      "Poiseuille's law"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "First law of thermodynamics"
+    ]
+  },
+  {
+    "question": "Which law of thermodynamics states that heat cannot spread spontaneously from a colder place to a warmer one?",
+    "answers": [
+      "First law of thermodynamics",
+      "Second law of thermodynamics",
+      "Third law of thermodynamics",
+      "Nernst law"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Second law of thermodynamics"
+    ]
+  },
+  {
+    "question": "What is the correct formula for converting temperature from Celsius (t) to Kelvin (T)?",
+    "answers": [
+      "T[K] = t[°C] - 273.15",
+      "T[K] = t[°C] + 273.15",
+      "T[K] = (t[°C] × 1.8) + 32",
+      "T[K] = t[°C] / 273.15"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "T[K] = t[°C] + 273.15"
+    ]
+  },
+  {
+    "question": "The enthalpy of a noncovalent molecular interaction between two non-bonded atoms typically ranges from ________, whereas covalent bond enthalpies are on the order of ________.",
+    "answers": [
+      "100 kcal/mole; 1 to 10 kcal/mole",
+      "1 to 10 kcal/mole; 100 kcal/mole",
+      "50 to 80 kcal/mole; 5 kcal/mole",
+      "0.01 kcal/mole; 10 kcal/mole"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "1 to 10 kcal/mole; 100 kcal/mole"
+    ]
+  },
+  {
+    "question": "In biomechanics, which equation describes fluid flow rate (Q) in vessels as Q = (π r^4 ΔP) / (8 η L)?",
+    "answers": [
+      "Nernst equation",
+      "Michaelis-Menten equation",
+      "Poiseuille's law",
+      "Hodgkin-Huxley equation"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Poiseuille's law"
+    ]
+  },
+  {
+    "question": "In electrophysiology, which equation calculates the equilibrium potential (E) of an ion across a membrane as E = (RT / zF) * ln([ion]out / [ion]in)?",
+    "answers": [
+      "Nernst equation",
+      "Poiseuille's law",
+      "Michaelis-Menten equation",
+      "First law of thermodynamics"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Nernst equation"
+    ]
+  },
+  {
+    "question": "In macromolecular dynamics, chaperones such as ________ assist protein folding by minimizing Gibbs free energy and preventing misfolding.",
+    "answers": [
+      "Hsp70",
+      "Melanopsin",
+      "Plasmin",
+      "Thrombin"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Hsp70"
+    ]
+  },
+  {
+    "question": "Who first coined the term 'homeostasis' in 1926, clarifying Claude Bernard's concept of 'milieu intérieur'?",
+    "answers": [
+      "Walter Cannon",
+      "Carl Richter",
+      "James Hardy",
+      "Karl Landsteiner"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Walter Cannon"
+    ]
+  },
+  {
+    "question": "How does allostasis differ from homeostasis?",
+    "answers": [
+      "Homeostasis favors variability while allostasis eliminates all variations",
+      "Homeostasis reduces variability to maintain consistency, whereas allostasis maintains stability through change and daily variations",
+      "Allostasis only occurs in amphibians, while homeostasis only occurs in mammals",
+      "Homeostasis relies solely on positive feedback, while allostasis uses negative feedback"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Homeostasis reduces variability to maintain consistency, whereas allostasis maintains stability through change and daily variations"
+    ]
+  },
+  {
+    "question": "Which of the following is a classic physiological example of a positive feedback loop?",
+    "answers": [
+      "Shivering in response to cold temperature",
+      "Oxytocin release stimulating uterine contractions during labor until delivery",
+      "Sweating when core temperature rises above 37°C",
+      "Baroreceptor regulation of arterial blood pressure"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Oxytocin release stimulating uterine contractions during labor until delivery"
+    ]
+  },
+  {
+    "question": "In cellular ATP production throughout the body, approximately what percentage of energy produced is in the form of heat used to maintain body temperature?",
+    "answers": [
+      "15%",
+      "20%",
+      "40%",
+      "60%"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "60%"
+    ]
+  },
+  {
+    "question": "Which brain structure acts as the master thermostat to regulate core body temperature?",
+    "answers": [
+      "Pineal gland",
+      "Hypothalamus",
+      "Cerebellum",
+      "Medulla oblongata"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Hypothalamus"
+    ]
+  },
+  {
+    "question": "Through which heat exchange mechanism does the body lose approximately 60% of its heat via infrared waves?",
+    "answers": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Evaporation"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Radiation"
+    ]
+  },
+  {
+    "question": "At rest, approximately what percentage of body heat is lost through conduction, convection, and evaporation, respectively?",
+    "answers": [
+      "3% conduction, 15% convection, 20% evaporation",
+      "15% conduction, 3% convection, 60% evaporation",
+      "20% conduction, 60% convection, 15% evaporation",
+      "60% conduction, 20% convection, 3% evaporation"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "3% conduction, 15% convection, 20% evaporation"
+    ]
+  },
+  {
+    "question": "During acute exposure to cold conditions, sympathetic discharge of norepinephrine causes systemic arteriolar constriction, leading to ________.",
+    "answers": [
+      "decreased systemic blood pressure and decreased heart rate",
+      "increased systemic blood pressure and increased heart rate",
+      "cutaneous vasodilation and increased heat radiation",
+      "inhibition of thyroid hormone release"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "increased systemic blood pressure and increased heart rate"
+    ]
+  },
+  {
+    "question": "Which structure in the hypothalamus serves as the main endogenous pacemaker (master clock) for the 24-hour circadian sleep-wake cycle?",
+    "answers": [
+      "Suprachiasmatic nucleus (SCN)",
+      "Anterior pituitary",
+      "Corpus striatum",
+      "Parathyroid gland"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Suprachiasmatic nucleus (SCN)"
+    ]
+  },
+  {
+    "question": "Which light-sensitive protein in the retina detects brightness and carries signals to the SCN to set the 24-hour daily body cycle?",
+    "answers": [
+      "Rhodopsin",
+      "Melanopsin",
+      "Hemoglobin",
+      "Albumin"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Melanopsin"
+    ]
+  },
+  {
+    "question": "Biological rhythms that last longer than 24 hours—such as the ~28-day human menstrual cycle or Seasonal Affective Disorder (SAD)—are classified as ________ rhythms.",
+    "answers": [
+      "circadian",
+      "ultradian",
+      "infradian",
+      "diurnal"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "infradian"
+    ]
+  },
+  {
+    "question": "How long does one complete ultradian sleep cycle (progressing through NREM stages 1–4 and REM stage 5) last on average?",
+    "answers": [
+      "24 hours",
+      "90 minutes",
+      "12 hours",
+      "28 days"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "90 minutes"
+    ]
+  },
+  {
+    "question": "Which EEG brainwave pattern is characteristically associated with deep, slow-wave sleep (Stages 3 and 4)?",
+    "answers": [
+      "Alpha waves",
+      "Beta waves",
+      "Delta waves",
+      "Gamma waves"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Delta waves"
+    ]
+  },
+  {
+    "question": "Blood constitutes approximately ________ of adult body weight, with an average volume of ________ in males and ________ in females.",
+    "answers": [
+      "7–8%; 5–6 liters; 4–5 liters",
+      "15–20%; 8–9 liters; 6–7 liters",
+      "2–3%; 2–3 liters; 1–2 liters",
+      "10–12%; 7–8 liters; 5–6 liters"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "7–8%; 5–6 liters; 4–5 liters"
+    ]
+  },
+  {
+    "question": "Whole blood is composed of approximately ________ plasma and ________ formed elements.",
+    "answers": [
+      "45%; 55%",
+      "55%; 45%",
+      "70%; 30%",
+      "90%; 10%"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "55%; 45%"
+    ]
+  },
+  {
+    "question": "Which plasma protein makes up 55–60% of plasma proteins and is primarily responsible for maintaining colloidal osmotic pressure (~25 mmHg)?",
+    "answers": [
+      "Fibrinogen",
+      "Albumin",
+      "Gamma globulin",
+      "Prothrombin"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Albumin"
+    ]
+  },
+  {
+    "question": "Which type of white blood cell releases histamine during allergic reactions?",
+    "answers": [
+      "Neutrophils",
+      "Lymphocytes",
+      "Basophils",
+      "Monocytes"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Basophils"
+    ]
+  },
+  {
+    "question": "Platelets (thrombocytes) are cytoplasmic fragments derived from large bone marrow cells called ________.",
+    "answers": [
+      "reticulocytes",
+      "megakaryocytes",
+      "myeloblasts",
+      "osteoclasts"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "megakaryocytes"
+    ]
+  },
+  {
+    "question": "What is the correct chronological sequence of the primary site of hematopoiesis from early fetal life to adulthood ('hematopoietic shift')?",
+    "answers": [
+      "Bone marrow → Liver and spleen → Yolk sac",
+      "Yolk sac → Liver and spleen → Bone marrow",
+      "Liver and spleen → Yolk sac → Thymus",
+      "Lymph nodes → Yolk sac → Bone marrow"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Yolk sac → Liver and spleen → Bone marrow"
+    ]
+  },
+  {
+    "question": "Blood cell production occurring outside the bone marrow (such as in the liver, spleen, and lymph nodes) during pathological bone marrow stress is called ________.",
+    "answers": [
+      "erythropoiesis",
+      "extramedullary hematopoiesis",
+      "fibrinolysis",
+      "alloimmunization"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "extramedullary hematopoiesis"
+    ]
+  },
+  {
+    "question": "Hematopoietic Stem Cells (HSCs) differentiate into which two main committed progenitor lineages?",
+    "answers": [
+      "Erythroid and megakaryocytic progenitors",
+      "Myeloid and lymphoid progenitors",
+      "Granulocytic and monocytic progenitors",
+      "Hepatic and splenic progenitors"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Myeloid and lymphoid progenitors"
+    ]
+  },
+  {
+    "question": "How does erythropoiesis relate to hematopoiesis?",
+    "answers": [
+      "Erythropoiesis is the production of all blood cells, while hematopoiesis only makes RBCs",
+      "Erythropoiesis is a subset of hematopoiesis specifically referring to the production of red blood cells",
+      "Erythropoiesis occurs in the thymus, while hematopoiesis occurs in the spleen",
+      "Erythropoiesis produces platelets, while hematopoiesis produces plasma"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Erythropoiesis is a subset of hematopoiesis specifically referring to the production of red blood cells"
+    ]
+  },
+  {
+    "question": "Having too many red blood cells, which can thicken the blood and increase the risk of heart attack or stroke, is termed ________.",
+    "answers": [
+      "anemia",
+      "leukopenia",
+      "erythrocytosis",
+      "thrombocytopenia"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "erythrocytosis"
+    ]
+  },
+  {
+    "question": "A total white blood cell count over 10,000/mm³ is termed ________, whereas a count under 4,000/mm³ is termed ________.",
+    "answers": [
+      "leukopenia; leukocytosis",
+      "leukocytosis; leukopenia",
+      "neutropenia; neutrophilia",
+      "erythrocytosis; anemia"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "leukocytosis; leukopenia"
+    ]
+  },
+  {
+    "question": "Which white blood cell type normally accounts for 55–75% of total WBCs and increases primarily during acute bacterial infections?",
+    "answers": [
+      "Lymphocytes",
+      "Neutrophils",
+      "Monocytes",
+      "Eosinophils"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Neutrophils"
+    ]
+  },
+  {
+    "question": "An elevated eosinophil count (eosinophilia, above the normal 1–4% range) is classically associated with ________.",
+    "answers": [
+      "acute bacterial sepsis",
+      "allergic reactions and parasitic infections",
+      "viral mononucleosis",
+      "iron deficiency anemia"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "allergic reactions and parasitic infections"
+    ]
+  },
+  {
+    "question": "In a six-part automated WBC differential, the immature granulocytes (IG) parameter represents the combined enumeration of ________.",
+    "answers": [
+      "lymphoblasts, monoblasts, and megakaryoblasts",
+      "promyelocytes, metamyelocytes, and myelocytes",
+      "reticulocytes, normoblasts, and erythrocytes",
+      "B cells, T cells, and NK cells"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "promyelocytes, metamyelocytes, and myelocytes"
+    ]
+  },
+  {
+    "question": "Clinical hypoalbuminemia typically leads to ________, whereas low fibrinogen leads to ________.",
+    "answers": [
+      "bleeding risk; edema",
+      "edema; bleeding risk",
+      "malignancy; thrombosis",
+      "polycythemia; jaundice"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "edema; bleeding risk"
+    ]
+  },
+  {
+    "question": "During the coagulation cascade, activated Factor X (Factor Xa) converts ________ into ________.",
+    "answers": [
+      "fibrinogen; fibrin",
+      "prothrombin; thrombin",
+      "plasminogen; plasmin",
+      "antithrombin III; heparin"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "prothrombin; thrombin"
+    ]
+  },
+  {
+    "question": "How does the oral anticoagulant warfarin prevent blood clotting?",
+    "answers": [
+      "By directly inhibiting thrombin",
+      "By enhancing antithrombin III activity",
+      "By inhibiting vitamin K-dependent clotting factors (II, VII, IX, and X)",
+      "By digesting cross-linked fibrin strands"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "By inhibiting vitamin K-dependent clotting factors (II, VII, IX, and X)"
+    ]
+  },
+  {
+    "question": "What is the normal platelet count range and average lifespan of platelets in circulation?",
+    "answers": [
+      "5,000–10,000/mm³; 120 days",
+      "150,000–450,000/mm³; 7–10 days",
+      "50,000–100,000/mm³; 30–40 days",
+      "1,000,000–2,000,000/mm³; 24 hours"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "150,000–450,000/mm³; 7–10 days"
+    ]
+  },
+  {
+    "question": "Which protein is the main enzyme responsible for digesting fibrin during fibrinolysis?",
+    "answers": [
+      "Thrombin",
+      "Plasmin",
+      "Fibrinogen",
+      "Factor VIII"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Plasmin"
+    ]
+  },
+  {
+    "question": "Who discovered the ABO blood group system in 1900, and who later described blood group AB in 1902?",
+    "answers": [
+      "Karl Landsteiner; Decastello and Sturli",
+      "Karl Landsteiner and Alexander Wiener; James Blundell",
+      "Richard Lower; Jean-Baptiste Denis",
+      "Edward Jenner; Louis Pasteur"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Karl Landsteiner; Decastello and Sturli"
+    ]
+  },
+  {
+    "question": "Which ABO blood group has both A and B antigens on RBCs and neither anti-A nor anti-B antibodies in plasma, making it the universal recipient?",
+    "answers": [
+      "Group A",
+      "Group B",
+      "Group AB",
+      "Group O"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Group AB"
+    ]
+  },
+  {
+    "question": "On which chromosome is the ABO gene located, and how do the IA, IB, and i alleles interact?",
+    "answers": [
+      "Chromosome 1; IA and IB are recessive to i",
+      "Chromosome 9; IA and IB are codominant, while i is recessive",
+      "Chromosome 21; all three alleles are codominant",
+      "X chromosome; IA is dominant over IB"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Chromosome 9; IA and IB are codominant, while i is recessive"
+    ]
+  },
+  {
+    "question": "In laboratory ABO typing, ________ tests the patient's RBCs with known anti-A and anti-B sera, whereas ________ tests the patient's serum against known A and B cells.",
+    "answers": [
+      "reverse grouping; forward grouping",
+      "forward grouping; reverse grouping",
+      "minor crossmatch; major crossmatch",
+      "direct Coombs test; indirect Coombs test"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "forward grouping; reverse grouping"
+    ]
+  },
+  {
+    "question": "Hemolytic Disease of the Newborn (HDN) due to Rh incompatibility typically occurs when ________.",
+    "answers": [
+      "an Rh-positive mother carries an Rh-negative fetus",
+      "a sensitized Rh-negative mother carries an Rh-positive fetus and maternal anti-D IgG crosses the placenta",
+      "a group AB mother carries a group O fetus",
+      "an Rh-negative father and Rh-negative mother conceive an Rh-positive child"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "a sensitized Rh-negative mother carries an Rh-positive fetus and maternal anti-D IgG crosses the placenta"
+    ]
+  },
+  {
+    "question": "Individuals who lack antigens in which minor blood group system show resistance to Plasmodium vivax malaria because the antigen serves as the parasite's receptor?",
+    "answers": [
+      "Kell system",
+      "Duffy system",
+      "Kidd system",
+      "Lewis system"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Duffy system"
+    ]
+  },
+  {
+    "question": "Who performed the first recorded successful human-to-human blood transfusion in London in 1818?",
+    "answers": [
+      "Richard Lower",
+      "Jean-Baptiste Denis",
+      "Dr. James Blundell",
+      "Karl Landsteiner"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Dr. James Blundell"
+    ]
+  },
+  {
+    "question": "Which blood component is specifically indicated for treating patients with hemophilia A, von Willebrand disease, or hypofibrinogenemia?",
+    "answers": [
+      "Packed Red Blood Cells (PRBCs)",
+      "Platelet concentrates",
+      "Cryoprecipitate",
+      "Granulocyte concentrates"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Cryoprecipitate"
+    ]
+  },
+  {
+    "question": "In compatibility testing, what does the 'major crossmatch' entail?",
+    "answers": [
+      "Mixing donor serum with recipient red cells",
+      "Mixing donor red cells with recipient serum",
+      "Testing donor serum against reagent red cells",
+      "Testing recipient urine for hemoglobinuria"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Mixing donor red cells with recipient serum"
+    ]
+  },
+  {
+    "question": "Which acute transfusion complication is a life-threatening pulmonary edema caused by donor anti-leukocyte antibodies?",
+    "answers": [
+      "Transfusion-Associated Circulatory Overload (TACO)",
+      "Transfusion-Related Acute Lung Injury (TRALI)",
+      "Febrile non-hemolytic reaction",
+      "Graft-versus-Host Disease (GVHD)"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Transfusion-Related Acute Lung Injury (TRALI)"
+    ]
+  },
+  {
+    "question": "How is transfusion-associated Graft-versus-Host Disease (GVHD) prevented in susceptible recipients?",
+    "answers": [
+      "Storing platelets at 4°C",
+      "Irradiation of blood products",
+      "Administering antipyretics prior to transfusion",
+      "Adding sodium citrate to FFP"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Irradiation of blood products"
+    ]
+  },
+  {
+    "question": "What are the standard storage temperature and shelf life for Packed Red Blood Cells (PRBCs) and Platelets, respectively?",
+    "answers": [
+      "PRBCs: 2–6°C for 35–42 days; Platelets: 20–24°C with agitation for 5–7 days",
+      "PRBCs: -30°C for 12 months; Platelets: 2–6°C for 35 days",
+      "PRBCs: 20–24°C for 5 days; Platelets: -18°C for 1 year",
+      "PRBCs: 37°C for 24 hours; Platelets: 2–6°C for 42 days"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "PRBCs: 2–6°C for 35–42 days; Platelets: 20–24°C with agitation for 5–7 days"
+    ]
+  },
+  {
+    "question": "Who first introduced the concept of the reticulo-endothelial system (RES) in the early 20th century?",
+    "answers": [
+      "Karl Albert Ludwig Aschoff",
+      "Elie Metchnikoff",
+      "Paul Ehrlich",
+      "Frank Macfarlane Burnet"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Karl Albert Ludwig Aschoff"
+    ]
+  },
+  {
+    "question": "Which of the following correctly matches the organ or tissue with its resident reticulo-endothelial system (RES) phagocytic cell? (Pick two)",
+    "answers": [
+      "Liver — Kupffer cells",
+      "Brain — Osteoclasts",
+      "Brain — Microglia",
+      "Bone — Alveolar macrophages"
+    ],
+    "correct_answer_indices": [
+      0,
+      2
+    ],
+    "correct_answers": [
+      "Liver — Kupffer cells",
+      "Brain — Microglia"
+    ]
+  },
+  {
+    "question": "In what forms do Kupffer cells and macrophages store iron recycled from the breakdown of senescent red blood cells?",
+    "answers": [
+      "Transferrin and bilirubin",
+      "Ferritin and hemosiderin",
+      "Albumin and globulin",
+      "Fibrin and plasmin"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Ferritin and hemosiderin"
+    ]
+  },
+  {
+    "question": "Which immunohistochemical marker is commonly used to identify macrophages in histological tissue sections?",
+    "answers": [
+      "CD4",
+      "CD8",
+      "CD68",
+      "CD11c"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "CD68"
+    ]
+  },
+  {
+    "question": "Which genetic lysosomal storage disease of the RES involves defective lysosomal enzymes leading to lipid-laden macrophages (Gaucher cells) and hepatosplenomegaly?",
+    "answers": [
+      "Gaucher's disease",
+      "Hemophilia A",
+      "DiGeorge syndrome",
+      "X-linked agammaglobulinemia"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Gaucher's disease"
+    ]
+  },
+  {
+    "question": "Which organs are classified as primary lymphoid organs where B and T lymphocytes develop and mature?",
+    "answers": [
+      "Spleen and lymph nodes",
+      "Bone marrow and thymus",
+      "Tonsils and Peyer's patches",
+      "Liver and spleen"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Bone marrow and thymus"
+    ]
+  },
+  {
+    "question": "Which historical immunologist formulated the clonal selection theory explaining how lymphocytes produce specific antigen receptors and form memory cells?",
+    "answers": [
+      "Edward Jenner",
+      "Paul Ehrlich",
+      "Frank Macfarlane Burnet",
+      "Elie Metchnikoff"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Frank Macfarlane Burnet"
+    ]
+  },
+  {
+    "question": "Protection of a newborn infant during the first few months of life via maternal IgG antibodies transferred across the placenta is an example of ________ immunity.",
+    "answers": [
+      "artificial active",
+      "natural passive",
+      "artificial passive",
+      "natural active"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "natural passive"
+    ]
+  },
+  {
+    "question": "Which primary immunodeficiency disorder is caused by mutations in the Bruton's tyrosine kinase (BTK) gene, leading to failure of B-cell maturation and absence of immunoglobulins?",
+    "answers": [
+      "DiGeorge syndrome",
+      "X-linked Agammaglobulinemia (XLA)",
+      "Chronic Granulomatous Disease (CGD)",
+      "Common Variable Immunodeficiency (CVID)"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "X-linked Agammaglobulinemia (XLA)"
+    ]
+  },
+  {
+    "question": "Chronic Granulomatous Disease (CGD) is caused by a genetic defect in which phagocyte enzyme system, resulting in defective killing of bacteria and fungi?",
+    "answers": [
+      "Na+/K+-ATPase",
+      "NADPH oxidase system",
+      "Aromatase",
+      "ATP synthase"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "NADPH oxidase system"
+    ]
+  },
+  {
+    "question": "HIV belongs to the retrovirus genus ________ and primarily infects ________.",
+    "answers": [
+      "Lentivirus; CD4+ T lymphocytes, macrophages, and dendritic cells",
+      "Adenovirus; CD8+ cytotoxic T cells and B cells",
+      "Parvovirus; erythrocytes and megakaryocytes",
+      "Flavivirus; neutrophils and eosinophils"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Lentivirus; CD4+ T lymphocytes, macrophages, and dendritic cells"
+    ]
+  },
+  {
+    "question": "At what CD4+ T cell threshold (or presence of AIDS-defining illnesses) is HIV infection classified as Acquired Immunodeficiency Syndrome (AIDS)?",
+    "answers": [
+      "Below 1,000 cells/μL",
+      "Below 500 cells/μL",
+      "Below 200 cells/μL",
+      "Below 50 cells/μL"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Below 200 cells/μL"
+    ]
+  },
+  {
+    "question": "According to the POI 201 text, what is the preferred first-line Antiretroviral Therapy (ART) regimen in Nigeria?",
+    "answers": [
+      "Tenofovir (TDF), Lamivudine (3TC), and Dolutegravir (DTG)",
+      "Warfarin, Heparin, and Aspirin",
+      "Octreotide, Erythropoietin, and IVIG",
+      "Zidovudine, Ribavirin, and Interferon-gamma"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Tenofovir (TDF), Lamivudine (3TC), and Dolutegravir (DTG)"
+    ]
+  }
+]
