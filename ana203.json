@@ -1,0 +1,1339 @@
+[
+  {
+    "question": "Sperm are produced by spermatogenesis within the ________.",
+    "answers": [
+      "seminiferous tubules",
+      "epididymis",
+      "rete testis",
+      "vas deferens"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "seminiferous tubules"
+    ]
+  },
+  {
+    "question": "Which cells in the seminiferous tubules support, nourish developing sperm cells, form the blood-testis barrier, and secrete inhibin?",
+    "answers": [
+      "Leydig cells",
+      "Sertoli cells",
+      "Spermatogonia",
+      "Primary spermatocytes"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Sertoli cells"
+    ]
+  },
+  {
+    "question": "Which type of spermatogonia gives rise to primary spermatocytes?",
+    "answers": [
+      "Dark Type A spermatogonia",
+      "Light Type A spermatogonia",
+      "Type B spermatogonia",
+      "Spermatids"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Type B spermatogonia"
+    ]
+  },
+  {
+    "question": "How many spermatids are formed from one primary spermatocyte after completing both meiotic divisions?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "4"
+    ]
+  },
+  {
+    "question": "The final step in the development of sperm where spermatids become mature spermatozoa is called ________.",
+    "answers": [
+      "spermatogenesis",
+      "spermiogenesis",
+      "capacitation",
+      "folliculogenesis"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "spermiogenesis"
+    ]
+  },
+  {
+    "question": "Which part of a mature spermatozoon contains mitochondria that provide adenosine triphosphate (ATP) for locomotion?",
+    "answers": [
+      "Head",
+      "Acrosome",
+      "Midpiece",
+      "Tail"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Midpiece"
+    ]
+  },
+  {
+    "question": "The entire process of spermatogenesis, beginning with a primary spermatocyte, takes approximately ________.",
+    "answers": [
+      "28 days",
+      "36 hours",
+      "48 hours",
+      "74 days"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "74 days"
+    ]
+  },
+  {
+    "question": "Leydig cells are located in the interstitial tissue of the testes and produce ________ under LH stimulation.",
+    "answers": [
+      "inhibin",
+      "testosterone",
+      "androgen-binding protein",
+      "estrogen"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "testosterone"
+    ]
+  },
+  {
+    "question": "At what stage of meiosis do primary oocytes arrest during fetal development until puberty?",
+    "answers": [
+      "Prophase I",
+      "Metaphase I",
+      "Prophase II",
+      "Metaphase II"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Prophase I"
+    ]
+  },
+  {
+    "question": "Approximately how many primary oocytes are contained in the two ovaries at birth and by puberty, respectively?",
+    "answers": [
+      "2 million at birth; 700,000 at puberty",
+      "700,000 at birth; 400,000 at puberty",
+      "400,000 at birth; 20,000 at puberty",
+      "1 million at birth; 100,000 at puberty"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "700,000 at birth; 400,000 at puberty"
+    ]
+  },
+  {
+    "question": "During the ovarian cycle, the secondary oocyte begins meiosis II and arrests at ________ until fertilization occurs.",
+    "answers": [
+      "Prophase I",
+      "Metaphase I",
+      "Prophase II",
+      "Metaphase II"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "Metaphase II"
+    ]
+  },
+  {
+    "question": "How many functional fertilizable ova develop from one primary oocyte during oogenesis?",
+    "answers": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "One"
+    ]
+  },
+  {
+    "question": "Which ovarian follicle consists of a primary oocyte enveloped by a single layer of flattened squamous pre-granulosa cells?",
+    "answers": [
+      "Primordial follicle",
+      "Primary follicle",
+      "Secondary follicle",
+      "Graafian follicle"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Primordial follicle"
+    ]
+  },
+  {
+    "question": "The glycoprotein layer that begins to form around the oocyte during the primary follicle stage is called the ________.",
+    "answers": [
+      "corona radiata",
+      "zona pellucida",
+      "theca externa",
+      "basement membrane"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "zona pellucida"
+    ]
+  },
+  {
+    "question": "In developing ovarian follicles, theca interna cells produce ________, which granulosa cells convert into estradiol via the enzyme ________.",
+    "answers": [
+      "progesterone; plasmin",
+      "androstenedione; aromatase",
+      "inhibin B; collagenase",
+      "testosterone; hyaluronan"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "androstenedione; aromatase"
+    ]
+  },
+  {
+    "question": "In a mature (Graafian) follicle, the diminished cumulus oophorus immediately surrounding the oocyte is called the ________.",
+    "answers": [
+      "zona granulosa",
+      "corona radiata",
+      "theca interna",
+      "antrum"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "corona radiata"
+    ]
+  },
+  {
+    "question": "Precocious puberty is defined as the onset of secondary sexual characteristics before age ________ in girls and age ________ in boys.",
+    "answers": [
+      "8; 9",
+      "9; 8",
+      "10; 11",
+      "13; 14"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "8; 9"
+    ]
+  },
+  {
+    "question": "Delayed puberty is defined as the absence of pubertal signs by age ________ in girls and age ________ in boys.",
+    "answers": [
+      "10; 11",
+      "11; 12",
+      "12; 13",
+      "13; 14"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "13; 14"
+    ]
+  },
+  {
+    "question": "Which ligament anchors the medial pole of each ovary to the uterus?",
+    "answers": [
+      "Infundibulopelvic ligament",
+      "Utero-ovarian ligament",
+      "Broad ligament",
+      "Round ligament"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Utero-ovarian ligament"
+    ]
+  },
+  {
+    "question": "Low-frequency GnRH pulses from the hypothalamus stimulate ________ secretion, whereas high-frequency pulses stimulate ________ secretion.",
+    "answers": [
+      "LH; FSH",
+      "FSH; LH",
+      "progesterone; estrogen",
+      "inhibin A; inhibin B"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "FSH; LH"
+    ]
+  },
+  {
+    "question": "Glycoprotein hormones such as FSH, LH, TSH, and hCG share a common ________ subunit.",
+    "answers": [
+      "alpha",
+      "beta",
+      "gamma",
+      "delta"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "alpha"
+    ]
+  },
+  {
+    "question": "Sustained elevation of circulating estradiol above a critical threshold for approximately ________ hours switches hypothalamic feedback from negative to positive, triggering the LH surge.",
+    "answers": [
+      "12",
+      "24",
+      "48",
+      "72"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "48"
+    ]
+  },
+  {
+    "question": "Which proteolytic enzymes are activated by the LH surge to weaken the follicular wall and allow ovulation?",
+    "answers": [
+      "Aromatase and hyaluronan",
+      "Plasmin and collagenase",
+      "Pepsin and trypsin",
+      "Amylase and lipase"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Plasmin and collagenase"
+    ]
+  },
+  {
+    "question": "After ovulation, granulosa cells transform into ________ luteal cells and theca interna cells transform into ________ luteal cells.",
+    "answers": [
+      "small; large",
+      "large; small",
+      "stromal; epithelial",
+      "cuboidal; squamous"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "large; small"
+    ]
+  },
+  {
+    "question": "If fertilization does not occur, the corpus luteum degenerates into a fibrotic scar called the ________.",
+    "answers": [
+      "corpus cavernosum",
+      "corpus albicans",
+      "corpus spongiosum",
+      "antral follicle"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "corpus albicans"
+    ]
+  },
+  {
+    "question": "In pregnancy, the corpus luteum continues producing progesterone for the first ________ weeks until the placenta takes over (luteal-placental shift).",
+    "answers": [
+      "2–4",
+      "4–6",
+      "8–12",
+      "16–20"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "8–12"
+    ]
+  },
+  {
+    "question": "Which ovulatory disorder is characterized by a follicle maturing without rupturing, mimicking normal hormone levels?",
+    "answers": [
+      "Anovulation",
+      "Unruptured Luteinized Follicle Syndrome",
+      "Premature Ovulation",
+      "Luteal Phase Defect"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Unruptured Luteinized Follicle Syndrome"
+    ]
+  },
+  {
+    "question": "In a typical 28-day menstrual cycle, the secretory (luteal) phase occurs during days ________.",
+    "answers": [
+      "1–5",
+      "6–14",
+      "15–28",
+      "1–14"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "15–28"
+    ]
+  },
+  {
+    "question": "Where does human fertilization normally occur?",
+    "answers": [
+      "Isthmus of the fallopian tube",
+      "Ampulla of the fallopian tube",
+      "Endometrial cavity",
+      "Infundibulum"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Ampulla of the fallopian tube"
+    ]
+  },
+  {
+    "question": "The physiological maturation process in the female reproductive tract that enhances sperm motility and prepares it to penetrate the ovum is called ________.",
+    "answers": [
+      "acrosome reaction",
+      "cortical reaction",
+      "capacitation",
+      "compaction"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "capacitation"
+    ]
+  },
+  {
+    "question": "Which event prevents polyspermy by hardening the zona pellucida after sperm-egg membrane fusion?",
+    "answers": [
+      "Acrosome reaction",
+      "Cortical reaction",
+      "Capacitation",
+      "Hatching"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Cortical reaction"
+    ]
+  },
+  {
+    "question": "Human cleavage is characterized as ________ cleavage.",
+    "answers": [
+      "meroblastic and discoidal",
+      "holoblastic and rotational",
+      "superficial and radial",
+      "holoblastic and spiral"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "holoblastic and rotational"
+    ]
+  },
+  {
+    "question": "Why do cleavage divisions not increase the overall size of the early embryo?",
+    "answers": [
+      "They skip the G1 and G2 growth phases and remain enclosed within the zona pellucida.",
+      "Trophoblast cells actively shrink the blastocoel.",
+      "Apoptosis destroys half of the blastomeres after every division.",
+      "Progesterone inhibits cytoplasmic synthesis."
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "They skip the G1 and G2 growth phases and remain enclosed within the zona pellucida."
+    ]
+  },
+  {
+    "question": "By day 3 post-fertilization, the embryo forms a 16–32 cell solid ball called a ________.",
+    "answers": [
+      "zygote",
+      "morula",
+      "blastocyst",
+      "gastrula"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "morula"
+    ]
+  },
+  {
+    "question": "Compaction at the 8-cell stage is mediated by adhesion molecules such as ________.",
+    "answers": [
+      "E-cadherin",
+      "L-selectin",
+      "integrin αvβ3",
+      "collagenase"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "E-cadherin"
+    ]
+  },
+  {
+    "question": "Which structure of the blastocyst gives rise to the embryo proper (epiblast and hypoblast)?",
+    "answers": [
+      "Trophectoderm",
+      "Inner Cell Mass (ICM)",
+      "Blastocoel",
+      "Zona pellucida"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Inner Cell Mass (ICM)"
+    ]
+  },
+  {
+    "question": "Which adhesion molecule expressed on the trophoblast mediates initial loose apposition with oligosaccharide ligands on the endometrial epithelium?",
+    "answers": [
+      "E-cadherin",
+      "L-selectin",
+      "MUC1",
+      "Fibronectin"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "L-selectin"
+    ]
+  },
+  {
+    "question": "Implantation typically occurs ________ days after fertilization, during the 'window of implantation'.",
+    "answers": [
+      "1–3",
+      "3–5",
+      "6–10",
+      "14–16"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "6–10"
+    ]
+  },
+  {
+    "question": "The transformation of endometrial stromal fibroblasts into secretory, glycogen-rich cells that modulate immunity and nourish the embryo is called ________.",
+    "answers": [
+      "luteinization",
+      "decidualization",
+      "capacitation",
+      "cavitation"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "decidualization"
+    ]
+  },
+  {
+    "question": "Gastrulation begins in humans around day ________ post-fertilization and reorganizes the blastula into a three-layered gastrula.",
+    "answers": [
+      "4–5",
+      "6–7",
+      "14–15",
+      "22–23"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "14–15"
+    ]
+  },
+  {
+    "question": "The first morphological indication of gastrulation is the appearance of the ________ on the dorsal surface of the epiblast at the caudal end.",
+    "answers": [
+      "neural groove",
+      "primitive streak",
+      "notochord",
+      "somite"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "primitive streak"
+    ]
+  },
+  {
+    "question": "Which germ layer is formed by the first wave of epiblast cells that invaginate through the primitive streak and displace the hypoblast?",
+    "answers": [
+      "Ectoderm",
+      "Intraembryonic mesoderm",
+      "Definitive endoderm",
+      "Neuroectoderm"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Definitive endoderm"
+    ]
+  },
+  {
+    "question": "Which structure is formed by cells ingressing cranially through the primitive node and secretes Sonic Hedgehog (SHH) to induce the neural plate?",
+    "answers": [
+      "Notochord",
+      "Somite",
+      "Allantois",
+      "Ureteric bud"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Notochord"
+    ]
+  },
+  {
+    "question": "Which of the following structures are derived from neural crest cells? (Pick two)",
+    "answers": [
+      "Adrenal medulla",
+      "Adrenal cortex",
+      "Melanocytes",
+      "Skeletal muscles"
+    ],
+    "correct_answer_indices": [
+      0,
+      2
+    ],
+    "correct_answers": [
+      "Adrenal medulla",
+      "Melanocytes"
+    ]
+  },
+  {
+    "question": "Somites arise from which subdivision of the mesoderm?",
+    "answers": [
+      "Paraxial mesoderm",
+      "Intermediate mesoderm",
+      "Lateral plate mesoderm",
+      "Axial mesoderm"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Paraxial mesoderm"
+    ]
+  },
+  {
+    "question": "Each somite differentiates into three parts: sclerotome, myotome, and dermatome. Which part gives rise to the vertebrae and ribs?",
+    "answers": [
+      "Sclerotome",
+      "Myotome",
+      "Dermatome",
+      "Nephrotome"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Sclerotome"
+    ]
+  },
+  {
+    "question": "Failure of the neural tube to close at its cranial (head) end results in ________, whereas failure at the caudal (tail) end results in ________.",
+    "answers": [
+      "spina bifida; anencephaly",
+      "anencephaly; spina bifida",
+      "holoprosencephaly; sirenomelia",
+      "phocomelia; amelia"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "anencephaly; spina bifida"
+    ]
+  },
+  {
+    "question": "During gastrulation, extracellular antagonists such as Noggin, Chordin, and Gremlin promote neural induction by inhibiting ________.",
+    "answers": [
+      "SHH",
+      "BMP",
+      "FGF",
+      "Wnt"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "BMP"
+    ]
+  },
+  {
+    "question": "During which week of limb development does apoptosis separate the fingers and toes?",
+    "answers": [
+      "Week 4",
+      "Week 5",
+      "Week 7",
+      "Week 8"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "Week 8"
+    ]
+  },
+  {
+    "question": "A congenital abnormality caused by mechanical forces molding a part of the fetus over a prolonged period (e.g., clubfeet from amniotic compression) is called a ________.",
+    "answers": [
+      "malformation",
+      "disruption",
+      "deformation",
+      "syndrome"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "deformation"
+    ]
+  },
+  {
+    "question": "Which chromosomal abnormality is associated with the karyotype 45, X?",
+    "answers": [
+      "Klinefelter syndrome",
+      "Turner syndrome",
+      "Edwards syndrome",
+      "Patau syndrome"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Turner syndrome"
+    ]
+  },
+  {
+    "question": "Trisomy 18 is known as ________ syndrome, while Trisomy 13 is known as ________ syndrome.",
+    "answers": [
+      "Down; Turner",
+      "Edwards; Patau",
+      "Patau; Edwards",
+      "Klinefelter; Down"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Edwards; Patau"
+    ]
+  },
+  {
+    "question": "Exposure to the drug thalidomide between days 20–36 post-fertilization is classically linked to ________, characterized by underdeveloped or absent long limb bones.",
+    "answers": [
+      "sirenomelia",
+      "phocomelia",
+      "anencephaly",
+      "holoprosencephaly"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "phocomelia"
+    ]
+  },
+  {
+    "question": "The amnion is an ________ membrane composed of ectoderm-derived amnioblasts and underlying somatic mesoderm.",
+    "answers": [
+      "avascular",
+      "highly vascularized",
+      "endoderm-derived",
+      "maternal"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "avascular"
+    ]
+  },
+  {
+    "question": "Which extra-embryonic membrane is the first to form (~day 8–9) from the hypoblast and serves as the primary site of hematopoiesis during the first 6 weeks?",
+    "answers": [
+      "Amnion",
+      "Chorion",
+      "Yolk sac",
+      "Allantois"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Yolk sac"
+    ]
+  },
+  {
+    "question": "The proximal portion of the allantois persists briefly and becomes obliterated postnatally as the ________.",
+    "answers": [
+      "medial umbilical ligament",
+      "median umbilical ligament",
+      "falciform ligament",
+      "ligamentum venosum"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "median umbilical ligament"
+    ]
+  },
+  {
+    "question": "Which trophoblast cell layer forms a continuous multinucleated covering over chorionic villi and is the core endocrine tissue of the placenta?",
+    "answers": [
+      "Cytotrophoblast",
+      "Syncytiotrophoblast",
+      "Extravillous trophoblast",
+      "Amnioblast"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Syncytiotrophoblast"
+    ]
+  },
+  {
+    "question": "Which placental hormone promotes maternal insulin resistance and lipolysis to conserve glucose for fetal use?",
+    "answers": [
+      "Human chorionic gonadotropin (hCG)",
+      "Human placental lactogen (hPL)",
+      "Relaxin",
+      "Inhibin A"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Human placental lactogen (hPL)"
+    ]
+  },
+  {
+    "question": "How does glucose cross the placental membrane from maternal to fetal blood?",
+    "answers": [
+      "Active transport via System A",
+      "Facilitated diffusion via GLUT transporters",
+      "Receptor-mediated endocytosis",
+      "Simple osmosis via aquaporins"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Facilitated diffusion via GLUT transporters"
+    ]
+  },
+  {
+    "question": "Near term, oxidative stress in fetal membranes activates the ________ stress response pathway, driving cellular senescence and labor initiation.",
+    "answers": [
+      "p38 MAPK",
+      "PI3K-AKT",
+      "RAS-MAPK",
+      "SHH-GLI"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "p38 MAPK"
+    ]
+  },
+  {
+    "question": "Preterm premature rupture of membranes (pPROM) is defined as rupture of fetal membranes before ________ weeks of gestation and accounts for approximately ________ of all preterm births.",
+    "answers": [
+      "34; 10–15%",
+      "37; 30–40%",
+      "38; 50–60%",
+      "40; 20–25%"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "37; 30–40%"
+    ]
+  },
+  {
+    "question": "Placental implantation over or within 2 cm of the internal cervical os, presenting classically with painless bright-red vaginal bleeding in the second and third trimesters, is called ________.",
+    "answers": [
+      "abruptio placentae",
+      "placenta previa",
+      "placenta accreta",
+      "chorioamnionitis"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "placenta previa"
+    ]
+  },
+  {
+    "question": "In the Placenta Accreta Spectrum (PAS), abnormal trophoblastic invasion deep into the myometrium is termed ________, whereas invasion through the serosa into adjacent organs is termed ________.",
+    "answers": [
+      "accreta; increta",
+      "increta; percreta",
+      "percreta; accreta",
+      "previa; increta"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "increta; percreta"
+    ]
+  },
+  {
+    "question": "In an IVF cycle, oocyte retrieval is performed ________ hours after the hCG or GnRH agonist trigger injection.",
+    "answers": [
+      "12–14",
+      "24–26",
+      "34–36",
+      "48–50"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "34–36"
+    ]
+  },
+  {
+    "question": "What is the key difference between traditional surrogacy and gestational surrogacy?",
+    "answers": [
+      "In traditional surrogacy, the surrogate provides the egg and is genetically related to the child; in gestational surrogacy, there is no genetic link to the surrogate.",
+      "In gestational surrogacy, the surrogate provides the egg; in traditional surrogacy, donor eggs are always used.",
+      "Traditional surrogacy uses IVF; gestational surrogacy uses natural conception.",
+      "There is no genetic difference between the two types."
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "In traditional surrogacy, the surrogate provides the egg and is genetically related to the child; in gestational surrogacy, there is no genetic link to the surrogate."
+    ]
+  },
+  {
+    "question": "Which stem cells can differentiate into all embryonic germ layers as well as extraembryonic tissues like the placenta?",
+    "answers": [
+      "Totipotent cells",
+      "Pluripotent cells",
+      "Multipotent cells",
+      "Oligopotent cells"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Totipotent cells"
+    ]
+  },
+  {
+    "question": "Embryonic stem cells (ESCs) isolated from the inner cell mass of the blastocyst are classified as ________.",
+    "answers": [
+      "totipotent",
+      "pluripotent",
+      "multipotent",
+      "unipotent"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "pluripotent"
+    ]
+  },
+  {
+    "question": "If a single fertilized ovum splits between Day 4 and Day 8, what type of monozygotic twins will result?",
+    "answers": [
+      "Dichorionic, diamniotic",
+      "Monochorionic, diamniotic",
+      "Monochorionic, monoamniotic",
+      "Conjoined twins"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Monochorionic, diamniotic"
+    ]
+  },
+  {
+    "question": "Incomplete splitting of a monozygotic embryo after Day ________ results in conjoined twins.",
+    "answers": [
+      "3",
+      "8",
+      "10",
+      "13"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "13"
+    ]
+  },
+  {
+    "question": "Which type of conjoined twins are joined dorsally at the head?",
+    "answers": [
+      "Thoracopagus",
+      "Omphalopagus",
+      "Craniopagus",
+      "Pyopagus"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Craniopagus"
+    ]
+  },
+  {
+    "question": "Mutation in the ________ regulatory gene causes aniridia (absence of the iris).",
+    "answers": [
+      "HOX",
+      "PAX6",
+      "SHH",
+      "SRY"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "PAX6"
+    ]
+  },
+  {
+    "question": "Which modern genome-editing tool uses a guide RNA to direct an endonuclease enzyme to a specific DNA sequence for site-specific modification?",
+    "answers": [
+      "Microinjection",
+      "CRISPR-Cas9",
+      "Retroviral transduction",
+      "Somatic nuclear transfer"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "CRISPR-Cas9"
+    ]
+  },
+  {
+    "question": "Which is the first functional organ system to develop in the human embryo?",
+    "answers": [
+      "Nervous system",
+      "Cardiovascular system",
+      "Digestive system",
+      "Urinary system"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Cardiovascular system"
+    ]
+  },
+  {
+    "question": "Which venous shunt develops in the liver to connect the left umbilical vein directly to the inferior vena cava (IVC), bypassing the hepatic sinusoids?",
+    "answers": [
+      "Ductus arteriosus",
+      "Ductus venosus",
+      "Foramen ovale",
+      "Sinus venosus"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Ductus venosus"
+    ]
+  },
+  {
+    "question": "Which embryonic veins give rise to the celiac, superior mesenteric, and inferior mesenteric arteries supplying the gut tube?",
+    "answers": [
+      "Umbilical arteries",
+      "Vitelline arteries",
+      "Intersegmental arteries",
+      "Pharyngeal arch arteries"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Vitelline arteries"
+    ]
+  },
+  {
+    "question": "In the developing heart, the smooth part of the adult right atrium (sinus venarum) originates from the ________, while the trabeculated part originates from the ________.",
+    "answers": [
+      "primordial atrium; sinus venosus",
+      "sinus venosus; primordial atrium",
+      "bulbus cordis; truncus arteriosus",
+      "endocardial cushion; septum secundum"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "sinus venosus; primordial atrium"
+    ]
+  },
+  {
+    "question": "After birth, functional closure of the foramen ovale transforms it into a depression on the interatrial septum called the ________.",
+    "answers": [
+      "crista terminalis",
+      "fossa ovalis",
+      "sulcus terminalis",
+      "coronary sinus"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "fossa ovalis"
+    ]
+  },
+  {
+    "question": "The spiral aorticopulmonary septum divides the bulbus cordis and truncus arteriosus into which two vessels?",
+    "answers": [
+      "Superior and inferior vena cavae",
+      "Aorta and pulmonary trunk",
+      "Right and left pulmonary veins",
+      "Brachiocephalic and subclavian arteries"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Aorta and pulmonary trunk"
+    ]
+  },
+  {
+    "question": "During which stage of lung development (weeks 16–24) does the future air-blood tissue barrier form and surfactant synthesis begin?",
+    "answers": [
+      "Pseudoglandular stage",
+      "Canalicular stage",
+      "Saccular stage",
+      "Alveolar stage"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Canalicular stage"
+    ]
+  },
+  {
+    "question": "Which alveolar cells secrete pulmonary surfactant starting around the end of month 6 to prevent alveolar collapse?",
+    "answers": [
+      "Alveolar Type I cells",
+      "Alveolar Type II cells (pneumocytes)",
+      "Alveolar macrophages",
+      "Goblet cells"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Alveolar Type II cells (pneumocytes)"
+    ]
+  },
+  {
+    "question": "The ventral mesentery of the gut tube is derived from the ________ and is divided by the growing liver into the lesser omentum and the ________.",
+    "answers": [
+      "dorsal mesogastrium; greater omentum",
+      "septum transversum; falciform ligament",
+      "urorectal septum; median umbilical ligament",
+      "pleuroperitoneal membrane; coronary ligament"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "septum transversum; falciform ligament"
+    ]
+  },
+  {
+    "question": "During embryological development, the stomach rotates ________ degrees clockwise around its longitudinal axis.",
+    "answers": [
+      "45",
+      "90",
+      "180",
+      "270"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "90"
+    ]
+  },
+  {
+    "question": "Which structure induces the metanephric blastema to differentiate into glomeruli and nephron tubules during permanent kidney development?",
+    "answers": [
+      "Pronephros",
+      "Ureteric bud",
+      "Paramesonephric duct",
+      "Allantois"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Ureteric bud"
+    ]
+  },
+  {
+    "question": "Which of the following adult kidney structures is derived from the ureteric bud rather than the metanephric blastema?",
+    "answers": [
+      "Bowman's capsule",
+      "Proximal convoluted tubule",
+      "Loop of Henle",
+      "Collecting ducts and ureters"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "Collecting ducts and ureters"
+    ]
+  },
+  {
+    "question": "A horseshoe kidney gets trapped in the abdomen during its ascent by which blood vessel?",
+    "answers": [
+      "Celiac trunk",
+      "Superior mesenteric artery",
+      "Inferior mesenteric artery",
+      "Common iliac artery"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Inferior mesenteric artery"
+    ]
+  },
+  {
+    "question": "The urorectal septum divides the cloaca into a dorsal portion forming the ________ and a ventral portion forming the ________.",
+    "answers": [
+      "bladder and urogenital sinus; rectum and anal canal",
+      "rectum and anal canal; bladder and urogenital sinus",
+      "ureters and kidneys; gonads and genital ducts",
+      "trigone; urachus"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "rectum and anal canal; bladder and urogenital sinus"
+    ]
+  },
+  {
+    "question": "In a 46,XY embryo, Sertoli cells secrete ________ to induce regression of the paramesonephric (Müllerian) ducts, while Leydig cells produce ________ to stimulate development of the mesonephric (Wolffian) ducts.",
+    "answers": [
+      "testosterone; Anti-Müllerian Hormone (MIS)",
+      "Anti-Müllerian Hormone (MIS); testosterone",
+      "dihydrotestosterone; inhibin",
+      "estrogen; progesterone"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Anti-Müllerian Hormone (MIS); testosterone"
+    ]
+  },
+  {
+    "question": "In female embryonic development, the genital tubercle differentiates into the ________, the genital folds form the ________, and the genital swellings form the ________.",
+    "answers": [
+      "clitoris; labia majora; labia minora",
+      "clitoris; labia minora; labia majora",
+      "mons pubis; clitoris; labia minora",
+      "urethra; vestibule; labia majora"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "clitoris; labia minora; labia majora"
+    ]
+  },
+  {
+    "question": "Which disorder of sex differentiation (DSD) occurs in 46,XY genetic males due to mutations in the androgen receptor (AR), resulting in female external genitalia, undescended testes, and absent uterus/oviducts?",
+    "answers": [
+      "Persistent Müllerian Duct syndrome",
+      "Androgen Insensitivity Syndrome",
+      "5α-reductase deficiency",
+      "Congenital adrenal hyperplasia (21-hydroxylase deficiency)"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Androgen Insensitivity Syndrome"
+    ]
+  }
+]
