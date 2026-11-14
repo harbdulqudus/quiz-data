@@ -1,0 +1,1216 @@
+[
+  {
+    "question": "A computer is best defined as an electronic device that accepts data as input, processes it using instructions, and generates desired ________.",
+    "answers": [
+      "raw facts",
+      "output",
+      "hardware",
+      "peripherals"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "output"
+    ]
+  },
+  {
+    "question": "Which of the following are the four basic physical components of a computer system?",
+    "answers": [
+      "CPU, monitor, keyboard, and mouse",
+      "Printer, scanner, webcam, and speaker",
+      "Modem, router, hard disk, and flash drive",
+      "ALU, control unit, register, and bus"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "CPU, monitor, keyboard, and mouse"
+    ]
+  },
+  {
+    "question": "The physical, tangible components of a computer system such as the keyboard, mouse, monitor, and internal circuits are collectively known as ________.",
+    "answers": [
+      "software",
+      "firmware",
+      "hardware",
+      "peripherals"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "hardware"
+    ]
+  },
+  {
+    "question": "In computing, raw facts that have not yet been processed are referred to as ________.",
+    "answers": [
+      "information",
+      "data",
+      "programs",
+      "output"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "data"
+    ]
+  },
+  {
+    "question": "What is the correct sequence of elements in any computer data processing cycle?",
+    "answers": [
+      "Processing -> Input -> Storage -> Output",
+      "Input -> Processing -> Storage -> Output",
+      "Storage -> Input -> Output -> Processing",
+      "Input -> Output -> Processing -> Storage"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Input -> Processing -> Storage -> Output"
+    ]
+  },
+  {
+    "question": "A set of coded instructions that informs the computer what tasks to perform is called a ________.",
+    "answers": [
+      "program",
+      "processor",
+      "peripheral",
+      "register"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "program"
+    ]
+  },
+  {
+    "question": "The word 'computer' originated from a Latin word that meant ________ by the mid-17th century.",
+    "answers": [
+      "to communicate",
+      "to calculate",
+      "to store",
+      "to automate"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "to calculate"
+    ]
+  },
+  {
+    "question": "Who developed the early gear-based mechanical calculator called the Pascaline that performed addition and subtraction?",
+    "answers": [
+      "Gottfried Wilhelm Leibnitz",
+      "Blaise Pascal",
+      "Charles Babbage",
+      "Howard H. Aiken"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Blaise Pascal"
+    ]
+  },
+  {
+    "question": "Which German mathematician developed an early mechanical calculator capable of performing multiplication and division?",
+    "answers": [
+      "Blaise Pascal",
+      "Leibnitz",
+      "Alan Turing",
+      "John Von Neumann"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Leibnitz"
+    ]
+  },
+  {
+    "question": "Who is regarded as the father of the computer for planning the 'Analytical Engine' with memory and card input/output?",
+    "answers": [
+      "Charles Babbage",
+      "Howard H. Aiken",
+      "Herman Hollerith",
+      "William Burroughs"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Charles Babbage"
+    ]
+  },
+  {
+    "question": "Who is widely recognized as the world's first major computer programmer due to her work on Charles Babbage's Analytical Engine?",
+    "answers": [
+      "Grace Hopper",
+      "Augusta Ada (Countess of Lovelace)",
+      "Marie Curie",
+      "Katherine Johnson"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Augusta Ada (Countess of Lovelace)"
+    ]
+  },
+  {
+    "question": "Which pioneer established an electromechanical punched-card tabulator for the 1890 U.S. Census and founded the company that became IBM?",
+    "answers": [
+      "Burroughs",
+      "Hollerith",
+      "Atanasoff",
+      "Eckert"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Hollerith"
+    ]
+  },
+  {
+    "question": "Who assembled the 51-foot-long relay-based Harvard Mark I computer in 1944 with the support of IBM?",
+    "answers": [
+      "Howard H. Aiken",
+      "John Mauchly",
+      "John Von Neumann",
+      "Alan Turing"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Howard H. Aiken"
+    ]
+  },
+  {
+    "question": "Which two engineers designed and assembled the ENIAC in 1946 using 18,000 vacuum tubes for military computations?",
+    "answers": [
+      "Babbage and Lovelace",
+      "Eckert and Mauchly",
+      "Aiken and Hollerith",
+      "Pascal and Leibnitz"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Eckert and Mauchly"
+    ]
+  },
+  {
+    "question": "Who is credited with formulating the 'stored program concept' (used in EDVAC) where both programs and data are stored in computer memory?",
+    "answers": [
+      "Alan Turing",
+      "Von Neumann",
+      "Charles Babbage",
+      "Howard Aiken"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Von Neumann"
+    ]
+  },
+  {
+    "question": "Which British mathematician developed an abstract theoretical model of computation known as the Turing machine?",
+    "answers": [
+      "Charles Babbage",
+      "Alan Turing",
+      "Blaise Pascal",
+      "John Atanasoff"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Alan Turing"
+    ]
+  },
+  {
+    "question": "Which of the following are the three main types of electronic computers classified by signal type?",
+    "answers": [
+      "Digital, Analog, and Hybrid computers",
+      "Mainframe, Minicomputer, and Microcomputer",
+      "General-purpose, Special-purpose, and Supercomputer",
+      "Laptop, Notebook, and Palmtop"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Digital, Analog, and Hybrid computers"
+    ]
+  },
+  {
+    "question": "Which type of electronic computer operates on discrete values by counting data represented in binary digits?",
+    "answers": [
+      "Analog computer",
+      "Digital computer",
+      "Hybrid computer",
+      "Mechanical computer"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Digital computer"
+    ]
+  },
+  {
+    "question": "Which type of computer deals with continuously varying physical quantities, measures rather than counts, and is commonly used in scientific and engineering simulations?",
+    "answers": [
+      "Digital computer",
+      "Analog computer",
+      "Microcomputer",
+      "Word processor"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Analog computer"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of analog devices mentioned in the study session? (Pick two)",
+    "answers": [
+      "Speedometer",
+      "Thermometer",
+      "Digital watch",
+      "Digital radio"
+    ],
+    "correct_answer_indices": [
+      0,
+      1
+    ],
+    "correct_answers": [
+      "Speedometer",
+      "Thermometer"
+    ]
+  },
+  {
+    "question": "What name is given to the conversion elements in a hybrid computer that accept analog inputs and convert them into digital values?",
+    "answers": [
+      "Compilers",
+      "Digitizers",
+      "Registers",
+      "Plotters"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Digitizers"
+    ]
+  },
+  {
+    "question": "In which fields are hybrid computers primarily utilized due to their real-time continuous response and complex calculation abilities?",
+    "answers": [
+      "Retail invoicing and payroll",
+      "Aerospace and industrial process control",
+      "Word processing and greeting card design",
+      "Personal home entertainment"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Aerospace and industrial process control"
+    ]
+  },
+  {
+    "question": "A computer built specifically to solve a constrained class of problems or handle a single dedicated job (such as missile tracking or oil refinery control) is a ________.",
+    "answers": [
+      "general-purpose computer",
+      "special-purpose computer",
+      "personal computer",
+      "notebook computer"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "special-purpose computer"
+    ]
+  },
+  {
+    "question": "Which of the following are true attributes of special-purpose computers compared to general-purpose computers? (Pick two)",
+    "answers": [
+      "They are very effective for the specific activity for which they were designed",
+      "They are less expensive and less complex because they require fewer components",
+      "They are more flexible for solving a wide spectrum of unrelated problems",
+      "They always have larger memory than mainframes"
+    ],
+    "correct_answer_indices": [
+      0,
+      1
+    ],
+    "correct_answers": [
+      "They are very effective for the specific activity for which they were designed",
+      "They are less expensive and less complex because they require fewer components"
+    ]
+  },
+  {
+    "question": "How is computer capacity defined in the classification of computers?",
+    "answers": [
+      "The physical weight of the system unit",
+      "The volume of work that a computer can handle",
+      "The number of keys on the keyboard",
+      "The screen resolution of the monitor"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "The volume of work that a computer can handle"
+    ]
+  },
+  {
+    "question": "Which class of computers is often called 'number crunchers', connects to thousands of terminals, and can perform up to 100 MIPS?",
+    "answers": [
+      "Microcomputers",
+      "Minicomputers",
+      "Mainframe computers",
+      "Palmtop computers"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Mainframe computers"
+    ]
+  },
+  {
+    "question": "When was the minicomputer first introduced as a system whose size, speed, and capabilities lie between a mainframe and a personal computer?",
+    "answers": [
+      "1946",
+      "1956",
+      "1965",
+      "1981"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "1965"
+    ]
+  },
+  {
+    "question": "In what month and year did IBM launch its influential IBM PC, helping establish the microcomputer market?",
+    "answers": [
+      "August 1981",
+      "January 1971",
+      "May 1964",
+      "December 1951"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "August 1981"
+    ]
+  },
+  {
+    "question": "Which type of portable microcomputer is designed to be small enough to be held in the palm of the hand while retaining full computing features?",
+    "answers": [
+      "Mainframe computer",
+      "Desktop computer",
+      "Palmtop computer",
+      "Minicomputer"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Palmtop computer"
+    ]
+  },
+  {
+    "question": "Which electronic component characterized First Generation computers (1940–1956)?",
+    "answers": [
+      "Transistors",
+      "Vacuum tubes",
+      "Integrated circuits",
+      "Microprocessors"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Vacuum tubes"
+    ]
+  },
+  {
+    "question": "What was the first commercial computer delivered to a business client (the U.S. Census Bureau) in 1951?",
+    "answers": [
+      "ENIAC",
+      "UNIVAC",
+      "Harvard Mark I",
+      "IBM Macintosh"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "UNIVAC"
+    ]
+  },
+  {
+    "question": "Which generation of computers (1956–1963) replaced vacuum tubes with transistors and moved from binary machine language to assembly and high-level languages like COBOL and FORTRAN?",
+    "answers": [
+      "First Generation",
+      "Second Generation",
+      "Third Generation",
+      "Fourth Generation"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Second Generation"
+    ]
+  },
+  {
+    "question": "What technological advancement was the hallmark of Third Generation computers (1964–1971)?",
+    "answers": [
+      "Magnetic drums",
+      "Integrated circuits on silicon chips",
+      "Artificial intelligence and quantum computing",
+      "Punched card tabulators"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Integrated circuits on silicon chips"
+    ]
+  },
+  {
+    "question": "Which chip developed in 1971 ushered in the Fourth Generation of computers by placing the CPU, memory, and I/O controls onto a single silicon chip?",
+    "answers": [
+      "Intel 4004",
+      "UNIVAC I",
+      "Harvard Mark I",
+      "IBM 360"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Intel 4004"
+    ]
+  },
+  {
+    "question": "Fifth Generation computing devices (Present and Beyond) are primarily based on ________.",
+    "answers": [
+      "vacuum tubes and magnetic drums",
+      "artificial intelligence, parallel processing, and superconductors",
+      "electromechanical relays",
+      "punched paper tape"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "artificial intelligence, parallel processing, and superconductors"
+    ]
+  },
+  {
+    "question": "In computer memory measurements, one Kilo (K) module equals how many memory locations?",
+    "answers": [
+      "1000",
+      "1024",
+      "512",
+      "2048"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "1024"
+    ]
+  },
+  {
+    "question": "Which characteristic of a computer allows it to perform any task once it has been reduced to logical steps, supporting on-line, multi-programming, and real-time processing?",
+    "answers": [
+      "Reliability",
+      "Flexibility",
+      "Automatic",
+      "Storage"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Flexibility"
+    ]
+  },
+  {
+    "question": "Why are computers considered highly reliable compared to humans?",
+    "answers": [
+      "They never require electricity",
+      "They do not suffer from tiredness or lack of concentration and perform the ten-millionth job with the same speed and accuracy as the first",
+      "They never experience hardware breakdowns",
+      "They can fix human logic errors automatically"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "They do not suffer from tiredness or lack of concentration and perform the ten-millionth job with the same speed and accuracy as the first"
+    ]
+  },
+  {
+    "question": "What are the four main building blocks shown in the basic block diagram of a computer system?",
+    "answers": [
+      "Input, Process, Output, and Memory",
+      "Keyboard, Mouse, Printer, and Scanner",
+      "BIOS, RAM, ROM, and Cache",
+      "Hardware, Software, Peopleware, and Data"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Input, Process, Output, and Memory"
+    ]
+  },
+  {
+    "question": "Which large rectangular circuit board inside the computer case connects the CPU, RAM, disk drives, and peripheral ports?",
+    "answers": [
+      "Power Supply Unit",
+      "Motherboard",
+      "Sound Card",
+      "Hard Disk Platter"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Motherboard"
+    ]
+  },
+  {
+    "question": "Which component directly attached to the motherboard aids communication between the CPU and other system components, including main memory?",
+    "answers": [
+      "Heat sink",
+      "Chipset",
+      "Power supply",
+      "Optical drive"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Chipset"
+    ]
+  },
+  {
+    "question": "What does BIOS stand for in a computer system?",
+    "answers": [
+      "Binary Integrated Operating System",
+      "Basic Input Output System",
+      "Bus Interface Output Standard",
+      "Bootable Internal Operating Software"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Basic Input Output System"
+    ]
+  },
+  {
+    "question": "Which of the following internal bus technologies are classified as obsolete in modern PCs? (Pick two)",
+    "answers": [
+      "AGP (Accelerated Graphics Port)",
+      "ATA (Advanced Technology Attachment)",
+      "PCI Express",
+      "SATA"
+    ],
+    "correct_answer_indices": [
+      0,
+      1
+    ],
+    "correct_answers": [
+      "AGP (Accelerated Graphics Port)",
+      "ATA (Advanced Technology Attachment)"
+    ]
+  },
+  {
+    "question": "What is the primary function of a computer's Power Supply Unit (PSU)?",
+    "answers": [
+      "To convert low-voltage DC power into high-voltage AC power",
+      "To convert alternating current (AC) electric power into regulated low-voltage DC power for internal components",
+      "To store the operating system permanently",
+      "To cool the CPU using liquid nitrogen"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "To convert alternating current (AC) electric power into regulated low-voltage DC power for internal components"
+    ]
+  },
+  {
+    "question": "How much more information can a standard DVD and a Blu-ray Disc store compared to a standard CD, respectively?",
+    "answers": [
+      "Up to 12 times and 70 times as much",
+      "Up to 2 times and 10 times as much",
+      "Up to 50 times and 100 times as much",
+      "Up to 4 times and 16 times as much"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Up to 12 times and 70 times as much"
+    ]
+  },
+  {
+    "question": "Which secondary storage device is similar to a hard disk in purpose, stores data in digital format, and contains no moving parts?",
+    "answers": [
+      "Floppy disk",
+      "Solid-state drive (SSD)",
+      "Magnetic tape drive",
+      "Iomega Zip drive"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Solid-state drive (SSD)"
+    ]
+  },
+  {
+    "question": "What is the function of a RAID array controller?",
+    "answers": [
+      "To convert analog sound signals into digital files",
+      "To manage several internal or external hard disks to achieve performance or reliability improvements",
+      "To connect a computer to a telephone line for internet access",
+      "To supply backup AC power during blackouts"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "To manage several internal or external hard disks to achieve performance or reliability improvements"
+    ]
+  },
+  {
+    "question": "Data is the plural form of which word, signifying elementary facts about a person, place, or thing?",
+    "answers": [
+      "Databank",
+      "Datum",
+      "Database",
+      "Digit"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Datum"
+    ]
+  },
+  {
+    "question": "Which of the following are essential features of processed data (information) required for meaningful decision-making? (Pick two)",
+    "answers": [
+      "Timeliness and Accuracy",
+      "Completeness and Relevance",
+      "Ambiguity and Redundancy",
+      "Incompleteness and Delay"
+    ],
+    "correct_answer_indices": [
+      0,
+      1
+    ],
+    "correct_answers": [
+      "Timeliness and Accuracy",
+      "Completeness and Relevance"
+    ]
+  },
+  {
+    "question": "What are the three main sequential stages of the Data Processing Life Cycle?",
+    "answers": [
+      "Input -> Processing -> Output",
+      "Coding -> Printing -> Deleting",
+      "Collection -> Mining -> Feedback",
+      "Manual -> Mechanical -> Electronic"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Input -> Processing -> Output"
+    ]
+  },
+  {
+    "question": "During the Input stage of the data processing life cycle, which sub-step involves transforming data into binary form so it can be stored in the computer?",
+    "answers": [
+      "Verification",
+      "Coding",
+      "Storing",
+      "Retrieval"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Coding"
+    ]
+  },
+  {
+    "question": "During the Output stage of the data processing life cycle, which sub-step gathers remarks from users about the system and its output to improve future processing?",
+    "answers": [
+      "Retrieval",
+      "Conversion",
+      "Communication",
+      "Feedback"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "Feedback"
+    ]
+  },
+  {
+    "question": "Which method of data processing uses tools like typewriters and adding machines, and is characterized as routine-like, noisy, and unable to handle huge data volumes consistently?",
+    "answers": [
+      "Manual method",
+      "Mechanical method",
+      "Computer method",
+      "Cloud method"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Mechanical method"
+    ]
+  },
+  {
+    "question": "Which of the following is a key advantage of the computer method of data processing over manual and mechanical methods?",
+    "answers": [
+      "Operations are noisy and require extensive physical effort",
+      "Data can be progressively and constantly processed with high correctness and reliability",
+      "Errors cannot be corrected once entered",
+      "It only works on paper records"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Data can be progressively and constantly processed with high correctness and reliability"
+    ]
+  },
+  {
+    "question": "Which three components of a computer system are often collectively referred to as peripheral equipment?",
+    "answers": [
+      "CPU, RAM, and Motherboard",
+      "Secondary storage, input devices, and output devices",
+      "ALU, Control Unit, and Registers",
+      "BIOS, Chipset, and System Bus"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Secondary storage, input devices, and output devices"
+    ]
+  },
+  {
+    "question": "What is an integrated circuit (chip) made of?",
+    "answers": [
+      "A piece of silicon (a non-metal element) containing electronic circuits",
+      "A magnetic copper coil wrapped around iron",
+      "A glass vacuum tube filled with gas",
+      "A flexible plastic disk coated with fabric"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "A piece of silicon (a non-metal element) containing electronic circuits"
+    ]
+  },
+  {
+    "question": "What is the set of wires connecting the chips in the CPU and primary storage over which data is sent back and forth called?",
+    "answers": [
+      "A register",
+      "A bus",
+      "A modem",
+      "A sector"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "A bus"
+    ]
+  },
+  {
+    "question": "The Central Processing Unit (CPU) organizes its circuits into which two main functional units?",
+    "answers": [
+      "Primary Storage and Secondary Storage",
+      "Arithmetic Logic Unit (ALU) and Control Unit",
+      "RAM and ROM",
+      "Input Unit and Output Unit"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Arithmetic Logic Unit (ALU) and Control Unit"
+    ]
+  },
+  {
+    "question": "What are the temporary storage locations inside the ALU used for holding numbers during calculations and storing results called?",
+    "answers": [
+      "Instruction decoders",
+      "Storage registers",
+      "Expansion slots",
+      "Optical sectors"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Storage registers"
+    ]
+  },
+  {
+    "question": "Which circuit inside the Control Unit analyzes the instruction held in the instruction register and sends control signals to execute it?",
+    "answers": [
+      "Instruction decoder",
+      "Arithmetic adder",
+      "North bridge",
+      "Power rectifier"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Instruction decoder"
+    ]
+  },
+  {
+    "question": "Why is Random Access Memory (RAM) described as 'volatile' storage?",
+    "answers": [
+      "Its contents can never be modified by the user",
+      "All data stored in it is lost permanently when electric power to the computer is turned off",
+      "It physically melts if used for more than an hour",
+      "It stores data using ultraviolet light"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "All data stored in it is lost permanently when electric power to the computer is turned off"
+    ]
+  },
+  {
+    "question": "Which type of Read Only Memory (ROM) can be erased by removing the chip and exposing it to ultraviolet light?",
+    "answers": [
+      "PROM",
+      "EPROM",
+      "EEPROM",
+      "Mask ROM"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "EPROM"
+    ]
+  },
+  {
+    "question": "Which type of ROM allows data or programs to be completely erased using an electrical signal/special device so new data can be stored?",
+    "answers": [
+      "PROM",
+      "EPROM",
+      "EEPROM",
+      "CD-ROM"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "EEPROM"
+    ]
+  },
+  {
+    "question": "Which of the following correctly compares Primary Storage and Secondary Storage? (Pick two)",
+    "answers": [
+      "Primary storage is faster and more expensive per byte than secondary storage",
+      "Secondary storage is non-volatile and holds large volumes of data permanently",
+      "Primary storage holds larger volumes of data permanently than secondary storage",
+      "Secondary storage is faster than primary storage"
+    ],
+    "correct_answer_indices": [
+      0,
+      1
+    ],
+    "correct_answers": [
+      "Primary storage is faster and more expensive per byte than secondary storage",
+      "Secondary storage is non-volatile and holds large volumes of data permanently"
+    ]
+  },
+  {
+    "question": "What is the maximum storage capacity of a standard 3.5-inch floppy disk?",
+    "answers": [
+      "650 MB",
+      "1.44 MB",
+      "20 GB",
+      "128 KB"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "1.44 MB"
+    ]
+  },
+  {
+    "question": "Which type of optical compact disc allows a user to erase and reuse the disc multiple times?",
+    "answers": [
+      "CD-ROM",
+      "CD-R",
+      "CD-RW",
+      "BD-ROM"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "CD-RW"
+    ]
+  },
+  {
+    "question": "Why did typewriter designers originally create the QWERTY keyboard layout?",
+    "answers": [
+      "To arrange letters in strict alphabetical order",
+      "To slow down typing speed so mechanical typewriter levers would not interlock when keys were pressed rapidly",
+      "To fit all letters onto a single row",
+      "To optimize one-handed typing"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "To slow down typing speed so mechanical typewriter levers would not interlock when keys were pressed rapidly"
+    ]
+  },
+  {
+    "question": "What does the term 'pixel' stand for on a bit-mapped computer display screen?",
+    "answers": [
+      "Primary index cell",
+      "Picture element",
+      "Peripheral interface extension",
+      "Program execution line"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Picture element"
+    ]
+  },
+  {
+    "question": "Computer software is broadly divided into which two major categories?",
+    "answers": [
+      "System Software and Application Software",
+      "Input Software and Output Software",
+      "Hardware and Firmware",
+      "Compilers and Assemblers"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "System Software and Application Software"
+    ]
+  },
+  {
+    "question": "Which category of software facilitates the optimal use of hardware systems and provides an environment for writing, editing, debugging, and running user programs?",
+    "answers": [
+      "Application software",
+      "System software",
+      "Desktop publishing software",
+      "Spreadsheet software"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "System software"
+    ]
+  },
+  {
+    "question": "Which of the following operations are performed by utility software? (Pick two)",
+    "answers": [
+      "File conversion and file copying",
+      "Housekeeping operations such as clearing storage areas and writing file labels",
+      "Designing architectural blueprints",
+      "Managing corporate payroll accounting"
+    ],
+    "correct_answer_indices": [
+      0,
+      1
+    ],
+    "correct_answers": [
+      "File conversion and file copying",
+      "Housekeeping operations such as clearing storage areas and writing file labels"
+    ]
+  },
+  {
+    "question": "What is the primary goal of an Operating System (OS) for personal computers?",
+    "answers": [
+      "Convenience for the user",
+      "Maximizing electricity consumption",
+      "Eliminating the need for primary memory",
+      "Replacing all application software"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Convenience for the user"
+    ]
+  },
+  {
+    "question": "Why is an operating system referred to as a 'resource allocator'?",
+    "answers": [
+      "It manufactures physical silicon chips",
+      "It manages and allocates CPU time, memory space, file storage, and I/O devices fairly and efficiently among competing programs and users",
+      "It purchases new hardware automatically",
+      "It translates high-level human speech into binary"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "It manages and allocates CPU time, memory space, file storage, and I/O devices fairly and efficiently among competing programs and users"
+    ]
+  },
+  {
+    "question": "Which operating system program moves compiled program code into the computer's memory for execution?",
+    "answers": [
+      "Editor program",
+      "Loader program",
+      "Compiler program",
+      "Debugger program"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Loader program"
+    ]
+  },
+  {
+    "question": "In which type of operating system are jobs collected into a group and placed on an input queue without user interaction during processing?",
+    "answers": [
+      "Time-sharing operating system",
+      "Batch processing operating system",
+      "Real-time operating system",
+      "Interactive mobile operating system"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Batch processing operating system"
+    ]
+  },
+  {
+    "question": "Which type of operating system is designed for critical applications such as airline reservations and nuclear power station monitoring where immediate response is essential to prevent disaster?",
+    "answers": [
+      "Batch processing operating system",
+      "Real-time operating system",
+      "Single-user offline operating system",
+      "Disk operating system"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Real-time operating system"
+    ]
+  },
+  {
+    "question": "Application software is subdivided into which two main classes?",
+    "answers": [
+      "Generalized software and User-defined software",
+      "Operating systems and Utility software",
+      "Volatile software and Non-volatile software",
+      "Analog software and Hybrid software"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Generalized software and User-defined software"
+    ]
+  },
+  {
+    "question": "Which type of application package consists of columns and rows for entering numbers, applying formulas, automatic recalculation, and financial or statistical analysis?",
+    "answers": [
+      "Word processor",
+      "Spreadsheet",
+      "Database package",
+      "Desktop publishing package"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Spreadsheet"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of Database Packages mentioned in the study session? (Pick two)",
+    "answers": [
+      "dBase III / IV and MS-Access",
+      "FoxBASE and Paradox III",
+      "Lotus 1-2-3 and SuperCalc",
+      "CorelDraw and PageMaker"
+    ],
+    "correct_answer_indices": [
+      0,
+      1
+    ],
+    "correct_answers": [
+      "dBase III / IV and MS-Access",
+      "FoxBASE and Paradox III"
+    ]
+  },
+  {
+    "question": "Which category of application software combines multiple functions—such as word processing, database management, and spreadsheet operations—using compatible data?",
+    "answers": [
+      "Integrated packages",
+      "Communication packages",
+      "Statistical packages",
+      "Game packages"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Integrated packages"
+    ]
+  }
+]

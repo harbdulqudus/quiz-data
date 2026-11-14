@@ -1,0 +1,1424 @@
+[
+  {
+    "question": "Which of the following are the four basic interrelated concepts upon which the nursing profession is built?",
+    "answers": [
+      "Person, environment, health, and nursing",
+      "Patient, hospital, medication, and doctor",
+      "Assessment, diagnosis, planning, and evaluation",
+      "Prevention, cure, rehabilitation, and palliation"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Person, environment, health, and nursing"
+    ]
+  },
+  {
+    "question": "Who is recognized as the founder of modern-day nursing and developed the Environmental Theory?",
+    "answers": [
+      "Hildegard E. Peplau",
+      "Florence Nightingale",
+      "Virginia Henderson",
+      "Dorothea E. Orem"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Florence Nightingale"
+    ]
+  },
+  {
+    "question": "Which of the following are major concepts of Florence Nightingale's Environmental Theory? (Pick two)",
+    "answers": [
+      "Ventilation and warming",
+      "Resonancy and helicy",
+      "Cleanliness of rooms and walls",
+      "Self-care agency"
+    ],
+    "correct_answer_indices": [
+      0,
+      2
+    ],
+    "correct_answers": [
+      "Ventilation and warming",
+      "Cleanliness of rooms and walls"
+    ]
+  },
+  {
+    "question": "According to Hildegard E. Peplau's Interpersonal Relations Model, during which phase does power shift from the nurse to the client as the client derives full value from the relationship?",
+    "answers": [
+      "Orientation phase",
+      "Working phase",
+      "Termination phase",
+      "Identification phase"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Termination phase"
+    ]
+  },
+  {
+    "question": "How many fundamental needs did Virginia Henderson conceptualize as components of basic nursing care?",
+    "answers": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "14"
+    ]
+  },
+  {
+    "question": "Which nursing theorist defined nursing as assisting the individual, sick or well, in the performance of activities contributing to health or its recovery that they would perform unaided if they had the necessary strength, will, or knowledge?",
+    "answers": [
+      "Virginia Henderson",
+      "Betty Neuman",
+      "Imogene M. King",
+      "Jean Watson"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Virginia Henderson"
+    ]
+  },
+  {
+    "question": "Martha E. Rogers' Science of Unitary Human Beings is built upon which three homeodynamic principles?",
+    "answers": [
+      "Resonancy, helicy, and integrality",
+      "Orientation, working, and termination",
+      "Primary, secondary, and tertiary",
+      "Meaning, rhythmicity, and transcendence"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Resonancy, helicy, and integrality"
+    ]
+  },
+  {
+    "question": "According to Dorothea E. Orem's Self-Care Deficit Nursing Theory, when does a self-care deficit exist?",
+    "answers": [
+      "When self-care agency exceeds therapeutic self-care demand",
+      "When therapeutic self-care demand exceeds self-care agency",
+      "When nursing agency is wholly compensatory",
+      "When universal self-care requisites are fully met"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "When therapeutic self-care demand exceeds self-care agency"
+    ]
+  },
+  {
+    "question": "Which three nursing systems are identified within Dorothea Orem's Theory of Nursing Systems?",
+    "answers": [
+      "Wholly compensatory, partly compensatory, and supportive-educative",
+      "Primary, secondary, and tertiary",
+      "Cognitive, affective, and psychomotor",
+      "Dependent, independent, and interdependent"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Wholly compensatory, partly compensatory, and supportive-educative"
+    ]
+  },
+  {
+    "question": "Which nursing theorist developed the Goal Attainment Theory focusing on personal, interpersonal, and social systems?",
+    "answers": [
+      "Imogene M. King",
+      "Betty Neuman",
+      "Sister Callista Roy",
+      "Madeleine M. Leininger"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Imogene M. King"
+    ]
+  },
+  {
+    "question": "Which nursing theorist developed the Systems Model featuring lines of resistance, a normal line of defense, and a flexible line of defense?",
+    "answers": [
+      "Imogene M. King",
+      "Betty Neuman",
+      "Sister Callista Roy",
+      "Jean Watson"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Betty Neuman"
+    ]
+  },
+  {
+    "question": "In Betty Neuman's Systems Model, which level of prevention aims to retain system stability by protecting the normal line of defense before a stressor invades?",
+    "answers": [
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention",
+      "Quaternary prevention"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Primary prevention"
+    ]
+  },
+  {
+    "question": "In Sister Callista Roy's Adaptation Model, what are the two individual coping mechanisms?",
+    "answers": [
+      "Stabilizer and innovator",
+      "Cognator and regulator",
+      "Focal and contextual",
+      "Preservation and accommodation"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Cognator and regulator"
+    ]
+  },
+  {
+    "question": "What are the four adaptive modes in Sister Callista Roy's Adaptation Model?",
+    "answers": [
+      "Physiologic-physical, self-concept-group identity, role function, and interdependence",
+      "Orientation, identification, exploitation, and resolution",
+      "Cleanliness, ventilation, light, and noise",
+      "Air, water, food, and elimination"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Physiologic-physical, self-concept-group identity, role function, and interdependence"
+    ]
+  },
+  {
+    "question": "Which theorist developed the Cultural Care Diversity and Universality Theory and the Sunrise Model?",
+    "answers": [
+      "Rosemarie Rizzo Parse",
+      "Madeleine M. Leininger",
+      "Jean Watson",
+      "Nola J. Pender"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Madeleine M. Leininger"
+    ]
+  },
+  {
+    "question": "Which three modes of nursing care decisions and actions are proposed in Madeleine Leininger's Cultural Care Theory?",
+    "answers": [
+      "Cultural care preservation/maintenance, cultural care accommodation/negotiation, and cultural care repatterning/restructuring",
+      "Assessment, diagnosis, and implementation",
+      "Wholly compensatory, partly compensatory, and supportive-educative",
+      "Primary, secondary, and tertiary prevention"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Cultural care preservation/maintenance, cultural care accommodation/negotiation, and cultural care repatterning/restructuring"
+    ]
+  },
+  {
+    "question": "Rosemarie Rizzo Parse's Humanbecoming Theory is structured around which three major themes?",
+    "answers": [
+      "Meaning, rhythmicity, and transcendence",
+      "Resonancy, helicy, and integrality",
+      "Cognator, regulator, and stabilizer",
+      "Person, health, and environment"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Meaning, rhythmicity, and transcendence"
+    ]
+  },
+  {
+    "question": "Which of the eight Principles of Nursing Practice requires nurses and nursing staff to treat everyone in their care with dignity and humanity?",
+    "answers": [
+      "Principle A",
+      "Principle C",
+      "Principle E",
+      "Principle G"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Principle A"
+    ]
+  },
+  {
+    "question": "Which of the eight Principles of Nursing Practice is specifically concerned with assessing, recording, reporting treatment and care, and handling information confidentially?",
+    "answers": [
+      "Principle B",
+      "Principle D",
+      "Principle E",
+      "Principle H"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Principle E"
+    ]
+  },
+  {
+    "question": "Which Principle of Nursing Practice requires nurses to have up-to-date knowledge and skills and use these with intelligence, insight, and understanding in context?",
+    "answers": [
+      "Principle A",
+      "Principle C",
+      "Principle F",
+      "Principle G"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Principle F"
+    ]
+  },
+  {
+    "question": "Which nursing specialty involves collecting and examining crime scene evidence and testifying in court as a legal nurse consultant?",
+    "answers": [
+      "Perioperative nursing",
+      "Forensic nursing",
+      "Orthopaedic nursing",
+      "Ophthalmic nursing"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Forensic nursing"
+    ]
+  },
+  {
+    "question": "Which body determines regulations, policy, and standards for nurses, accredits educational programs, and revokes licenses for unsafe practice?",
+    "answers": [
+      "Hospital administrators",
+      "State boards of nursing",
+      "Patient advocacy groups",
+      "Local clinics"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "State boards of nursing"
+    ]
+  },
+  {
+    "question": "Which quality of a professional nurse requires speaking up and going up the chain of command if a patient is not receiving proper treatment or is experiencing neglect?",
+    "answers": [
+      "State of Mind",
+      "Integrity",
+      "Appearance",
+      "Time management"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Integrity"
+    ]
+  },
+  {
+    "question": "Why is continuing education mandatory for licensed professional nurses?",
+    "answers": [
+      "To replace initial nursing licensure exams",
+      "To keep up with advancing medical knowledge, technology, laws, and regulations",
+      "To eliminate the need for teamwork",
+      "To avoid clinical bedside duties"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "To keep up with advancing medical knowledge, technology, laws, and regulations"
+    ]
+  },
+  {
+    "question": "Which of the following are essential characteristics of a professional nurse? (Pick two)",
+    "answers": [
+      "Professional appearance and grooming",
+      "Working in complete isolation from other healthcare providers",
+      "Positive state of mind and emotional control",
+      "Ignoring hospital policies when busy"
+    ],
+    "correct_answer_indices": [
+      0,
+      2
+    ],
+    "correct_answers": [
+      "Professional appearance and grooming",
+      "Positive state of mind and emotional control"
+    ]
+  },
+  {
+    "question": "What role does a nurse perform when educating patients on managing chronic diseases, preventing infections, and preparing for discharge?",
+    "answers": [
+      "Nurse Educator",
+      "Forensic Investigator",
+      "Hospital Accountant",
+      "Pharmacist"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Nurse Educator"
+    ]
+  },
+  {
+    "question": "What are the three fundamental principles of professional discipline in nursing?",
+    "answers": [
+      "Public protection, constitutional fitness, and professional licensure",
+      "Criminal punishment, civil compensation, and hospital profit",
+      "Orientation, working, and termination",
+      "Assessment, planning, and evaluation"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Public protection, constitutional fitness, and professional licensure"
+    ]
+  },
+  {
+    "question": "What is the primary goal of professional discipline in healthcare?",
+    "answers": [
+      "Punishing wrongdoers like criminal law",
+      "Victim financial compensation like civil law",
+      "Public protection",
+      "Limiting the number of licensed practitioners"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Public protection"
+    ]
+  },
+  {
+    "question": "Which term describes a political process by an individual or group aiming to influence decisions within political, economic, and social systems to promote nursing and healthcare?",
+    "answers": [
+      "Licensure",
+      "Advocacy",
+      "Self-regulation",
+      "Socialization"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Advocacy"
+    ]
+  },
+  {
+    "question": "How is professional licensure appropriately viewed in relation to competence?",
+    "answers": [
+      "As an aspirational peak of perfection",
+      "As a floor establishing a minimal level of safe competence",
+      "As a guarantee that tools will always be used correctly",
+      "As a substitute for ethical codes"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "As a floor establishing a minimal level of safe competence"
+    ]
+  },
+  {
+    "question": "Which concept refers to the process whereby a professional group is granted authority by society to establish and enforce standards of practice and conduct for its members?",
+    "answers": [
+      "Self-regulation",
+      "Paternalism",
+      "Sub-vocalization",
+      "Hospitalization"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Self-regulation"
+    ]
+  },
+  {
+    "question": "According to the principles of constitutional fitness in professional discipline, what must regulatory boards ensure before revoking or suspending a nurse's license?",
+    "answers": [
+      "Due process and fundamental fairness",
+      "Immediate termination without a hearing",
+      "Approval from hospital patients",
+      "Criminal conviction in a supreme court first"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Due process and fundamental fairness"
+    ]
+  },
+  {
+    "question": "According to the World Health Organization (WHO), how is health defined?",
+    "answers": [
+      "Merely the absence of disease or infirmity",
+      "A state of complete physical, mental, and social well-being, not merely the absence of disease or infirmity",
+      "The inability to feel physical pain",
+      "A static state of biological equilibrium"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "A state of complete physical, mental, and social well-being, not merely the absence of disease or infirmity"
+    ]
+  },
+  {
+    "question": "What are the three interdependent fields that act as key determinants of an individual's health?",
+    "answers": [
+      "Lifestyle, environmental, and biomedical",
+      "Financial, political, and religious",
+      "Acute, chronic, and terminal",
+      "Primary, secondary, and tertiary"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Lifestyle, environmental, and biomedical"
+    ]
+  },
+  {
+    "question": "What are the three stages of illness in sequential order?",
+    "answers": [
+      "Acceptance, Denial, Recovery",
+      "Denial, Acceptance, Recovery",
+      "Recovery, Denial, Acceptance",
+      "Denial, Recovery, Acceptance"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Denial, Acceptance, Recovery"
+    ]
+  },
+  {
+    "question": "In Leavell's Agent-Host-Environment Model, what is the 'Host'?",
+    "answers": [
+      "Any internal or external factor causing disease",
+      "The person or persons susceptible to a particular illness or disease",
+      "All factors outside the human body",
+      "The hospital facility providing care"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "The person or persons susceptible to a particular illness or disease"
+    ]
+  },
+  {
+    "question": "In Leavell's Agent-Host-Environment Model, which of the following is an example of an 'Agent'?",
+    "answers": [
+      "Bacteria, viruses, chemical toxins, or mechanical trauma",
+      "A hospitalized elderly patient",
+      "Overcrowded housing conditions",
+      "A primary health care clinic"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Bacteria, viruses, chemical toxins, or mechanical trauma"
+    ]
+  },
+  {
+    "question": "On Travis's Illness-Wellness Continuum, what is the goal of the 'treatment paradigm'?",
+    "answers": [
+      "To move the patient far to the right into high-level wellness",
+      "To bring the patient up to the neutral point where symptoms of disease are alleviated",
+      "To replace the wellness paradigm completely",
+      "To induce premature death"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "To bring the patient up to the neutral point where symptoms of disease are alleviated"
+    ]
+  },
+  {
+    "question": "Which of the following is emphasized in the concept of rehabilitation?",
+    "answers": [
+      "Disabilities rather than abilities",
+      "Abilities rather than disabilities",
+      "Passive dependence on caregivers",
+      "Delaying intervention until hospital discharge"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Abilities rather than disabilities"
+    ]
+  },
+  {
+    "question": "What distinguishes an acute illness from a chronic illness?",
+    "answers": [
+      "Acute illness has a rapid onset and relatively short duration, whereas chronic illness persists for a long period (often 6 months or more) and requires ongoing management",
+      "Acute illness is always fatal, whereas chronic illness cures itself within days",
+      "Chronic illness never has periods of remission",
+      "Acute illness only affects children"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Acute illness has a rapid onset and relatively short duration, whereas chronic illness persists for a long period (often 6 months or more) and requires ongoing management"
+    ]
+  },
+  {
+    "question": "According to Suchman's stages of illness behavior, during which stage does a person seek confirmation from family or friends and try home remedies before seeking professional care?",
+    "answers": [
+      "Symptom experience stage",
+      "Assumption of the sick role stage",
+      "Medical care contact stage",
+      "Dependent client role stage"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Assumption of the sick role stage"
+    ]
+  },
+  {
+    "question": "Which communication style is identified as patient-centered and has a more demonstrable impact on positive patient outcomes?",
+    "answers": [
+      "Bio-medical style",
+      "Bio-psychosocial style",
+      "Authoritarian style",
+      "Passive-avoidant style"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Bio-psychosocial style"
+    ]
+  },
+  {
+    "question": "What are the four sequential phases of an interpersonal relationship in nursing?",
+    "answers": [
+      "Orientation, Identification, Exploitation, Resolution",
+      "Assessment, Diagnosis, Planning, Evaluation",
+      "Denial, Anger, Bargaining, Acceptance",
+      "Initiation, Maintenance, Escalation, Termination"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Orientation, Identification, Exploitation, Resolution"
+    ]
+  },
+  {
+    "question": "During which phase of an interpersonal relationship do the nurse and patient first meet as strangers, clarify expectations, and establish trust?",
+    "answers": [
+      "Orientation phase",
+      "Identification phase",
+      "Exploitation phase",
+      "Resolution phase"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Orientation phase"
+    ]
+  },
+  {
+    "question": "In which phase of interpersonal relationship are interview techniques most useful to explore, understand, and deal with the underlying problem?",
+    "answers": [
+      "Orientation phase",
+      "Identification phase",
+      "Exploitation phase",
+      "Resolution phase"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Exploitation phase"
+    ]
+  },
+  {
+    "question": "Which of the following is a recognized limitation of interpersonal theory in nursing?",
+    "answers": [
+      "It cannot be applied to human beings",
+      "It cannot be used in patients who do not have a felt need, such as unconscious or withdrawn patients",
+      "It lacks logical structure",
+      "It ignores communication and observation"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "It cannot be used in patients who do not have a felt need, such as unconscious or withdrawn patients"
+    ]
+  },
+  {
+    "question": "Which roles can a nurse assume during the interpersonal relationship according to Peplau's framework? (Pick two)",
+    "answers": [
+      "Resource person and counselor",
+      "Surrogate and leader",
+      "Hospital architect",
+      "Insurance underwriter"
+    ],
+    "correct_answer_indices": [
+      0,
+      1
+    ],
+    "correct_answers": [
+      "Resource person and counselor",
+      "Surrogate and leader"
+    ]
+  },
+  {
+    "question": "Primary human needs are also referred to as ________.",
+    "answers": [
+      "meta needs or growth needs",
+      "basic needs, survival needs, or deficiency needs",
+      "aesthetic needs",
+      "self-actualization needs"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "basic needs, survival needs, or deficiency needs"
+    ]
+  },
+  {
+    "question": "Which level of Maslow's Hierarchy of Needs is the most prepotent and occupies the bottom of the pyramid?",
+    "answers": [
+      "Safety and security needs",
+      "Physiological needs",
+      "Love and belonging needs",
+      "Esteem needs"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Physiological needs"
+    ]
+  },
+  {
+    "question": "Arrange Maslow's five basic levels of human needs from the lowest (most basic) to the highest.",
+    "answers": [
+      "Physiological -> Safety and security -> Love and belonging -> Self-esteem -> Self-actualization",
+      "Safety -> Physiological -> Self-esteem -> Love and belonging -> Self-actualization",
+      "Physiological -> Love and belonging -> Safety -> Self-actualization -> Self-esteem",
+      "Self-actualization -> Self-esteem -> Love and belonging -> Safety -> Physiological"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Physiological -> Safety and security -> Love and belonging -> Self-esteem -> Self-actualization"
+    ]
+  },
+  {
+    "question": "Why is the assessment of a patient's psychological safety often difficult for nurses?",
+    "answers": [
+      "Psychological safety does not exist in hospitals",
+      "People rarely open up verbally that their psychological safety is threatened",
+      "Diagnostic tests never cause anxiety",
+      "Only physical safety affects recovery"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "People rarely open up verbally that their psychological safety is threatened"
+    ]
+  },
+  {
+    "question": "According to the application of Maslow's Hierarchy to health information, what type of information do individuals at the esteem level seek?",
+    "answers": [
+      "Coping information",
+      "Helping information",
+      "Enlightening information",
+      "Empowering information"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "Empowering information"
+    ]
+  },
+  {
+    "question": "Which of the following belongs to physiological needs in Maslow's hierarchy? (Pick two)",
+    "answers": [
+      "Oxygen and water",
+      "Food and elimination",
+      "Social recognition and prestige",
+      "Financial insurance"
+    ],
+    "correct_answer_indices": [
+      0,
+      1
+    ],
+    "correct_answers": [
+      "Oxygen and water",
+      "Food and elimination"
+    ]
+  },
+  {
+    "question": "A patient experiencing severe hypoxia (shortness of breath) and loneliness after surgery should have which nursing priority addressed first according to Maslow's hierarchy?",
+    "answers": [
+      "Restoring adequate oxygenation (physiological need)",
+      "Encouraging family visitation (love and belonging need)",
+      "Discussing career achievements (self-esteem need)",
+      "Exploring spiritual fulfillment (self-actualization need)"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Restoring adequate oxygenation (physiological need)"
+    ]
+  },
+  {
+    "question": "Who designed the Health Promotion Model as a complementary counterpart to models of health protection?",
+    "answers": [
+      "Nola J. Pender",
+      "Florence Nightingale",
+      "Betty Neuman",
+      "Dorothea Orem"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Nola J. Pender"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT one of the five application areas for health promotion outlined in the Ottawa Charter?",
+    "answers": [
+      "Building healthy public policy",
+      "Creating supportive environments",
+      "Strengthening community action",
+      "Increasing reliance on high-tech secondary curative care"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "Increasing reliance on high-tech secondary curative care"
+    ]
+  },
+  {
+    "question": "What are the three main areas of focus in Pender's Health Promotion Model?",
+    "answers": [
+      "Individual characteristics and experiences, behaviour-specific cognitions and affect, and behavioural outcomes",
+      "Agent, host, and environment",
+      "Denial, acceptance, and recovery",
+      "Orientation, working, and termination"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Individual characteristics and experiences, behaviour-specific cognitions and affect, and behavioural outcomes"
+    ]
+  },
+  {
+    "question": "Which level of preventive care involves screening programs such as mammography, Pap smears, and blood pressure checks for early detection and prompt treatment of disease?",
+    "answers": [
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention",
+      "Primordial prevention"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Secondary prevention"
+    ]
+  },
+  {
+    "question": "Immunization, health education on balanced diet, and regular physical exercise are examples of ________.",
+    "answers": [
+      "primary prevention",
+      "secondary prevention",
+      "tertiary prevention",
+      "rehabilitative care"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "primary prevention"
+    ]
+  },
+  {
+    "question": "Physical therapy following a stroke and cardiac rehabilitation after myocardial infarction fall under which level of prevention?",
+    "answers": [
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention",
+      "Specific protection"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Tertiary prevention"
+    ]
+  },
+  {
+    "question": "Which ethical principle obliges healthcare professionals to 'do no harm', 'avoid harm', and 'prevent harm'?",
+    "answers": [
+      "Beneficence",
+      "Non-maleficence",
+      "Veracity",
+      "Fidelity"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Non-maleficence"
+    ]
+  },
+  {
+    "question": "Which ethical principle requires nurses to actively do good and act in the best interest of the patient?",
+    "answers": [
+      "Beneficence",
+      "Autonomy",
+      "Veracity",
+      "Justice"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Beneficence"
+    ]
+  },
+  {
+    "question": "Which ethical principle respects a competent patient's right to make independent decisions about their own healthcare, including refusing treatment?",
+    "answers": [
+      "Paternalism",
+      "Autonomy",
+      "Utility",
+      "Fidelity"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Autonomy"
+    ]
+  },
+  {
+    "question": "Which ethical principle concerns truth-telling and complete disclosure of information to patients?",
+    "answers": [
+      "Justice",
+      "Veracity",
+      "Utility",
+      "Paternalism"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Veracity"
+    ]
+  },
+  {
+    "question": "What does the ethical principle of 'Fidelity' require of a nurse?",
+    "answers": [
+      "Making decisions for incapacitated patients",
+      "Keeping commitments and faithfully fulfilling duties and obligations",
+      "Distributing scarce resources equally",
+      "Prioritizing the common good over the individual"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Keeping commitments and faithfully fulfilling duties and obligations"
+    ]
+  },
+  {
+    "question": "Which ethical principle deals with fairness and the equitable distribution of scarce healthcare resources among patients?",
+    "answers": [
+      "Justice",
+      "Veracity",
+      "Confidentiality",
+      "Non-maleficence"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Justice"
+    ]
+  },
+  {
+    "question": "In what year was Jean Watson's philosophy of nursing, 'The Philosophy and Science of Caring', first published?",
+    "answers": [
+      "1958",
+      "1978",
+      "1979",
+      "1998"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "1979"
+    ]
+  },
+  {
+    "question": "How many carative factors form the core structure of Jean Watson's Theory of Human Caring?",
+    "answers": [
+      "7",
+      "8",
+      "10",
+      "14"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "10"
+    ]
+  },
+  {
+    "question": "Where and when was the Declaration of Primary Health Care (PHC) adopted?",
+    "answers": [
+      "Geneva, Switzerland in 1948",
+      "Alma Ata, Kazakhstan in 1978",
+      "Bellagio, Italy in 1979",
+      "Ottawa, Canada in 1986"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Alma Ata, Kazakhstan in 1978"
+    ]
+  },
+  {
+    "question": "Which historical rural health worker program in China served as an important inspiration for Primary Health Care?",
+    "answers": [
+      "Flying doctors",
+      "Barefoot doctors",
+      "Village midwives",
+      "Red Cross volunteers"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Barefoot doctors"
+    ]
+  },
+  {
+    "question": "In Selective Primary Health Care (SPHC), what does the acronym 'GOBI-FFF' stand for?",
+    "answers": [
+      "Growth monitoring, Oral rehydration therapy, Breastfeeding, Immunization, Family planning, Female education, Food supplementation",
+      "General observation, Basic immunization, Blood testing, Isolation, First aid, Feeding, Follow-up",
+      "Global outreach, Oral hygiene, Birth control, Infection control, Fitness, Finance, Food safety",
+      "Geriatric care, Obstetrics, Behavioral health, Intensive care, Family therapy, Fasting, Fluoridation"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Growth monitoring, Oral rehydration therapy, Breastfeeding, Immunization, Family planning, Female education, Food supplementation"
+    ]
+  },
+  {
+    "question": "How many essential components of Primary Health Care were outlined in the 1978 Alma-Ata Declaration?",
+    "answers": [
+      "5",
+      "7",
+      "8",
+      "10"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "8"
+    ]
+  },
+  {
+    "question": "Which of the following are core pillars/principles of Primary Health Care? (Pick two)",
+    "answers": [
+      "Community participation and intersectoral collaboration",
+      "Equitable distribution and appropriate technology",
+      "Exclusive reliance on tertiary specialist hospitals",
+      "Centralized urban-only medical facilities"
+    ],
+    "correct_answer_indices": [
+      0,
+      1
+    ],
+    "correct_answers": [
+      "Community participation and intersectoral collaboration",
+      "Equitable distribution and appropriate technology"
+    ]
+  },
+  {
+    "question": "Which level of healthcare serves as the first point of contact for individuals, the family, and the community with the national health system?",
+    "answers": [
+      "Primary Health Care",
+      "Secondary Health Care",
+      "Tertiary Health Care",
+      "Quaternary Health Care"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Primary Health Care"
+    ]
+  },
+  {
+    "question": "When lifting or transferring a patient, a nurse should NOT carry alone an object heavier than what percentage of their own body weight?",
+    "answers": [
+      "50%",
+      "60%",
+      "70%",
+      "85%"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "70%"
+    ]
+  },
+  {
+    "question": "Which body mechanics practice helps prevent back injury when lifting a heavy object from a low surface?",
+    "answers": [
+      "Bending at the knees and hips while keeping the back straight and holding the object close to the body",
+      "Bending straight from the waist with locked knees",
+      "Twisting the spine while lifting the load",
+      "Holding the object at arm's length away from the body"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Bending at the knees and hips while keeping the back straight and holding the object close to the body"
+    ]
+  },
+  {
+    "question": "What is the correct procedure when transporting a patient on a stretcher down an incline?",
+    "answers": [
+      "Push from the head quickly",
+      "Guide the stretcher from the foot and proceed slowly",
+      "Leave the brakes unlocked on the side",
+      "Allow the patient to hold the side rails while standing"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Guide the stretcher from the foot and proceed slowly"
+    ]
+  },
+  {
+    "question": "What is the term for an infection acquired by a patient during the delivery of healthcare services in a hospital or healthcare facility?",
+    "answers": [
+      "Autoinfection",
+      "Nosocomial infection",
+      "Subclinical infection",
+      "Endemic infection"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Nosocomial infection"
+    ]
+  },
+  {
+    "question": "What is the single most effective measure for preventing the transmission of nosocomial infections in healthcare settings?",
+    "answers": [
+      "Proper hand hygiene (handwashing)",
+      "Routine administration of broad-spectrum antibiotics",
+      "Keeping hospital windows closed at all times",
+      "Wearing sterile gowns for all routine vital signs"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Proper hand hygiene (handwashing)"
+    ]
+  },
+  {
+    "question": "What is the difference between sterilization and disinfection?",
+    "answers": [
+      "Sterilization destroys all microorganisms including spores, while disinfection kills infectious agents outside the body by chemical or physical means",
+      "Disinfection destroys spores, while sterilization only removes visible dirt",
+      "Sterilization is only used on skin, while disinfection is used on surgical instruments",
+      "There is no difference between the two processes"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Sterilization destroys all microorganisms including spores, while disinfection kills infectious agents outside the body by chemical or physical means"
+    ]
+  },
+  {
+    "question": "Which type of occupied bed is divided in the middle and used mostly in the care of amputees or for drying Plaster of Paris?",
+    "answers": [
+      "Closed bed",
+      "Open bed",
+      "Fractured bed",
+      "Divided bed"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "Divided bed"
+    ]
+  },
+  {
+    "question": "Which type of bed uses a firm mattress or bed board beneath the mattress to provide rigid support for patients with spinal injuries or back pain?",
+    "answers": [
+      "Fractured bed",
+      "Post-operative bed",
+      "Cardiac bed",
+      "Cradle bed"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Fractured bed"
+    ]
+  },
+  {
+    "question": "In what direction should perineal care cleansing be performed?",
+    "answers": [
+      "From more soiled to less soiled areas",
+      "From less soiled to more soiled areas",
+      "In circular motions from rectum to urethra",
+      "Only using dry gauze"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "From less soiled to more soiled areas"
+    ]
+  },
+  {
+    "question": "When giving a bed bath, in what order should body parts generally be washed?",
+    "answers": [
+      "From the cleanest areas (eyes, face) to the dirtiest areas (perineal/anal region)",
+      "From the feet upward to the face",
+      "Starting with the perineal area first",
+      "In any random order using the same washcloth without rinsing"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "From the cleanest areas (eyes, face) to the dirtiest areas (perineal/anal region)"
+    ]
+  },
+  {
+    "question": "Who first described nursing practice as a four-stage nursing process in 1958?",
+    "answers": [
+      "Ida Jean Orlando",
+      "Patricia Benner",
+      "Florence Nightingale",
+      "Hildegard Peplau"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Ida Jean Orlando"
+    ]
+  },
+  {
+    "question": "What are the five sequential steps of the modern Nursing Process?",
+    "answers": [
+      "Assessment, Diagnosis, Planning, Implementation, Evaluation",
+      "Diagnosis, Assessment, Implementation, Planning, Evaluation",
+      "Orientation, Identification, Exploitation, Resolution, Termination",
+      "Observation, Hypothesis, Experimentation, Analysis, Conclusion"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Assessment, Diagnosis, Planning, Implementation, Evaluation"
+    ]
+  },
+  {
+    "question": "During which phase of the nursing process does the nurse systematically collect, organize, validate, and document patient health data?",
+    "answers": [
+      "Assessment",
+      "Diagnosis",
+      "Planning",
+      "Evaluation"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Assessment"
+    ]
+  },
+  {
+    "question": "Which of the following is an example of subjective data collected during nursing assessment?",
+    "answers": [
+      "A patient stating, 'I feel nauseous and have a throbbing headache'",
+      "A blood pressure reading of 140/90 mmHg",
+      "A body temperature of 38.9°C measured with a thermometer",
+      "A surgical incision with 2 cm of erythema"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "A patient stating, 'I feel nauseous and have a throbbing headache'"
+    ]
+  },
+  {
+    "question": "How does a nursing diagnosis differ from a medical diagnosis?",
+    "answers": [
+      "A nursing diagnosis focuses on human responses to actual or potential health problems, whereas a medical diagnosis identifies a specific disease pathology",
+      "A nursing diagnosis prescribes surgical operations, whereas a medical diagnosis manages bed baths",
+      "A nursing diagnosis never changes during hospitalization, whereas a medical diagnosis changes hourly",
+      "There is no difference between nursing and medical diagnoses"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "A nursing diagnosis focuses on human responses to actual or potential health problems, whereas a medical diagnosis identifies a specific disease pathology"
+    ]
+  },
+  {
+    "question": "What are the three components of a standard PES nursing diagnostic statement?",
+    "answers": [
+      "Problem, Etiology (related factors), and Signs/Symptoms (defining characteristics)",
+      "Patient, Environment, and Support system",
+      "Planning, Evaluation, and Summary",
+      "Primary, Emergency, and Secondary care"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Problem, Etiology (related factors), and Signs/Symptoms (defining characteristics)"
+    ]
+  },
+  {
+    "question": "During the Planning phase of the nursing process, expected patient outcomes should follow the SMART criteria, which stand for ________.",
+    "answers": [
+      "Specific, Measurable, Achievable, Realistic, and Time-bound",
+      "Simple, Medical, Accurate, Rapid, and Technical",
+      "Subjective, Mental, Anatomical, Rational, and Therapeutic",
+      "Safe, Monitored, Assessed, Recorded, and Treated"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Specific, Measurable, Achievable, Realistic, and Time-bound"
+    ]
+  },
+  {
+    "question": "Which step of the nursing process involves carrying out the planned nursing interventions and documenting the care provided?",
+    "answers": [
+      "Implementation",
+      "Assessment",
+      "Diagnosis",
+      "Planning"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Implementation"
+    ]
+  },
+  {
+    "question": "During the Evaluation phase of the nursing process, what does the nurse compare to determine whether the care plan should be continued, modified, or terminated?",
+    "answers": [
+      "Actual patient responses against the established expected outcomes/goals",
+      "Hospital revenue against staffing costs",
+      "The patient's admission weight against national averages",
+      "The nurse's shift schedule against ward occupancy"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Actual patient responses against the established expected outcomes/goals"
+    ]
+  },
+  {
+    "question": "Which of the following are key characteristics of the Nursing Process? (Pick two)",
+    "answers": [
+      "Cyclical and dynamic",
+      "Patient-centered and goal-directed",
+      "Rigid and unchangeable once written",
+      "Applicable only in intensive care units"
+    ],
+    "correct_answer_indices": [
+      0,
+      1
+    ],
+    "correct_answers": [
+      "Cyclical and dynamic",
+      "Patient-centered and goal-directed"
+    ]
+  }
+]
