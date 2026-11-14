@@ -1,0 +1,747 @@
+[
+  {
+    "question": "In the context of Open and Distance Learning (ODL), why is the 'learning environment' often referred to as the 'third teacher'?",
+    "answers": [
+      "Because it replaces both human instructors and textbooks",
+      "Because it can enhance learning and optimize students' potential for creative engagement, or detract from it",
+      "Because every online course requires three separate lecturers",
+      "Because it only tracks courses created outside the institution"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Because it can enhance learning and optimize students' potential for creative engagement, or detract from it"
+    ]
+  },
+  {
+    "question": "What is a key software limitation of a comprehensive learning environment noted in the GST 107 manual?",
+    "answers": [
+      "It cannot integrate learning management system functionalities",
+      "It may not have the capability to track online courses created outside of that specific learning environment",
+      "It prevents instructors from authoring new courses",
+      "It prohibits students from remaining within the platform during a course"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "It may not have the capability to track online courses created outside of that specific learning environment"
+    ]
+  },
+  {
+    "question": "Which three primary roles do teachers assume within the Open and Distance Learning (ODL) system?",
+    "answers": [
+      "Creator and Manager of Learning Environment, Instructor, and Facilitator",
+      "Bursar, Registrar, and Study Centre Porter",
+      "Hardware Technician, Curriculum Auditor, and Invigilator",
+      "Content Transmitter, Sole Authority, and Disciplinary Officer"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Creator and Manager of Learning Environment, Instructor, and Facilitator"
+    ]
+  },
+  {
+    "question": "How did Bull (2013) characterize the online teacher who guides students through pre-designed online learning experiences?",
+    "answers": [
+      "As a 'tour guide'",
+      "As a 'gatekeeper'",
+      "As a 'sole lecturer'",
+      "As a 'digital migrant'"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "As a 'tour guide'"
+    ]
+  },
+  {
+    "question": "Which three demographic elements of ODL learners are examined in Study Session 2?",
+    "answers": [
+      "Gender, age, and employment status",
+      "Nationality, religion, and marital status",
+      "Income bracket, blood group, and state of origin",
+      "Secondary school attended, height, and internet provider"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Gender, age, and employment status"
+    ]
+  },
+  {
+    "question": "According to recent studies by Adewale (2014) and Gao (2012) cited in the manual, what age group makes up the majority of current students in ODL institutions?",
+    "answers": [
+      "Young adults aged 16 to 31",
+      "Senior citizens aged 60 and above",
+      "Middle-aged adults aged 45 to 59",
+      "Teenagers under 15"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Young adults aged 16 to 31"
+    ]
+  },
+  {
+    "question": "Which of the following are key learning characteristics required for success as an ODL learner? (Pick two)",
+    "answers": [
+      "Self-discipline and active participation",
+      "Daily physical attendance at main campus lecture halls",
+      "Effective communication and reflective skills",
+      "Giving monosyllabic 'yes' or 'no' responses in forums"
+    ],
+    "correct_answer_indices": [
+      0,
+      2
+    ],
+    "correct_answers": [
+      "Self-discipline and active participation",
+      "Effective communication and reflective skills"
+    ]
+  },
+  {
+    "question": "How does Dabbagh (2007) define 'reflective skills' for ODL students?",
+    "answers": [
+      "The ability to memorize courseware verbatim before exams",
+      "The ability to frequently and substantively assess one's learning process and outcomes",
+      "The speed at which a student types in online chat rooms",
+      "The ability to install software on a personal computer"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "The ability to frequently and substantively assess one's learning process and outcomes"
+    ]
+  },
+  {
+    "question": "What is the fundamental difference between 'hearing' and 'listening'?",
+    "answers": [
+      "Hearing is an active mental process, while listening is a passive physical act",
+      "Hearing is a basic, passive physical act of sounds entering the ears, while listening is an active, cognitive process of interpreting those sounds",
+      "Hearing only happens in classrooms, while listening only happens outdoors",
+      "There is no difference; the two terms are completely synonymous"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Hearing is a basic, passive physical act of sounds entering the ears, while listening is an active, cognitive process of interpreting those sounds"
+    ]
+  },
+  {
+    "question": "Which type of listening involves evaluating and analyzing information to determine whether a message is logical and reasonable before accepting or rejecting it?",
+    "answers": [
+      "Critical or Analytical Listening",
+      "Empathic or Therapeutic Listening",
+      "Appreciative Listening",
+      "Casual Social Listening"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Critical or Analytical Listening"
+    ]
+  },
+  {
+    "question": "When you listen to a friend or relative to provide emotional support without making judgments, which type of listening are you practicing?",
+    "answers": [
+      "Empathic or Therapeutic Listening",
+      "Critical or Analytical Listening",
+      "Appreciative Listening",
+      "Selective Listening"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Empathic or Therapeutic Listening"
+    ]
+  },
+  {
+    "question": "Which of the following are barriers to effective listening discussed in Study Session 3? (Pick two)",
+    "answers": [
+      "Physical barriers (such as hearing impairments or noisy environments) and Physiological barriers (such as illness or fatigue)",
+      "Psychological barriers (such as anxiety or prejudice) and Linguistic barriers (such as unfamiliar jargon)",
+      "Note-taking and maintaining eye contact",
+      "Empathizing with the speaker and asking timely questions"
+    ],
+    "correct_answer_indices": [
+      0,
+      1
+    ],
+    "correct_answers": [
+      "Physical barriers (such as hearing impairments or noisy environments) and Physiological barriers (such as illness or fatigue)",
+      "Psychological barriers (such as anxiety or prejudice) and Linguistic barriers (such as unfamiliar jargon)"
+    ]
+  },
+  {
+    "question": "What are the five essential components of the listening process in sequential order?",
+    "answers": [
+      "Hearing/Receiving, Comprehending/Understanding, Remembering, Evaluating, and Responding/Feedback",
+      "Surveying, Questioning, Reading, Reciting, and Reviewing",
+      "Outlining, Drafting, Revising, Editing, and Publishing",
+      "Skimming, Scanning, Previewing, Visualizing, and Summarizing"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Hearing/Receiving, Comprehending/Understanding, Remembering, Evaluating, and Responding/Feedback"
+    ]
+  },
+  {
+    "question": "Which note-taking method divides the page into a narrow left column for cues/keywords, a wider right column for notes, and a bottom section for summarizing?",
+    "answers": [
+      "The Cornell Method",
+      "The Charting Method",
+      "The Sentence Method",
+      "The Mapping Method"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "The Cornell Method"
+    ]
+  },
+  {
+    "question": "Which note-taking method uses a table with rows and columns for chronological comparisons or contrasts of ideas and topics?",
+    "answers": [
+      "The Charting Method",
+      "The Outline Method",
+      "The Cornell Method",
+      "The Sentence Method"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "The Charting Method"
+    ]
+  },
+  {
+    "question": "What is the primary goal of 'Informative Speaking'?",
+    "answers": [
+      "To sway listeners to change their political or religious beliefs",
+      "To share fact-based knowledge objectively through description, demonstration, and explanation without personal bias",
+      "To amuse the audience primarily using jokes and fictional stories",
+      "To impress listeners with complex, obscure vocabulary"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "To share fact-based knowledge objectively through description, demonstration, and explanation without personal bias"
+    ]
+  },
+  {
+    "question": "High school debates, where speakers use well-reasoned arguments, facts, and statistics to convince listeners to adopt a viewpoint, are an example of ________.",
+    "answers": [
+      "persuasive speaking",
+      "informative speaking",
+      "entertainment speaking",
+      "empathic listening"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "persuasive speaking"
+    ]
+  },
+  {
+    "question": "Which three common challenges encountered while speaking are highlighted in Study Session 4?",
+    "answers": [
+      "Inhibition or anxiety, lack of knowledge of subject matter, and accents or mother tongue interference",
+      "Regression, vocalization, and sub-vocalization",
+      "Poor handwriting, lack of past exam papers, and late registration",
+      "Physical noise, fatigue, and selective perception"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Inhibition or anxiety, lack of knowledge of subject matter, and accents or mother tongue interference"
+    ]
+  },
+  {
+    "question": "What are the four key language components influencing speaking proficiency?",
+    "answers": [
+      "Grammar, Vocabulary, Pronunciation, and Fluency",
+      "Phonics, Phonemics, Skimming, and Scanning",
+      "Title, Thesis, Outline, and Bibliography",
+      "Cognitive, Affective, Systemic, and Administrative"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Grammar, Vocabulary, Pronunciation, and Fluency"
+    ]
+  },
+  {
+    "question": "Which of the following are qualities of a confident speaker according to Study Session 4? (Pick two)",
+    "answers": [
+      "Integrity and authenticity",
+      "Focusing on contribution over seeking approval",
+      "Pretending to be someone else to impress the crowd",
+      "Avoiding preparation so the speech sounds spontaneous"
+    ],
+    "correct_answer_indices": [
+      0,
+      1
+    ],
+    "correct_answers": [
+      "Integrity and authenticity",
+      "Focusing on contribution over seeking approval"
+    ]
+  },
+  {
+    "question": "Why are listening and reading classified as 'receptive' language skills?",
+    "answers": [
+      "Because they involve receiving and processing information rather than producing it",
+      "Because they require no cognitive effort or concentration",
+      "Because they can only be practiced in face-to-face classrooms",
+      "Because they are only used for leisure and entertainment"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Because they involve receiving and processing information rather than producing it"
+    ]
+  },
+  {
+    "question": "How do 'skimming' and 'scanning' differ as reading approaches?",
+    "answers": [
+      "Skimming quickly identifies main ideas to grasp overall meaning, whereas scanning swiftly locates specific information or keywords",
+      "Skimming is reading aloud, whereas scanning is reading silently",
+      "Skimming is meticulous word-for-word study, whereas scanning is reading only the book cover",
+      "Skimming is used only by visually impaired readers, whereas scanning is used only on computers"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Skimming quickly identifies main ideas to grasp overall meaning, whereas scanning swiftly locates specific information or keywords"
+    ]
+  },
+  {
+    "question": "What do the letters in the 'SQ3R' method of study reading stand for?",
+    "answers": [
+      "Survey, Question, Read, Recite (Recall), and Review",
+      "Skim, Scan, Quote, Write, and Revise",
+      "Study, Query, Record, Reflect, and Repeat",
+      "Search, Qualify, Read, Respond, and Retain"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Survey, Question, Read, Recite (Recall), and Review"
+    ]
+  },
+  {
+    "question": "In the SQ3R method, which stage involves summarizing main ideas in your own words or explaining the material to someone else to solidify comprehension?",
+    "answers": [
+      "Recall (or Recite)",
+      "Survey",
+      "Question",
+      "Review"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Recall (or Recite)"
+    ]
+  },
+  {
+    "question": "What is the difference between 'phonics' and 'phonemics' in reading?",
+    "answers": [
+      "Phonics understands the correspondence between written letters and sounds, whereas phonemics identifies and manipulates individual spoken sounds (phonemes)",
+      "Phonics is speed reading, whereas phonemics is reading one word at a time",
+      "Phonics is silent reading, whereas phonemics is reading aloud",
+      "Phonics measures reading comprehension, whereas phonemics measures vocabulary size"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Phonics understands the correspondence between written letters and sounds, whereas phonemics identifies and manipulates individual spoken sounds (phonemes)"
+    ]
+  },
+  {
+    "question": "What is the poor reading habit known as 'regression', and how is it best remedied?",
+    "answers": [
+      "Repeatedly skipping back or re-reading the same text; remedied by using focused reading strategies and consulting additional texts rather than re-reading",
+      "Pronouncing words aloud while reading; remedied by chewing gum",
+      "Reading in large chunks of words; remedied by pointing at each word with a finger",
+      "Previewing headings before reading; remedied by skipping chapter summaries"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Repeatedly skipping back or re-reading the same text; remedied by using focused reading strategies and consulting additional texts rather than re-reading"
+    ]
+  },
+  {
+    "question": "How can a reader overcome 'vocalization' (audible pronunciation) and 'sub-vocalization' (internal pronunciation) that slow down reading speed?",
+    "answers": [
+      "By focusing on visualizing the content as they read",
+      "By reading every sentence twice",
+      "By reading strictly one word at a time",
+      "By moving their lips silently"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "By focusing on visualizing the content as they read"
+    ]
+  },
+  {
+    "question": "Which type of essay tells a story, often in a conversational style and typically written in the first person ('I') recounting personal experiences?",
+    "answers": [
+      "Narrative Essay",
+      "Expository Essay",
+      "Argumentative Essay",
+      "Descriptive Essay"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Narrative Essay"
+    ]
+  },
+  {
+    "question": "Which type of essay requires extensive research to present an analysis of an idea or issue, culminating in an evaluation and conclusion based on findings?",
+    "answers": [
+      "Expository Essay",
+      "Narrative Essay",
+      "Descriptive Essay",
+      "Creative Poem"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Expository Essay"
+    ]
+  },
+  {
+    "question": "How does 'note making' differ from 'note taking'?",
+    "answers": [
+      "Note taking involves listening and paraphrasing during a lecture, whereas note making is a self-directed active process of creating notes while reading during private study",
+      "Note taking is done at home from textbooks, whereas note making is transcribing lectures verbatim",
+      "Note taking requires a computer, whereas note making is strictly handwritten",
+      "Note taking is only for exams, whereas note making is only for creative writing"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Note taking involves listening and paraphrasing during a lecture, whereas note making is a self-directed active process of creating notes while reading during private study"
+    ]
+  },
+  {
+    "question": "What is the correct sequence of stages in the writing process outlined in Study Session 6?",
+    "answers": [
+      "Deciding on the topic -> Gathering materials -> Preparing an outline -> Writing the first draft -> Revision -> Editing -> Final draft",
+      "Editing -> Writing the first draft -> Choosing a topic -> Gathering materials -> Final draft",
+      "Final draft -> Revision -> Preparing an outline -> Deciding on the topic -> Editing",
+      "Gathering materials -> Editing -> Writing the first draft -> Revision -> Deciding on the topic"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Deciding on the topic -> Gathering materials -> Preparing an outline -> Writing the first draft -> Revision -> Editing -> Final draft"
+    ]
+  },
+  {
+    "question": "Which transitional words are used to express contrast between sentences or paragraphs?",
+    "answers": [
+      "However, nevertheless, on the other hand, yet",
+      "Therefore, consequently, thus, hence",
+      "Moreover, furthermore, in addition, besides",
+      "For example, for instance, specifically"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "However, nevertheless, on the other hand, yet"
+    ]
+  },
+  {
+    "question": "How does 'evaluation' relate to 'assessment' in Open and Distance Learning?",
+    "answers": [
+      "Assessment provides the data on student performance, while evaluation involves making a value judgment about the worth of that performance to guide decisions",
+      "Evaluation happens before any assessment is conducted",
+      "Assessment is only for teachers, while evaluation is only for parents",
+      "Evaluation measures attendance, while assessment measures tuition fees"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Assessment provides the data on student performance, while evaluation involves making a value judgment about the worth of that performance to guide decisions"
+    ]
+  },
+  {
+    "question": "Which evaluation purpose assigns learners to ordered educational levels within an institution without rejecting anyone?",
+    "answers": [
+      "Placement",
+      "Selection",
+      "Credentialing",
+      "Dismissal"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Placement"
+    ]
+  },
+  {
+    "question": "What are the three types of classroom assessment introduced in Study Session 7?",
+    "answers": [
+      "Formative Assessment (assessment for learning), Summative Assessment (assessment of learning), and Assessment as Learning",
+      "Oral Assessment, Physical Assessment, and Financial Assessment",
+      "Pre-admission Assessment, Matriculation Assessment, and Convocation Assessment",
+      "Diagnostic Assessment, Punitive Assessment, and Random Assessment"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Formative Assessment (assessment for learning), Summative Assessment (assessment of learning), and Assessment as Learning"
+    ]
+  },
+  {
+    "question": "Which type of assessment is continuous, used during the instructional process to diagnose learners' difficulties, and provides feedback for immediate remediation?",
+    "answers": [
+      "Formative Assessment",
+      "Summative Assessment",
+      "Convocation Certification",
+      "Terminal Examination"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Formative Assessment"
+    ]
+  },
+  {
+    "question": "Which type of assessment emphasizes fostering students' metacognitive development by encouraging them to monitor and reflect on their own learning?",
+    "answers": [
+      "Assessment as Learning",
+      "Summative Assessment",
+      "Selection Assessment",
+      "Placement Assessment"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Assessment as Learning"
+    ]
+  },
+  {
+    "question": "At LODLC, how are Computer-Marked Assignments (CMAs) administered and graded?",
+    "answers": [
+      "Created by the facilitator, uploaded online, scored automatically by the computer, and closed strictly after the set deadline",
+      "Handwritten on paper and mailed to the Registry for manual grading",
+      "Graded orally during convocation ceremonies",
+      "Submitted anytime after the semester ends with no deadlines"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Created by the facilitator, uploaded online, scored automatically by the computer, and closed strictly after the set deadline"
+    ]
+  },
+  {
+    "question": "What is the structure of Pen-on-Paper (POP) semester examinations at LODLC?",
+    "answers": [
+      "Essay-type tests typically consisting of five main questions, from which students answer three or four",
+      "100 multiple-choice questions answered orally",
+      "Group practical projects submitted without written answers",
+      "Open-book take-home quizzes lasting two weeks"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Essay-type tests typically consisting of five main questions, from which students answer three or four"
+    ]
+  },
+  {
+    "question": "Which of the following should students AVOID when writing semester examinations? (Pick two)",
+    "answers": [
+      "Regurgitating names and facts from memory without applying course concepts",
+      "Inefficient time management and poor, disorganized presentation",
+      "Adhering to prescribed course materials",
+      "Structuring answers in coherent paragraphs"
+    ],
+    "correct_answer_indices": [
+      0,
+      1
+    ],
+    "correct_answers": [
+      "Regurgitating names and facts from memory without applying course concepts",
+      "Inefficient time management and poor, disorganized presentation"
+    ]
+  },
+  {
+    "question": "How did Simpson (2002) categorize learners' support in Open and Distance Learning?",
+    "answers": [
+      "Into Academic support and Non-academic support",
+      "Into Hardware support and Software support",
+      "Into Primary support and Tertiary support",
+      "Into Local support and Foreign support"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Into Academic support and Non-academic support"
+    ]
+  },
+  {
+    "question": "Which function of learners' support services focuses on fostering a sense of community, bolstering interpersonal relationships, and promoting self-esteem and emotional well-being?",
+    "answers": [
+      "Affective Function",
+      "Cognitive Function",
+      "Systematic Function",
+      "Administrative Function"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Affective Function"
+    ]
+  },
+  {
+    "question": "Which function of learners' support services establishes efficient, transparent, and user-friendly administrative processes and information management systems?",
+    "answers": [
+      "Systematic Function",
+      "Affective Function",
+      "Cognitive Function",
+      "Therapeutic Function"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Systematic Function"
+    ]
+  },
+  {
+    "question": "What are the three main groups into which types of learners' support services are categorized?",
+    "answers": [
+      "Teaching and learning services, Social and personal support services, and Information support services",
+      "Financial services, Medical services, and Transportation services",
+      "Admission services, Graduation services, and Alumni services",
+      "Library services, Hostel services, and Cafeteria services"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Teaching and learning services, Social and personal support services, and Information support services"
+    ]
+  },
+  {
+    "question": "Under LODLC study centre registration rules, what happens if a student has NOT paid their examination fees?",
+    "answers": [
+      "Tutor-marked assignments (TMAs) will not be made available to the student",
+      "The student is automatically expelled from the university",
+      "The student is exempt from taking all semester exams",
+      "The student receives a full tuition refund"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Tutor-marked assignments (TMAs) will not be made available to the student"
+    ]
+  },
+  {
+    "question": "At LODLC, which university official signs a student's provisional letter of admission, and who signs letters of introduction (for visa or research)?",
+    "answers": [
+      "The Registrar signs the admission letter; the Deputy Registrar (Academics) signs letters of introduction",
+      "The Study Centre Director signs the admission letter; the Librarian signs letters of introduction",
+      "The Dean of Faculty signs the admission letter; the ICT Officer signs letters of introduction",
+      "The Vice-Chancellor signs both letters personally at the study centre"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "The Registrar signs the admission letter; the Deputy Registrar (Academics) signs letters of introduction"
+    ]
+  },
+  {
+    "question": "When a student is caught in examination misconduct at an LODLC study centre, what is the approval chain for disciplinary recommendations?",
+    "answers": [
+      "Study Centre Examination Misconduct Panel -> University Examination Misconduct Panel -> University Senate",
+      "Study Centre Librarian -> Directorate of ICT -> Student Union",
+      "Course Facilitator -> Hostel Porter -> Deputy Registrar",
+      "Study Centre Accountant -> Dean of Student Affairs -> External Auditor"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Study Centre Examination Misconduct Panel -> University Examination Misconduct Panel -> University Senate"
+    ]
+  },
+  {
+    "question": "What are the three core support functions of the University Library in ODL as outlined in Study Session 8?",
+    "answers": [
+      "Information access and retrieval, supporting students to become information literate, and provision of serene study space",
+      "Issuing admission letters, collecting tuition fees, and signing transcripts",
+      "Conducting medical checkups, organizing sports, and managing hostels",
+      "Repairing personal laptops, resetting portal passwords, and hosting webinars"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Information access and retrieval, supporting students to become information literate, and provision of serene study space"
+    ]
+  },
+  {
+    "question": "Which of the following are major benefits of learners' support services in ODL? (Pick two)",
+    "answers": [
+      "Promotion of academic achievement and reduction of drop-out (attrition) rates",
+      "Mediation of physical and psychological distance to prevent feelings of isolation",
+      "Elimination of all course examinations and assignments",
+      "Guaranteeing automatic first-class degrees without studying"
+    ],
+    "correct_answer_indices": [
+      0,
+      1
+    ],
+    "correct_answers": [
+      "Promotion of academic achievement and reduction of drop-out (attrition) rates",
+      "Mediation of physical and psychological distance to prevent feelings of isolation"
+    ]
+  }
+]

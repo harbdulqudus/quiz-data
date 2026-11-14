@@ -1,0 +1,850 @@
+[
+  {
+    "question": "According to the GST 121 manual, what is the simple definition of user education in academic libraries?",
+    "answers": [
+      "The cataloging and classification of books on library shelves",
+      "The instruction given to readers to assist them make the best use of a library",
+      "The purchase of electronic databases and print journals for faculty",
+      "The enforcement of silence and security rules at the library entrance"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "The instruction given to readers to assist them make the best use of a library"
+    ]
+  },
+  {
+    "question": "Who defined user education in 1978 as 'the teaching of those skills that will enable students to locate and use materials effectively, and feel confident in using the library'?",
+    "answers": [
+      "Fjallbrant",
+      "Horowitz",
+      "Nwalo",
+      "Allen"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Fjallbrant"
+    ]
+  },
+  {
+    "question": "To which decade is the historical development of user education in academic libraries traced, with tremendous changes occurring between 1966 and 1990?",
+    "answers": [
+      "1930s",
+      "1960s",
+      "1990s",
+      "2000s"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "1960s"
+    ]
+  },
+  {
+    "question": "Which of the following are listed as general goals of University Libraries? (Pick two)",
+    "answers": [
+      "To acquire print and non-print materials necessary to cover present-day and future teaching, learning, and research needs",
+      "To restrict access to international information resources to postgraduate students only",
+      "To contribute to the integration of both National and International information resources within the University",
+      "To hoard bibliographic knowledge so students rely strictly on staff"
+    ],
+    "correct_answer_indices": [
+      0,
+      2
+    ],
+    "correct_answers": [
+      "To acquire print and non-print materials necessary to cover present-day and future teaching, learning, and research needs",
+      "To contribute to the integration of both National and International information resources within the University"
+    ]
+  },
+  {
+    "question": "What is the primary aim of workshop sessions organized by subject librarians for students?",
+    "answers": [
+      "For library staff to carry out database searches on behalf of students",
+      "For students to learn for themselves how to handle searches on electronic media",
+      "To replace all printed textbooks with CD-ROMs",
+      "To grade students' final semester examinations"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "For students to learn for themselves how to handle searches on electronic media"
+    ]
+  },
+  {
+    "question": "What are the two main disadvantages of the traditional lecture method of library instruction?",
+    "answers": [
+      "It is only suitable for groups of fewer than five students and lacks visual aids",
+      "The speed of information delivery cannot be controlled by the receiver, and students play a fairly passive role",
+      "It requires expensive computers and high-speed internet access",
+      "It cannot be used during fresh students' orientation"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "The speed of information delivery cannot be controlled by the receiver, and students play a fairly passive role"
+    ]
+  },
+  {
+    "question": "Which user education method is ideal for small groups of about five or six students, fostering interaction and active searching for information retrieval tools?",
+    "answers": [
+      "The guided tour",
+      "Seminars, tutorials and demonstrations",
+      "Self-guiding signs",
+      "Mass orientation lectures"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Seminars, tutorials and demonstrations"
+    ]
+  },
+  {
+    "question": "Which traditional approach to library orientation is often given during students' first week when they have little or no motivation to actually use the library and follow passively round stations?",
+    "answers": [
+      "The guided tour",
+      "Individual instruction at the reference desk",
+      "Hands-on database workshops",
+      "Subject-based booklet exercises"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "The guided tour"
+    ]
+  },
+  {
+    "question": "The combination of video, sound, text, animation, and graphics tied together with a computer for user orientation is known as ________.",
+    "answers": [
+      "a printed guide",
+      "multimedia",
+      "a self-guiding material",
+      "an abstract journal"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "multimedia"
+    ]
+  },
+  {
+    "question": "Clear and attractive permanent signs indicating directions or instructions such as 'leave consulted books on the table' are examples of ________.",
+    "answers": [
+      "audio-visual methods",
+      "self-guiding materials",
+      "seminars and tutorials",
+      "bibliographic abstracts"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "self-guiding materials"
+    ]
+  },
+  {
+    "question": "What is a major advantage of a printed guide in library user education?",
+    "answers": [
+      "It eliminates the need for any library staff",
+      "It is available when required, allowing individual students to work at their own speed with easy visual diagrams",
+      "It automatically updates itself online",
+      "It is written using dense professional library jargon"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "It is available when required, allowing individual students to work at their own speed with easy visual diagrams"
+    ]
+  },
+  {
+    "question": "Why has individual help at the reference desk become particularly advantageous in modern university libraries?",
+    "answers": [
+      "Student numbers have increased without a corresponding increase in library staff/time to give adequate general explanations",
+      "Students are forbidden from asking questions during orientation",
+      "Reference desks no longer keep reference books",
+      "It completely replaces the need for library catalogues"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Student numbers have increased without a corresponding increase in library staff/time to give adequate general explanations"
+    ]
+  },
+  {
+    "question": "When did the LAUTECH Library come into existence?",
+    "answers": [
+      "July, 1990",
+      "August, 2006",
+      "January, 1978",
+      "October, 1994"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "July, 1990"
+    ]
+  },
+  {
+    "question": "How can a member of staff or student from another institution (such as the University of Lagos) use resources at LAUTECH Library?",
+    "answers": [
+      "By paying an annual tuition fee at the circulation desk",
+      "By producing a proper letter of identification/introduction from their institution's library or department",
+      "By presenting any commercial bank ID card",
+      "External visitors are strictly barred under all circumstances"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "By producing a proper letter of identification/introduction from their institution's library or department"
+    ]
+  },
+  {
+    "question": "Before a student can be registered to borrow books at LAUTECH Library, what must they produce?",
+    "answers": [
+      "A general clearance from the University",
+      "A recommendation letter from the Head of Reader's Services",
+      "Two passport photographs and a birth certificate",
+      "A receipt for overdue book fines"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "A general clearance from the University"
+    ]
+  },
+  {
+    "question": "How many borrower tickets are usually issued to students at LAUTECH Library, and after how many days can a lost ticket be replaced (with a fine)?",
+    "answers": [
+      "Two (2) tickets; replaced after 21 days",
+      "Four (4) tickets; replaced after 7 days",
+      "One (1) ticket; replaced after 14 days",
+      "Three (3) tickets; replaced after 30 days"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Two (2) tickets; replaced after 21 days"
+    ]
+  },
+  {
+    "question": "Why is eating or drinking any kind of food prohibited inside LAUTECH Library?",
+    "answers": [
+      "Because it makes the library floor slippery",
+      "Because food crumbs attract insects and rodents that are very destructive to books",
+      "Because food odors interfere with computer networks",
+      "Because only library staff are permitted to eat in reading halls"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Because food crumbs attract insects and rodents that are very destructive to books"
+    ]
+  },
+  {
+    "question": "Which of the following items are NOT allowed inside LAUTECH Library and must be kept in the rack near the entrance at the owner's risk? (Pick two)",
+    "answers": [
+      "Raincoats and umbrellas",
+      "Pens and notebooks",
+      "Laboratory coats and bags/hand folios",
+      "Student library identity cards"
+    ],
+    "correct_answer_indices": [
+      0,
+      2
+    ],
+    "correct_answers": [
+      "Raincoats and umbrellas",
+      "Laboratory coats and bags/hand folios"
+    ]
+  },
+  {
+    "question": "What disciplinary sanction applies to theft, mutilation, and defacing of books in LAUTECH Library?",
+    "answers": [
+      "A fine of N20.00 per day",
+      "Automatic expulsion from the Library",
+      "Suspension of borrowing privileges for 7 days",
+      "Seizure of the student's mobile phone"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Automatic expulsion from the Library"
+    ]
+  },
+  {
+    "question": "What happens if a student is found inside LAUTECH Library with a book bearing the stamp of another library or institution?",
+    "answers": [
+      "The book will be seized",
+      "The student is issued an extra borrower ticket",
+      "The book is automatically added to LAUTECH's reserve collection",
+      "Nothing, as inter-library books are unrestricted"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "The book will be seized"
+    ]
+  },
+  {
+    "question": "What is the overdue fine chargeable per day for keeping a borrowed book past its due date at LAUTECH Library?",
+    "answers": [
+      "N10.00 per day",
+      "N20.00 per day",
+      "N50.00 per day",
+      "N100.00 per day"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "N20.00 per day"
+    ]
+  },
+  {
+    "question": "When a user loses or damages a library book, what is required of them?",
+    "answers": [
+      "They must pay for the book plus an administrative cost",
+      "They only pay a flat N20.00 fine",
+      "They surrender one of their borrower tickets permanently",
+      "They are exempted if it is their first offense"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "They must pay for the book plus an administrative cost"
+    ]
+  },
+  {
+    "question": "Why should librarians NOT act as search intermediaries when patrons use an Online Public Access Catalog (OPAC), unless requested?",
+    "answers": [
+      "Because librarians do not have access to OPAC terminals",
+      "Because OPAC systems are user-friendly end-user systems designed to encourage independence and browsing",
+      "Because OPAC only stores staff administrative records",
+      "Because searching OPAC requires a paid subscription per query"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Because OPAC systems are user-friendly end-user systems designed to encourage independence and browsing"
+    ]
+  },
+  {
+    "question": "According to Allen (1990), what type of IT/OPAC training is suggested for library users?",
+    "answers": [
+      "Large auditorium lectures at the end of the session",
+      "Individualized 'point-of-use' instruction provided when the user is motivated by a specific study need",
+      "Mandatory written exams before entering the library",
+      "Group tours without computer access"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Individualized 'point-of-use' instruction provided when the user is motivated by a specific study need"
+    ]
+  },
+  {
+    "question": "According to Lambert (1994), meaningful user interaction with an OPAC requires competency in computers, knowledge of catalogues/cataloguing, knowledge of information retrieval, and ________.",
+    "answers": [
+      "fluency in at least three foreign languages",
+      "knowledge in the subject in which they are seeking information",
+      "certification in computer hardware engineering",
+      "prior experience as a library porter"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "knowledge in the subject in which they are seeking information"
+    ]
+  },
+  {
+    "question": "What are the two ways by which a library achieves its purpose of supporting the educational work of an institution?",
+    "answers": [
+      "By selling textbooks to students and restricting journal access",
+      "By providing users with the means of finding needed information and encouraging the habit of using books for information and pleasure",
+      "By replacing classroom lectures and grading student essays",
+      "By lending out reference materials for home study and charging fees"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "By providing users with the means of finding needed information and encouraging the habit of using books for information and pleasure"
+    ]
+  },
+  {
+    "question": "In the library's collection, how does a 'monograph' differ from a 'treatise'?",
+    "answers": [
+      "A monograph deals with a single topic in detail, whereas a treatise gives an extended treatment of a subject often written by several experts under a general editor",
+      "A monograph is a daily newspaper, whereas a treatise is a dictionary",
+      "A monograph is stored on microfilm, whereas a treatise is always an audio tape",
+      "A monograph is written by multiple editors, whereas a treatise is a brief pamphlet"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "A monograph deals with a single topic in detail, whereas a treatise gives an extended treatment of a subject often written by several experts under a general editor"
+    ]
+  },
+  {
+    "question": "What are the three major subdivisions of a typical book?",
+    "answers": [
+      "The dust jacket, the spine, and the cover",
+      "The preliminary pages, the main book, and the subsidiary pages",
+      "The title page, the glossary, and the index",
+      "The preface, the foreword, and the appendix"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "The preliminary pages, the main book, and the subsidiary pages"
+    ]
+  },
+  {
+    "question": "Which preliminary page of a book contains full bibliographical information including the full title, author's name, and imprint (place, publisher, and year of publication)?",
+    "answers": [
+      "Half-title page",
+      "Title page",
+      "Dedication page",
+      "Foreword"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Title page"
+    ]
+  },
+  {
+    "question": "Who typically writes the 'Foreword' of a book, as opposed to the 'Preface'?",
+    "answers": [
+      "The book's printer writes the foreword, while the publisher writes the preface",
+      "Someone knowledgeable in the field writes the foreword to introduce both the book and the author, while the author normally writes the preface",
+      "The author writes the foreword, while the librarian writes the preface",
+      "The editor writes the foreword, while the illustrator writes the preface"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Someone knowledgeable in the field writes the foreword to introduce both the book and the author, while the author normally writes the preface"
+    ]
+  },
+  {
+    "question": "What is the key difference between a 'Glossary' and an 'Index' in the subsidiary pages of a book?",
+    "answers": [
+      "A glossary is an alphabetical list of uncommon terms with their definitions, whereas an index is an alphabetical list of names and subjects with page numbers where they can be found",
+      "A glossary appears at the front of the book, whereas an index appears on the dust jacket",
+      "A glossary contains statistical tables, whereas an index lists cited authors",
+      "A glossary lists chapter headings, whereas an index defines foreign currencies"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "A glossary is an alphabetical list of uncommon terms with their definitions, whereas an index is an alphabetical list of names and subjects with page numbers where they can be found"
+    ]
+  },
+  {
+    "question": "Which subsidiary section of a book contains statistical data or supplementary charts not included in the main text?",
+    "answers": [
+      "Appendix",
+      "Bibliography",
+      "Half-title page",
+      "Imprint"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Appendix"
+    ]
+  },
+  {
+    "question": "Which unit of the library serves as the first point of contact with the user for enquiries regarding guides to the library, its stock, and how to use catalogues?",
+    "answers": [
+      "Circulation unit",
+      "Bindery unit",
+      "Acquisitions unit",
+      "Reprographic unit"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Circulation unit"
+    ]
+  },
+  {
+    "question": "What is the most common classification scheme used by academic libraries to shelve related materials close together for browsing?",
+    "answers": [
+      "Library of Congress Classification scheme",
+      "Universal Decimal Filing index",
+      "Alphabetical Author-Only system",
+      "Chronological Accession scheme"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Library of Congress Classification scheme"
+    ]
+  },
+  {
+    "question": "Which type of reference service involves a reader asking for a specific location within the library?",
+    "answers": [
+      "Directional query",
+      "Research question",
+      "Ready, quick reference question",
+      "Literature review query"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Directional query"
+    ]
+  },
+  {
+    "question": "How can a user easily identify a reference book in the library according to Nwalo (2003)?",
+    "answers": [
+      "It has a bright red cover and a two-week borrowing slip",
+      "It has no date-due slip, book pocket, or book card, and is stamped 'REFERENCE ONLY' on the title page",
+      "It is shelved exclusively in the circulation lobby",
+      "It contains a handwritten signature of the Vice-Chancellor"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "It has no date-due slip, book pocket, or book card, and is stamped 'REFERENCE ONLY' on the title page"
+    ]
+  },
+  {
+    "question": "Reference materials are grouped into which two major categories?",
+    "answers": [
+      "Materials specifically and directly for consultation only, and materials that refer to other specific publications",
+      "Hardcover textbooks and paperback novels",
+      "Free public domain pamphlets and overdue fine ledgers",
+      "Student theses and daily newspapers"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Materials specifically and directly for consultation only, and materials that refer to other specific publications"
+    ]
+  },
+  {
+    "question": "What is the basic difference between a dictionary and an encyclopaedia?",
+    "answers": [
+      "A dictionary gives general information about topics, while an encyclopaedia only checks spelling",
+      "A dictionary defines words (meaning, pronunciation, spelling, usage), while an encyclopaedia gives general or specialized background information about topics",
+      "A dictionary is arranged by subject, while an encyclopaedia is arranged by publication date",
+      "A dictionary is strictly digital, while an encyclopaedia is always single-volume"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "A dictionary defines words (meaning, pronunciation, spelling, usage), while an encyclopaedia gives general or specialized background information about topics"
+    ]
+  },
+  {
+    "question": "Around which century did the dictionary come into existence?",
+    "answers": [
+      "10th century",
+      "13th century",
+      "17th century",
+      "19th century"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "13th century"
+    ]
+  },
+  {
+    "question": "What is a 'gazetteer'?",
+    "answers": [
+      "An electronic spelling checker in a word processor",
+      "A geographical dictionary, especially one found at the back of an atlas",
+      "A dictionary giving the historical origins of words",
+      "A small pocket dictionary for foreign language learners"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "A geographical dictionary, especially one found at the back of an atlas"
+    ]
+  },
+  {
+    "question": "Which type of dictionary traces the historical origins and derivation of each word?",
+    "answers": [
+      "Etymological dictionary",
+      "Bilingual dictionary",
+      "Biographical dictionary",
+      "Pocket dictionary"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Etymological dictionary"
+    ]
+  },
+  {
+    "question": "In the 30-volume New Encyclopaedia Britannica (15th edition), which part acts as an index to the 19-volume Macropaedia?",
+    "answers": [
+      "The 1-volume Propaedia",
+      "The 10-volume Micropaedia",
+      "The Gazetteer",
+      "The Unabridged Lexicon"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "The 10-volume Micropaedia"
+    ]
+  },
+  {
+    "question": "What are the three structural parts of the New Encyclopaedia Britannica?",
+    "answers": [
+      "Propaedia (1 volume), Macropaedia (19 volumes), and Micropaedia (10 volumes)",
+      "Introduction (2 volumes), Body (20 volumes), and Glossary (8 volumes)",
+      "Lexicon (5 volumes), Atlas (15 volumes), and Directory (10 volumes)",
+      "Abstracts (10 volumes), Proceedings (10 volumes), and Monographs (10 volumes)"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Propaedia (1 volume), Macropaedia (19 volumes), and Micropaedia (10 volumes)"
+    ]
+  },
+  {
+    "question": "Which reference material contains an alphabetical or classified listing of names, addresses, and telephone numbers of persons, organizations, or business firms?",
+    "answers": [
+      "Directory",
+      "Almanac",
+      "Dissertation",
+      "Gazetteer"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Directory"
+    ]
+  },
+  {
+    "question": "How do 'Manuals' differ from 'Handbooks'?",
+    "answers": [
+      "Handbooks are concise, sketchy, and not voluminous for quick reference on established knowledge, whereas manuals provide detailed instructions/information on how to do something in a particular area",
+      "Handbooks are multi-volume encyclopaedias, whereas manuals are single-page flyers",
+      "Handbooks are written by undergraduate students, whereas manuals are written by novelists",
+      "Handbooks list telephone numbers, whereas manuals list biographical dates"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Handbooks are concise, sketchy, and not voluminous for quick reference on established knowledge, whereas manuals provide detailed instructions/information on how to do something in a particular area"
+    ]
+  },
+  {
+    "question": "Which reference source provides the best opportunity to discover the most recent developments in a field and expert reviews before they appear in standard textbooks?",
+    "answers": [
+      "Conference proceedings",
+      "Unabridged dictionaries",
+      "Telephone directories",
+      "Historical encyclopaedias"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Conference proceedings"
+    ]
+  },
+  {
+    "question": "What is 'Library Automation'?",
+    "answers": [
+      "The manual arrangement of catalogue cards by author surname",
+      "The application of computers to perform all or part of the tasks in a library",
+      "The construction of physical bookshelves using automated machinery",
+      "The printing of overdue fine receipts by library porters"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "The application of computers to perform all or part of the tasks in a library"
+    ]
+  },
+  {
+    "question": "How much data can a standard CD-ROM store according to the GST 121 study manual?",
+    "answers": [
+      "Up to 660 megabytes (equivalent to 1,800 floppy disks or 330,000 pages of paper)",
+      "Up to 1.44 megabytes (equivalent to 10 pages of paper)",
+      "Up to 50 gigabytes (equivalent to 1 million floppy disks)",
+      "Up to 64 kilobytes (equivalent to 300 pages of paper)"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Up to 660 megabytes (equivalent to 1,800 floppy disks or 330,000 pages of paper)"
+    ]
+  },
+  {
+    "question": "Which standard protocol suite is used by the Internet to link devices worldwide?",
+    "answers": [
+      "TCP/IP",
+      "HTML/CSS",
+      "ISBN/ISSN",
+      "CD-ROM/DVD"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "TCP/IP"
+    ]
+  },
+  {
+    "question": "Which of the following hardware components are required to access the Internet? (Pick two)",
+    "answers": [
+      "Modem and Router",
+      "Microfiche reader and Card catalogue",
+      "Personal Computer and Network card",
+      "Autofed scanner and Photocopier"
+    ],
+    "correct_answer_indices": [
+      0,
+      2
+    ],
+    "correct_answers": [
+      "Modem and Router",
+      "Personal Computer and Network card"
+    ]
+  },
+  {
+    "question": "What is the key difference between a Local Area Network (LAN) and a Wide Area Network (WAN)?",
+    "answers": [
+      "A LAN is confined to one building or campus site, whereas a WAN connects computers/networks over a wide geographical area such as different towns or continents",
+      "A LAN uses satellite links, whereas a WAN only uses single USB cables",
+      "A LAN is exclusively for public access, whereas a WAN cannot transmit data",
+      "A LAN stores audio files, whereas a WAN only stores text files"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "A LAN is confined to one building or campus site, whereas a WAN connects computers/networks over a wide geographical area such as different towns or continents"
+    ]
+  },
+  {
+    "question": "A company-wide or library-wide internal network that runs along the lines of the World Wide Web to share documents, databases, and applications internally is called an ________.",
+    "answers": [
+      "Intranet",
+      "Extranet",
+      "OPAC",
+      "Usenet"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Intranet"
+    ]
+  },
+  {
+    "question": "Which Internet service allows users to download and upload files and software between local and remote computers?",
+    "answers": [
+      "FTP (File Transfer Protocol) client",
+      "Voice mail",
+      "Facsimile (Fax)",
+      "Newsreader"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "FTP (File Transfer Protocol) client"
+    ]
+  },
+  {
+    "question": "Which of the following are major advantages of computerizing libraries? (Pick two)",
+    "answers": [
+      "Time saving and space saving/management",
+      "Elimination of electricity requirements",
+      "Resource sharing and current/up-to-date relevance",
+      "Zero initial setup cost"
+    ],
+    "correct_answer_indices": [
+      0,
+      2
+    ],
+    "correct_answers": [
+      "Time saving and space saving/management",
+      "Resource sharing and current/up-to-date relevance"
+    ]
+  },
+  {
+    "question": "Which of the following is a major problem facing the computerization of libraries in Less Developed Countries (LDCs) like Nigeria?",
+    "answers": [
+      "Excessive funding from government agencies",
+      "Erratic electricity, lack of telecommunications infrastructure, and inadequate funding",
+      "Too many trained systems analysts in rural libraries",
+      "Lack of student interest in using computers"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Erratic electricity, lack of telecommunications infrastructure, and inadequate funding"
+    ]
+  },
+  {
+    "question": "When did the National Universities Commission (NUC) launch the website of the Nigerian Virtual Library Project (www.nigerianvirtuallibrary.com)?",
+    "answers": [
+      "July 1990",
+      "August 2006",
+      "January 2000",
+      "May 2012"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "August 2006"
+    ]
+  }
+]

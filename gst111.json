@@ -1,0 +1,1084 @@
+[
+  {
+    "question": "________ is an activity that you undertake in order to gain knowledge which you can use in solving a problem.",
+    "answers": [
+      "Studying",
+      "Skimming",
+      "Outlining",
+      "Scanning"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Studying"
+    ]
+  },
+  {
+    "question": "What are the two learning skills needed simultaneously in note-taking?",
+    "answers": [
+      "Reading and writing skills",
+      "Listening and writing skills",
+      "Speaking and listening skills",
+      "Skimming and scanning skills"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Listening and writing skills"
+    ]
+  },
+  {
+    "question": "When developing your notes after a lecture, when should you expand all abbreviated parts and coinage in longhand?",
+    "answers": [
+      "On the same day",
+      "Within one week",
+      "Just before the examination",
+      "During the next lecture"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "On the same day"
+    ]
+  },
+  {
+    "question": "Note-making is a productive process of learning on your own that involves which two essential language skills?",
+    "answers": [
+      "Listening and speaking",
+      "Reading and writing",
+      "Listening and reading",
+      "Speaking and writing"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Reading and writing"
+    ]
+  },
+  {
+    "question": "According to the study guide, the best place to make notes is the ________.",
+    "answers": [
+      "classroom",
+      "hostel room",
+      "library",
+      "cafeteria"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "library"
+    ]
+  },
+  {
+    "question": "Which reading skill is recommended in your first reading of a material to grasp the general view and gist of the entire text?",
+    "answers": [
+      "Scanning",
+      "Skimming",
+      "Intensive reading",
+      "Outlining"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Skimming"
+    ]
+  },
+  {
+    "question": "Which reading skill is used when reading a material a second time to search for definite answers to specific questions?",
+    "answers": [
+      "Skimming",
+      "Extensive reading",
+      "Scanning",
+      "Vocalization"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Scanning"
+    ]
+  },
+  {
+    "question": "Grouping items together to help memorize them (such as writing a phone number as 080-2231-7591) is known as ________.",
+    "answers": [
+      "association",
+      "chunking",
+      "acronyms",
+      "decoding"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "chunking"
+    ]
+  },
+  {
+    "question": "The memory aid that involves creating a word from the first letters of a list of words or expressions (e.g., WHO) is called ________.",
+    "answers": [
+      "chunking",
+      "visualization",
+      "association",
+      "acronyms"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "acronyms"
+    ]
+  },
+  {
+    "question": "The ability to decipher clear relationships among ideas, important points from illustrations, examples, and digressions is ________.",
+    "answers": [
+      "observation",
+      "quick thinking",
+      "skimming",
+      "hearing"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "quick thinking"
+    ]
+  },
+  {
+    "question": "Which of the following is a physiological factor that affects comprehension?",
+    "answers": [
+      "Auditory and visual problems",
+      "Anxiety and worry",
+      "Memory span",
+      "Fatigue and ill-health"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Auditory and visual problems"
+    ]
+  },
+  {
+    "question": "________ relates to your ability to understand any spoken or written material because you are able to use the language of communication effectively.",
+    "answers": [
+      "Psychological factor",
+      "Physiological factor",
+      "Linguistic factor",
+      "Environmental factor"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Linguistic factor"
+    ]
+  },
+  {
+    "question": "A personal timetable will only be useful when you use it ________.",
+    "answers": [
+      "occasionally",
+      "every other week",
+      "every other day",
+      "judiciously"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "judiciously"
+    ]
+  },
+  {
+    "question": "Which vocabulary resource is a collection of synonymous, antonymous, and specialized meanings that helps when seeking the most appropriate word?",
+    "answers": [
+      "Encyclopedia",
+      "Thesaurus",
+      "Gazetteer",
+      "Glossary"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Thesaurus"
+    ]
+  },
+  {
+    "question": "According to the International Listening Association, listening is the process of receiving, constructing meaning from, and ________ to spoken and/or non-verbal messages.",
+    "answers": [
+      "adjusting",
+      "responding",
+      "adapting",
+      "amounting"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "responding"
+    ]
+  },
+  {
+    "question": "________ is a natural and passive process which requires little or no conscious effort.",
+    "answers": [
+      "Listening",
+      "Writing",
+      "Reading",
+      "Hearing"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "Hearing"
+    ]
+  },
+  {
+    "question": "The three basic linear steps in listening include hearing, understanding, and ________.",
+    "answers": [
+      "judging",
+      "acquitting",
+      "arresting",
+      "playing"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "judging"
+    ]
+  },
+  {
+    "question": "All of these tools can be used for retaining information during the listening process EXCEPT ________.",
+    "answers": [
+      "paraphrasing",
+      "repetition",
+      "adaptation",
+      "visualization"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "adaptation"
+    ]
+  },
+  {
+    "question": "Which type of purposive active listening is employed to distinguish between facts and opinions or logical and emotional arguments?",
+    "answers": [
+      "Serious listening",
+      "Critical listening",
+      "Discriminative listening",
+      "Social listening"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Critical listening"
+    ]
+  },
+  {
+    "question": "Which of the following is identified as a bad listening habit?",
+    "answers": [
+      "Repeating the speech mentally",
+      "Criticising the speaker's delivery or appearance",
+      "Taking concise notes",
+      "Identifying primary ideas"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Criticising the speaker's delivery or appearance"
+    ]
+  },
+  {
+    "question": "How many consonants and vowels exist in Standard English, respectively?",
+    "answers": [
+      "20 consonants and 24 vowels",
+      "24 consonants and 20 vowels",
+      "15 consonants and 12 vowels",
+      "21 consonants and 5 vowels"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "24 consonants and 20 vowels"
+    ]
+  },
+  {
+    "question": "In English phonology, there are ________ voiced consonants and ________ voiceless consonants.",
+    "answers": [
+      "12; 12",
+      "15; 9",
+      "9; 15",
+      "14; 10"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "15; 9"
+    ]
+  },
+  {
+    "question": "Which of the following consonant sounds CANNOT start an English word?",
+    "answers": [
+      "/m/",
+      "/n/",
+      "/ŋ/",
+      "/j/"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "/ŋ/"
+    ]
+  },
+  {
+    "question": "English vowels are divided into ________ monophthongs (pure vowels) and ________ diphthongs.",
+    "answers": [
+      "12; 8",
+      "8; 12",
+      "10; 10",
+      "14; 6"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "12; 8"
+    ]
+  },
+  {
+    "question": "What is the most frequently occurring vowel sound in English, which only occurs in unstressed syllables?",
+    "answers": [
+      "/i:/",
+      "/æ/",
+      "/ə/ (schwa)",
+      "/u:/"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "/ə/ (schwa)"
+    ]
+  },
+  {
+    "question": "Choose the option that has the same consonant sound as the underlined letters in 'cheque'.",
+    "answers": [
+      "machine",
+      "chord",
+      "curve",
+      "ritual"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "ritual"
+    ]
+  },
+  {
+    "question": "Choose the option that has the same consonant sound as the underlined letters in 'laugh'.",
+    "answers": [
+      "caught",
+      "raft",
+      "dough",
+      "ghost"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "raft"
+    ]
+  },
+  {
+    "question": "In which of the following words is the letter 'p' silent?",
+    "answers": [
+      "psychology",
+      "apple",
+      "prank",
+      "cramp"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "psychology"
+    ]
+  },
+  {
+    "question": "Choose the option where primary stress is NOT on the second syllable.",
+    "answers": [
+      "induce",
+      "import (verb)",
+      "impose",
+      "river"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "river"
+    ]
+  },
+  {
+    "question": "Which intonation tune is basically used for declaratives, commands, and wh-questions?",
+    "answers": [
+      "Rising tune",
+      "Falling tune",
+      "Falling-rising tune",
+      "High-rising tune"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Falling tune"
+    ]
+  },
+  {
+    "question": "Which intonation tune is used to ask polar (Yes/No) questions, make polite requests, and reflect a doubtful attitude?",
+    "answers": [
+      "Falling tune",
+      "Flat tune",
+      "Rising tune",
+      "Low-falling tune"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Rising tune"
+    ]
+  },
+  {
+    "question": "A good speech presentation structure should include an introduction, a body, and a ________.",
+    "answers": [
+      "conclusion",
+      "middle",
+      "topic sentence",
+      "purpose"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "conclusion"
+    ]
+  },
+  {
+    "question": "In extensive reading, you read mainly for ________.",
+    "answers": [
+      "details",
+      "assignments",
+      "pleasure",
+      "examinations"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "pleasure"
+    ]
+  },
+  {
+    "question": "Which type of reading involves a close examination of a text for detail and analysis when the material will later be recalled, discussed, and evaluated?",
+    "answers": [
+      "Extensive reading",
+      "Intensive reading",
+      "Skimming",
+      "Recreational reading"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Intensive reading"
+    ]
+  },
+  {
+    "question": "Signal words such as 'despite', 'but', 'in spite of', and 'though' point to which direction of meaning?",
+    "answers": [
+      "Addition",
+      "Contrast",
+      "Condition",
+      "Cause/effect relations"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Contrast"
+    ]
+  },
+  {
+    "question": "Which bad reading habit involves whispering or pronouncing each word aloud while reading, thereby tying reading speed to speaking speed?",
+    "answers": [
+      "Sub-vocalization",
+      "Vocalization",
+      "Regression",
+      "Head movement"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Vocalization"
+    ]
+  },
+  {
+    "question": "Regression causes readers to ________.",
+    "answers": [
+      "go back always to reading what has been read before",
+      "move the head from left to right while reading",
+      "whisper the words to themselves while reading",
+      "point at words while reading"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "go back always to reading what has been read before"
+    ]
+  },
+  {
+    "question": "What are the four basic steps in the writing process?",
+    "answers": [
+      "Unity, coherence, originality, and mechanical accuracy",
+      "Planning, preparing a dominant thesis, preparing an outline, and paragraph development",
+      "Brainstorming, drafting, editing, and publishing",
+      "Brevity, clarity, originality, and punctuation"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Planning, preparing a dominant thesis, preparing an outline, and paragraph development"
+    ]
+  },
+  {
+    "question": "The four cardinal rules of writing are ________.",
+    "answers": [
+      "unity, dominant thesis, mechanical accuracy, and coherence",
+      "paragraph development, unity, mechanical accuracy, and brevity",
+      "mechanical accuracy, originality of ideas, unity, and dominant thesis",
+      "coherence, unity, originality of ideas, and mechanical accuracy"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "coherence, unity, originality of ideas, and mechanical accuracy"
+    ]
+  },
+  {
+    "question": "The type of writing that aims at securing your reader's acceptance of your opinion on a controversial topic is called ________.",
+    "answers": [
+      "narrative",
+      "expository",
+      "descriptive",
+      "argumentative"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "argumentative"
+    ]
+  },
+  {
+    "question": "Which type of writing aims mainly at educating and informing the reader by explaining a concept, idea, process, or procedure?",
+    "answers": [
+      "Expository writing",
+      "Narrative writing",
+      "Descriptive writing",
+      "Argumentative writing"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Expository writing"
+    ]
+  },
+  {
+    "question": "The type of summary writing that restricts you to specific instructions based on the number of words, sentences, or paragraphs is ________.",
+    "answers": [
+      "guarded summary",
+      "guided summary",
+      "unguided summary",
+      "unguarded summary"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "guided summary"
+    ]
+  },
+  {
+    "question": "What is the general length principle for an unguided summary?",
+    "answers": [
+      "One-half (1/2) of the original passage",
+      "One-third (1/3) of the original passage",
+      "One-quarter (1/4) of the original passage",
+      "Two-thirds (2/3) of the original passage"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "One-third (1/3) of the original passage"
+    ]
+  },
+  {
+    "question": "What are the three basic requirements for a good summary?",
+    "answers": [
+      "Unity, coherence, and accuracy",
+      "Brevity, clarity, and originality",
+      "Skimming, scanning, and outlining",
+      "Planning, drafting, and revising"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Brevity, clarity, and originality"
+    ]
+  },
+  {
+    "question": "In the hierarchical arrangement of grammatical units of language, which unit occupies the lowest level and which occupies the highest level?",
+    "answers": [
+      "Word (lowest) and Clause (highest)",
+      "Morpheme (lowest) and Sentence (highest)",
+      "Phoneme (lowest) and Paragraph (highest)",
+      "Morpheme (lowest) and Clause (highest)"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Morpheme (lowest) and Sentence (highest)"
+    ]
+  },
+  {
+    "question": "The smallest meaningful unit of grammar of a language is the ________.",
+    "answers": [
+      "morpheme",
+      "syllable",
+      "phrase",
+      "clause"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "morpheme"
+    ]
+  },
+  {
+    "question": "The type of bound morphemes that can change the word class (part of speech) of a root word is called ________.",
+    "answers": [
+      "replacive",
+      "inflectional",
+      "derivational",
+      "zero"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "derivational"
+    ]
+  },
+  {
+    "question": "Plural markers and tense markers are sub-groups of ________.",
+    "answers": [
+      "root morphemes",
+      "derivational morphemes",
+      "inflectional morphemes",
+      "free morphemes"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "inflectional morphemes"
+    ]
+  },
+  {
+    "question": "How many morphemes are present in the word 'unpreparedness'?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "4"
+    ]
+  },
+  {
+    "question": "Which of the following is an example of a content (lexical) word?",
+    "answers": [
+      "for",
+      "the",
+      "several",
+      "kind"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "kind"
+    ]
+  },
+  {
+    "question": "________ is an example of a compound word.",
+    "answers": [
+      "Boys",
+      "Felt",
+      "Landlord",
+      "Occasional"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Landlord"
+    ]
+  },
+  {
+    "question": "A group of related words without a subject and a finite verb is called a ________.",
+    "answers": [
+      "clause",
+      "phrase",
+      "sentence",
+      "morpheme"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "phrase"
+    ]
+  },
+  {
+    "question": "In the sentence 'Chief Olusegun Obasanjo, the President of Nigeria, will be at the wedding ceremony', the underlined expression 'the President of Nigeria' is an ________.",
+    "answers": [
+      "adjectival phrase",
+      "appositive phrase",
+      "adverbial phrase",
+      "infinitival phrase"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "appositive phrase"
+    ]
+  },
+  {
+    "question": "What is the grammatical function of the gerundive phrase in 'Smoking in public places is against the law'?",
+    "answers": [
+      "Object of the verb 'is'",
+      "Subject of the verb 'is'",
+      "Complement of the preposition",
+      "Appositive to the subject"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Subject of the verb 'is'"
+    ]
+  },
+  {
+    "question": "An elliptical form of a subordinate clause in which the subject and the verb 'be' (or its forms) are omitted (e.g., 'If possible, see me at noon') is called a ________.",
+    "answers": [
+      "noun clause",
+      "verbless clause",
+      "relative clause",
+      "main clause"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "verbless clause"
+    ]
+  },
+  {
+    "question": "Identify the structure of the sentence: 'The farmer toiled for so many months but could not realize sufficient harvests.'",
+    "answers": [
+      "Simple sentence",
+      "Compound sentence",
+      "Complex sentence",
+      "Compound-complex sentence"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Compound sentence"
+    ]
+  },
+  {
+    "question": "Identify the structure of the sentence: 'In spite of Modise's innumerable efforts to secure a visa to study nursing in the US last year, he was denied his wish continuously.'",
+    "answers": [
+      "Simple sentence",
+      "Compound sentence",
+      "Complex sentence",
+      "Compound-complex sentence"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "Simple sentence"
+    ]
+  },
+  {
+    "question": "A sentence that consists of at least two main clauses and at least one subordinate clause is classified as a ________.",
+    "answers": [
+      "simple sentence",
+      "compound sentence",
+      "complex sentence",
+      "compound-complex sentence"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "compound-complex sentence"
+    ]
+  },
+  {
+    "question": "All words in English are broadly categorized into ________ and ________ classes.",
+    "answers": [
+      "countable; uncountable",
+      "adverb; adjective",
+      "open; closed",
+      "pronoun; preposition"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "open; closed"
+    ]
+  },
+  {
+    "question": "Which of the following belongs to the closed word class?",
+    "answers": [
+      "Adverb",
+      "Adjective",
+      "Noun",
+      "Preposition"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "Preposition"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of open word classes? (Pick two)",
+    "answers": [
+      "Nouns",
+      "Prepositions",
+      "Lexical verbs",
+      "Conjunctions"
+    ],
+    "correct_answer_indices": [
+      0,
+      2
+    ],
+    "correct_answers": [
+      "Nouns",
+      "Lexical verbs"
+    ]
+  },
+  {
+    "question": "In the sentence 'Lola is the fourth child in her family', the determiner 'fourth' is an ________.",
+    "answers": [
+      "cardinal numeral",
+      "ordinal numeral",
+      "demonstrative",
+      "quantifier"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "ordinal numeral"
+    ]
+  },
+  {
+    "question": "Nouns that name groups or a collection of people, animals, or things as unified entities (e.g., audience, committee, family) are called ________.",
+    "answers": [
+      "proper nouns",
+      "abstract nouns",
+      "collective nouns",
+      "non-count nouns"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "collective nouns"
+    ]
+  },
+  {
+    "question": "In the sentence 'Lawal himself was present at the meeting', what type of pronoun is 'himself'?",
+    "answers": [
+      "Reflexive pronoun",
+      "Emphatic (intensive) pronoun",
+      "Reciprocal pronoun",
+      "Relative pronoun"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Emphatic (intensive) pronoun"
+    ]
+  },
+  {
+    "question": "Which type of verb takes a direct object to complete the sense of a sentence?",
+    "answers": [
+      "Intransitive verb",
+      "Transitive verb",
+      "Linking verb",
+      "Auxiliary verb"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "Transitive verb"
+    ]
+  },
+  {
+    "question": "The police claim that a number of stolen vehicles ________ recovered.",
+    "answers": [
+      "have been",
+      "has being",
+      "is being",
+      "has been"
+    ],
+    "correct_answer_indices": [
+      3
+    ],
+    "correct_answers": [
+      "has been"
+    ]
+  },
+  {
+    "question": "Indian summer is a period of mild weather ________ during the autumn.",
+    "answers": [
+      "occurring",
+      "it occurring",
+      "it occurs",
+      "occurs"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "occurring"
+    ]
+  },
+  {
+    "question": "Which grammatical mood is used to express wishes, desires, or prayers (e.g., 'We wish he were alive' or 'Long live the king')?",
+    "answers": [
+      "Declarative mood",
+      "Imperative mood",
+      "Subjunctive mood",
+      "Exclamatory mood"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "Subjunctive mood"
+    ]
+  },
+  {
+    "question": "Twenty years ________ too long to be away from home.",
+    "answers": [
+      "were",
+      "are",
+      "is",
+      "have been"
+    ],
+    "correct_answer_indices": [
+      2
+    ],
+    "correct_answers": [
+      "is"
+    ]
+  },
+  {
+    "question": "The driver, along with the car owner, ________ badly burnt in the accident.",
+    "answers": [
+      "was",
+      "were",
+      "must not",
+      "have"
+    ],
+    "correct_answer_indices": [
+      0
+    ],
+    "correct_answers": [
+      "was"
+    ]
+  },
+  {
+    "question": "The rule of concord in which the noun closer or closest to the verb determines the verb (common with 'either...or' and 'neither...nor') is called ________.",
+    "answers": [
+      "notional concord",
+      "proximity concord",
+      "grammatical concord",
+      "concord of ellipsis"
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "proximity concord"
+    ]
+  },
+  {
+    "question": "Which sentence demonstrates the correct order of adjectives according to the study guide?",
+    "answers": [
+      "The Nigerian tall intelligent young man won the prize.",
+      "The tall intelligent young Nigerian man won the prize.",
+      "The young tall Nigerian intelligent man won the prize.",
+      "The intelligent young tall Nigerian man won the prize."
+    ],
+    "correct_answer_indices": [
+      1
+    ],
+    "correct_answers": [
+      "The tall intelligent young Nigerian man won the prize."
+    ]
+  }
+]
